@@ -4,9 +4,11 @@ const MAP_ZOOM = 8;
 const DEPT_LABELS = { '44': 'Loire-Atl.', '49': 'Maine-et-L.', '53': 'Mayenne', '72': 'Sarthe', '85': 'Vendée' };
 const DEPT_COLORS = { '44': '#353089', '49': '#8b3a8b', '53': '#db2922', '72': '#1a8a4a', '85': '#d97706' };
 
-let map, clustersLayer, clubs = [], filtered = [];
+let map, markersLayer, clubs = [], filtered = [];
 let activeDept = '', activePractice = '';
 let currentClub = null;
+let satelliteMode = false;
+let layerClassic, layerSatellite, layerSatLabels;
 
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, c =>
     ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]));
@@ -165,17 +167,17 @@ function applyFilters() {
 }
 
 function renderMarkers(shouldZoom = false) {
-    clustersLayer.clearLayers();
+    markersLayer.clearLayers();
 
     filtered.forEach(c => {
         const color = getDeptColor(c.cp);
         const marker = L.marker([c.lat, c.lng], { icon: makeMarkerIcon(color) });
         marker.on('click', () => openPanel(c));
-        clustersLayer.addLayer(marker);
+        markersLayer.addLayer(marker);
     });
 
     if (shouldZoom && filtered.length > 0) {
-        const group = new L.featureGroup(clustersLayer.getLayers());
+        const group = new L.featureGroup(markersLayer.getLayers());
         if (group.getBounds().isValid()) {
             map.fitBounds(group.getBounds().pad(0.2), { maxZoom: 13 });
         }
@@ -237,10 +239,44 @@ async function init() {
 
     L.control.zoom({ position: 'bottomright' }).addTo(map);
 
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-        attribution: '© OpenStreetMap contributors © CARTO',
+    // Fond plan — OSM France (étiquettes en français)
+    layerClassic = L.tileLayer('https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png', {
+        attribution: '© OpenStreetMap France',
+        maxZoom: 20
+    });
+
+    // Fond satellite — ESRI World Imagery
+    layerSatellite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+        attribution: '© Esri — Source: Esri, Maxar, GeoEye, Earthstar Geographics',
         maxZoom: 19
-    }).addTo(map);
+    });
+
+    // Labels satellite (noms de villes par-dessus)
+    layerSatLabels = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}', {
+        maxZoom: 19,
+        opacity: 0.9
+    });
+
+    layerClassic.addTo(map);
+
+    // Bouton bascule satellite / plan
+    document.getElementById('btnSatellite').onclick = () => {
+        satelliteMode = !satelliteMode;
+        const btn = document.getElementById('btnSatellite');
+        if (satelliteMode) {
+            map.removeLayer(layerClassic);
+            layerSatellite.addTo(map);
+            layerSatLabels.addTo(map);
+            btn.classList.add('active');
+            btn.querySelector('span').textContent = 'Plan';
+        } else {
+            map.removeLayer(layerSatellite);
+            map.removeLayer(layerSatLabels);
+            layerClassic.addTo(map);
+            btn.classList.remove('active');
+            btn.querySelector('span').textContent = 'Satellite';
+        }
+    };
 
     // Frontières PDL
     try {
@@ -257,26 +293,7 @@ async function init() {
         }).addTo(map);
     } catch (e) { /* silencieux si hors ligne */ }
 
-    clustersLayer = L.markerClusterGroup({
-        showCoverageOnHover: false,
-        maxClusterRadius: 50,
-        iconCreateFunction: cluster => {
-            const count = cluster.getChildCount();
-            return L.divIcon({
-                html: `<div style="
-                    width:40px;height:40px;border-radius:50%;
-                    background:var(--blue);color:white;
-                    display:flex;align-items:center;justify-content:center;
-                    font-family:'Montserrat',sans-serif;font-weight:800;font-size:13px;
-                    border:3px solid white;box-shadow:0 2px 10px rgba(53,48,137,0.35);
-                ">${count}</div>`,
-                className: '',
-                iconSize: [40, 40],
-                iconAnchor: [20, 20]
-            });
-        }
-    });
-    clustersLayer.addTo(map);
+    markersLayer = L.layerGroup().addTo(map);
 
     // Fermeture panel
     document.getElementById('panelClose').onclick = closePanel;

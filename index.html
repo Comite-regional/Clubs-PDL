@@ -11,8 +11,6 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -39,6 +37,12 @@
         </div>
     </header>
 
+    <!-- Bouton vue satellite -->
+    <button id="btnSatellite" class="btn-satellite" title="Changer de fond de carte">
+        <i class="fas fa-satellite"></i>
+        <span>Satellite</span>
+    </button>
+
     <!-- Filtres -->
     <div class="filters-bar">
         <div class="dept-chips" id="deptChips">
@@ -63,7 +67,6 @@
     <div id="panelOverlay" class="panel-overlay"></div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
     <script src="app.js"></script>
 </body>
 </html>

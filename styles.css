@@ -448,20 +448,34 @@ a.contact-item:hover .contact-icon {
     font-weight: 600;
 }
 
-/* Leaflet cluster override */
-.marker-cluster-small,
-.marker-cluster-medium,
-.marker-cluster-large {
-    background-color: rgba(53,48,137,0.18) !important;
+/* Bouton satellite */
+.btn-satellite {
+    position: fixed;
+    bottom: 100px;
+    right: 16px;
+    z-index: 450;
+    background: var(--white);
+    border: 2px solid var(--gray-200);
+    border-radius: 20px;
+    padding: 8px 14px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--gray-600);
+    cursor: pointer;
+    box-shadow: var(--shadow-sm);
+    transition: all 0.2s;
 }
-.marker-cluster-small div,
-.marker-cluster-medium div,
-.marker-cluster-large div {
-    background-color: rgba(53,48,137,0.85) !important;
-    color: white !important;
-    font-family: 'Montserrat', sans-serif !important;
-    font-weight: 800 !important;
+.btn-satellite:hover,
+.btn-satellite.active {
+    background: var(--blue);
+    border-color: var(--blue);
+    color: var(--white);
 }
+.btn-satellite i { font-size: 13px; }
 
 /* ── RESPONSIVE ── */
 @media (max-width: 640px) {
