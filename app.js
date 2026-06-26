@@ -75,14 +75,6 @@ function renderPanel(c) {
                 <span class="contact-text">${esc(adresseLine)}</span>
             </a>`);
     }
-    const tel = c.telephone && String(c.telephone).replace(/[^0-9]/g,'').length >= 7 ? c.telephone : null;
-    if (tel) {
-        contactItems.push(`
-            <a class="contact-item" href="tel:${esc(tel)}">
-                <span class="contact-icon"><i class="fas fa-phone"></i></span>
-                <span class="contact-text">${esc(tel)}</span>
-            </a>`);
-    }
     const email = c.email && c.email.includes('@') ? c.email : null;
     if (email) {
         contactItems.push(`
