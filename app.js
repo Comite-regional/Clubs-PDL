@@ -166,6 +166,30 @@ function renderPanel(c) {
         </div>`;
         })() : ''}
 
+        ${c.arbitres?.length ? (() => {
+            const ARBITRE_CONFIG = {
+                'Arbitre Formateur': { short: 'FORMATEUR', color: '#7c3aed' },
+                'Arbitre Fédéral':   { short: 'FÉDÉRAL',   color: '#2563eb' },
+                'Jeune Arbitre':     { short: 'JEUNE ARB.', color: '#059669' },
+            };
+            const counts = {};
+            c.arbitres.forEach(a => {
+                const n = a.niveau || 'Autre';
+                counts[n] = (counts[n] || 0) + 1;
+            });
+            const badges = Object.entries(counts).map(([niv, n]) => {
+                const cfg = ARBITRE_CONFIG[niv] || { short: niv, color: '#64748b' };
+                return `<span class="diplome-badge" style="background:${cfg.color}22;color:${cfg.color};border-color:${cfg.color}44">
+                    <i class="fas fa-gavel" style="font-size:10px"></i> ${esc(cfg.short)}<span class="diplome-count">×${n}</span>
+                </span>`;
+            }).join('');
+            return `
+        <div class="panel-section">
+            <div class="panel-section-title">Arbitres (${c.arbitres.length})</div>
+            <div class="diplomes-grid">${badges}</div>
+        </div>`;
+        })() : ''}
+
         <div class="panel-section">
             <div class="panel-section-title">Disciplines pratiquées</div>
             <div class="pratiques-grid">${practiques}</div>
