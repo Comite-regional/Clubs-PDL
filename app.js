@@ -11,6 +11,26 @@ let currentClub = null;
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, c =>
     ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]));
 
+function makeLogoPlaceholder(nom, color) {
+    const initiales = nom.split(/\s+/).filter(Boolean).slice(0,2).map(w => w[0]).join('').toUpperCase();
+    return `<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+        <rect width="56" height="56" rx="10" fill="${color}33"/>
+        <text x="28" y="37" text-anchor="middle" font-family="Montserrat,sans-serif" font-weight="800" font-size="22" fill="${color}">${initiales}</text>
+    </svg>`;
+}
+
+function logoError(img, code) {
+    const c = clubs.find(x => x.code_structure === code);
+    if (c) img.parentElement.innerHTML = makeLogoPlaceholder(c.nom, getDeptColor(c.cp));
+}
+
+function logoLoad(img, code) {
+    // Détecte les images trop petites (placeholders vides ≤ 100px de large)
+    if (img.naturalWidth <= 100 || img.naturalHeight <= 50) {
+        logoError(img, code);
+    }
+}
+
 function getDeptColor(cp) {
     return DEPT_COLORS[String(cp).substring(0, 2)] || '#64748b';
 }
@@ -35,7 +55,7 @@ function makeMarkerIcon(color) {
 /** HTML du panel latéral pour un club **/
 function renderPanel(c) {
     const color = getDeptColor(c.cp);
-    const logoSrc = c.logo_url || 'assets/logo_cr_pdl.png';
+    const logoPlaceholder = makeLogoPlaceholder(c.nom, color);
 
     const labelBadge = (c.label_club && c.label_club !== 'Non' && c.label_club !== 'Aucun')
         ? `<div class="panel-label-badge"><img src="assets/label_${c.label_club.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'')}.png" alt="${esc(c.label_club)}" onerror="this.parentElement.style.display='none'"></div>`
@@ -64,11 +84,12 @@ function renderPanel(c) {
                 <span class="contact-text">${esc(tel)}</span>
             </a>`);
     }
-    if (c.email) {
+    const email = c.email && c.email.includes('@') ? c.email : null;
+    if (email) {
         contactItems.push(`
-            <a class="contact-item" href="mailto:${esc(c.email)}">
+            <a class="contact-item" href="mailto:${esc(email)}">
                 <span class="contact-icon"><i class="fas fa-envelope"></i></span>
-                <span class="contact-text">${esc(c.email)}</span>
+                <span class="contact-text">${esc(email)}</span>
             </a>`);
     }
     if (c.site) {
@@ -90,7 +111,11 @@ function renderPanel(c) {
     return `
     <div class="panel-hero" style="background: linear-gradient(135deg, ${color} 0%, ${color}cc 100%);">
         <div class="panel-logo-wrap">
-            <img src="${esc(logoSrc)}" alt="${esc(c.nom)}" onerror="this.src='assets/logo_cr_pdl.png'">
+            ${c.logo_url
+                ? `<img src="${esc(c.logo_url)}" alt="${esc(c.nom)}"
+                     onload="logoLoad(this,${c.code_structure})"
+                     onerror="logoError(this,${c.code_structure})">`
+                : logoPlaceholder}
         </div>
         <div class="panel-club-name">${esc(c.nom)}</div>
         <div class="panel-club-city"><i class="fas fa-map-marker-alt" style="margin-right:5px;opacity:0.8"></i>${esc(c.ville)} — ${esc(c.departement || '')}</div>
