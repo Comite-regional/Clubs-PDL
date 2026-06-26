@@ -25,10 +25,7 @@ function logoError(img, code) {
 }
 
 function logoLoad(img, code) {
-    // Détecte les images trop petites (placeholders vides ≤ 100px de large)
-    if (img.naturalWidth <= 100 || img.naturalHeight <= 50) {
-        logoError(img, code);
-    }
+    // Image chargée — rien à faire, on l'affiche telle quelle
 }
 
 function getDeptColor(cp) {
