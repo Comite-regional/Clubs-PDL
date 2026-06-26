@@ -1,0 +1,7123 @@
+[
+  {
+    "code_structure": 1244001,
+    "nom": "CIE D ARC DE GUERANDE",
+    "adresse": "29 AVENUE GUSTAVE FLAUBERT",
+    "cp": "44350",
+    "ville": "GUERANDE",
+    "lat": 47.3439559936523,
+    "lon": -2.41627955436707,
+    "email": "ciedarcdeguerande@gmail.com",
+    "telephone": "0.0",
+    "site": "https://ciedarcdeguerande.wixsite.com/2019",
+    "logo_url": "logos/club_1244001.png",
+    "licences_total": 63,
+    "pourcentage_jeunes": 17.5,
+    "nb_arbitres": 3,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "DEJEPS",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 26,
+    "nb_hommes": 37,
+    "nb_para": 2,
+    "pct_femmes": 41.3,
+    "pct_para": 3.2,
+    "label_club": "Ambition",
+    "jeunes_licencies": 20,
+    "jeunes_competiteurs_18m": 8,
+    "pct_jeunes_competiteurs_18m": 40.0,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 3,
+    "president": "Mme BOQUET MELANIE",
+    "arbitres": [
+      {
+        "nom": "FOIGNY Maëllys",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "TOUZET Beatrice",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "TOUZET Genevieve",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "CADORET Franck",
+        "diplome": "DEJEPS"
+      },
+      {
+        "nom": "RONDINEAU Thomas",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "TOUZET GENEVIEVE",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 42,
+    "licences_loisir": 21,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 66.7,
+    "pct_licences_loisir": 33.3,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 25,
+    "pct_competiteurs_18m_licence_competition": 59.5
+  },
+  {
+    "code_structure": 1244002,
+    "nom": "ARCHERS DE ST HERBLAIN",
+    "adresse": "BOULEVARD SALVADOR ALLENDE",
+    "cp": "44800",
+    "ville": "SAINT-HERBLAIN",
+    "lat": 47.217400207687035,
+    "lon": -1.622366309165955,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "https://archersdesaintherblain.fr",
+    "logo_url": "logos/club_1244002.png",
+    "licences_total": 129,
+    "pourcentage_jeunes": 6.2,
+    "nb_arbitres": 3,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 2
+      },
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 37,
+    "nb_hommes": 92,
+    "nb_para": 6,
+    "pct_femmes": 28.7,
+    "pct_para": 4.7,
+    "label_club": null,
+    "jeunes_licencies": 19,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0.0,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D",
+      "Para"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 3,
+    "president": "M AGOSTINI Jules",
+    "arbitres": [
+      {
+        "nom": "LE BARS Christian",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "SABATTIER Pierre",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "VAILLANT Gilles",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BOSMAN JEAN-PHILIPPE",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "ROY OLIVIER",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "THEPAULT Gwenaelle",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 107,
+    "licences_loisir": 20,
+    "licences_dirigeant": 5,
+    "pct_licences_competition": 81.1,
+    "pct_licences_loisir": 15.2,
+    "pct_licences_dirigeant": 3.8,
+    "competiteurs_18m_licence_competition": 22,
+    "pct_competiteurs_18m_licence_competition": 20.6
+  },
+  {
+    "code_structure": 1244003,
+    "nom": "ARCHERS THOUAREENS",
+    "adresse": "RUE DE LA CLEMENCIERE",
+    "cp": "44470",
+    "ville": "THOUARE SUR LOIRE",
+    "lat": 47.2763,
+    "lon": -1.43162,
+    "email": "archersthouareens@yahoo.fr",
+    "telephone": "676011084.0",
+    "site": "http://archers-thouareens.sportsregions.fr",
+    "logo_url": "logos/club_1244003.png",
+    "licences_total": 85,
+    "pourcentage_jeunes": 30.6,
+    "nb_arbitres": 2,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 3
+      },
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 2
+      }
+    ],
+    "nb_femmes": 28,
+    "nb_hommes": 57,
+    "nb_para": 1,
+    "pct_femmes": 32.9,
+    "pct_para": 1.2,
+    "label_club": "Ambition",
+    "jeunes_licencies": 34,
+    "jeunes_competiteurs_18m": 11,
+    "pct_jeunes_competiteurs_18m": 32.4,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir beursault"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Beursault"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 5,
+    "president": "M GUIET PHILIPPE",
+    "arbitres": [
+      {
+        "nom": "ERCOLINO Laurent",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "MONNET Pierrick",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "CHERHAL Fanch",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "DELAPORTE Kevin",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "LABARRE Davia",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "NAUD PATRICK",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "NAUD SANDRA",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 63,
+    "licences_loisir": 22,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 74.1,
+    "pct_licences_loisir": 25.9,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 36,
+    "pct_competiteurs_18m_licence_competition": 57.1
+  },
+  {
+    "code_structure": 1244004,
+    "nom": "CIE D'ARC OLIVIER DE CLISSON",
+    "adresse": "RUE ESPLANADE DE KLETTGAU",
+    "cp": "44190",
+    "ville": "CLISSON",
+    "lat": 47.0758,
+    "lon": -1.2631,
+    "email": "ber_naud@orange.fr",
+    "telephone": "241565471.0",
+    "site": null,
+    "logo_url": "logos/club_1244004.png",
+    "licences_total": 42,
+    "pourcentage_jeunes": 23.8,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 19,
+    "nb_hommes": 23,
+    "nb_para": 0,
+    "pct_femmes": 45.2,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 14,
+    "jeunes_competiteurs_18m": 1,
+    "pct_jeunes_competiteurs_18m": 7.1,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir beursault"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Beursault"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 2,
+    "president": "M NAUD Bernard",
+    "arbitres": [
+      {
+        "nom": "LE ROCH Edith",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BOUTOLLEAU Gerald",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "NAUD Bernard",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 41,
+    "licences_loisir": 0,
+    "licences_dirigeant": 1,
+    "pct_licences_competition": 97.6,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 2.4,
+    "competiteurs_18m_licence_competition": 18,
+    "pct_competiteurs_18m_licence_competition": 43.9
+  },
+  {
+    "code_structure": 1244005,
+    "nom": "ARCHERS DU GOTHA",
+    "adresse": "56 RUE DES MAITRES",
+    "cp": "44150",
+    "ville": "ST GEREON",
+    "lat": 47.3950538635254,
+    "lon": -1.1469247341156,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "https://archersdugotha.fr/",
+    "logo_url": "logos/club_1244005.png",
+    "licences_total": 46,
+    "pourcentage_jeunes": 13.0,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 14,
+    "nb_hommes": 32,
+    "nb_para": 0,
+    "pct_femmes": 30.4,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 13,
+    "jeunes_competiteurs_18m": 3,
+    "pct_jeunes_competiteurs_18m": 23.1,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Para"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 1,
+    "president": "Mme MARTIN Murielle",
+    "arbitres": [],
+    "entraineurs": [
+      {
+        "nom": "MARTIN Mathieu",
+        "diplome": "Entraîneur Fédéral"
+      }
+    ],
+    "licences_competition": 39,
+    "licences_loisir": 7,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 84.8,
+    "pct_licences_loisir": 15.2,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 17,
+    "pct_competiteurs_18m_licence_competition": 43.6
+  },
+  {
+    "code_structure": 1244006,
+    "nom": "ASS. DU QUARTIER DE DOULON",
+    "adresse": "45 RUE JEAN JACQUES AUDUBON",
+    "cp": "44300",
+    "ville": "NANTES",
+    "lat": 47.239306199999994,
+    "lon": -1.5036003,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "http://a.q.d.free.fr",
+    "logo_url": "logos/club_1244006.png",
+    "licences_total": 24,
+    "pourcentage_jeunes": 16.7,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 4,
+    "nb_hommes": 20,
+    "nb_para": 0,
+    "pct_femmes": 16.7,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 4,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0.0,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M ROQUES Benoit-Alfred",
+    "arbitres": [],
+    "entraineurs": [],
+    "licences_competition": 24,
+    "licences_loisir": 0,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 100.0,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 11,
+    "pct_competiteurs_18m_licence_competition": 45.8
+  },
+  {
+    "code_structure": 1244008,
+    "nom": "LES ARCHERS DU BIGNON",
+    "adresse": "1 RUE DU STADE",
+    "cp": "44140",
+    "ville": "LE BIGNON",
+    "lat": 47.1003909,
+    "lon": -1.489124550137264,
+    "email": "archersdubignon@gmail.com",
+    "telephone": "0.0",
+    "site": "https://les-archers-du-bignon.jimdo.com/",
+    "logo_url": "logos/club_1244008.png",
+    "licences_total": 57,
+    "pourcentage_jeunes": 17.5,
+    "nb_arbitres": 2,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 22,
+    "nb_hommes": 35,
+    "nb_para": 2,
+    "pct_femmes": 38.6,
+    "pct_para": 3.5,
+    "label_club": null,
+    "jeunes_licencies": 17,
+    "jeunes_competiteurs_18m": 5,
+    "pct_jeunes_competiteurs_18m": 29.4,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 1,
+    "president": "M TENAILLEAU Gael",
+    "arbitres": [
+      {
+        "nom": "ANGEBAUD Romain",
+        "niveau": "Jeune Arbitre"
+      },
+      {
+        "nom": "TENAILLEAU Gael",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BERNARD-DROUET Patrick",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 56,
+    "licences_loisir": 0,
+    "licences_dirigeant": 1,
+    "pct_licences_competition": 98.2,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 1.8,
+    "competiteurs_18m_licence_competition": 18,
+    "pct_competiteurs_18m_licence_competition": 32.1
+  },
+  {
+    "code_structure": 1244009,
+    "nom": "ARCHERS DE L'ERDRE",
+    "adresse": "ESPACE SPORTIF LA FORÊT ESPLANADE PIERRE DE COUBERTIN",
+    "cp": "44470",
+    "ville": "CARQUEFOU",
+    "lat": 47.282810012528586,
+    "lon": -1.481029987335205,
+    "email": "president@archersdelerdre.info",
+    "telephone": "0.0",
+    "site": "https://www.archersdelerdre.fr",
+    "logo_url": "logos/club_1244009.png",
+    "licences_total": 162,
+    "pourcentage_jeunes": 16.7,
+    "nb_arbitres": 4,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "DEJEPS",
+        "nb": 1
+      },
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur 2",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 57,
+    "nb_hommes": 105,
+    "nb_para": 5,
+    "pct_femmes": 35.2,
+    "pct_para": 3.1,
+    "label_club": "Excellence",
+    "jeunes_licencies": 41,
+    "jeunes_competiteurs_18m": 7,
+    "pct_jeunes_competiteurs_18m": 17.1,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir beursault",
+      "Run Archery",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "3D",
+      "Beursault",
+      "Para",
+      "Run Archery"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 4,
+    "president": "M LE GUE Ioan",
+    "arbitres": [
+      {
+        "nom": "BOUCHART Jean Luc",
+        "niveau": "Arbitre Formateur"
+      },
+      {
+        "nom": "BUSSONNIERE Fabian",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "JOBERT Alexandra",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "LEROUX Bernard",
+        "niveau": "Arbitre Formateur"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BOUCHART Jean Luc",
+        "diplome": "Entraîneur 2"
+      },
+      {
+        "nom": "CADORET Franck",
+        "diplome": "DEJEPS"
+      },
+      {
+        "nom": "FONVIELLE Charles-Antoine",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "LE GUE Ioan",
+        "diplome": "Entraîneur Fédéral"
+      }
+    ],
+    "licences_competition": 161,
+    "licences_loisir": 0,
+    "licences_dirigeant": 1,
+    "pct_licences_competition": 99.4,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 0.6,
+    "competiteurs_18m_licence_competition": 60,
+    "pct_competiteurs_18m_licence_competition": 37.3
+  },
+  {
+    "code_structure": 1244010,
+    "nom": "CIE LES FLECHES DONGEOISES",
+    "adresse": "RUE DU STADE",
+    "cp": "44480",
+    "ville": "DONGES",
+    "lat": 47.3331146240234,
+    "lon": -2.07211685180664,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "http://www.flechesdongeoises.com",
+    "logo_url": "logos/club_1244010.png",
+    "licences_total": 42,
+    "pourcentage_jeunes": 11.9,
+    "nb_arbitres": 2,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 7,
+    "nb_hommes": 35,
+    "nb_para": 0,
+    "pct_femmes": 16.7,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 8,
+    "jeunes_competiteurs_18m": 1,
+    "pct_jeunes_competiteurs_18m": 12.5,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir beursault"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Beursault"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M CADORET ROMUALD",
+    "arbitres": [
+      {
+        "nom": "BAUDICHAUD Ghislain",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "LORENT Rene",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [],
+    "licences_competition": 42,
+    "licences_loisir": 0,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 100.0,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 19,
+    "pct_competiteurs_18m_licence_competition": 45.2
+  },
+  {
+    "code_structure": 1244011,
+    "nom": "B.G.A.C.",
+    "adresse": "RUE DU GRIGNON",
+    "cp": "44115",
+    "ville": "BASSE-GOULAINE",
+    "lat": 47.2169142,
+    "lon": -1.4677001,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "https://bgac.wordpress.com/",
+    "logo_url": "logos/club_1244011.png",
+    "licences_total": 50,
+    "pourcentage_jeunes": 26.0,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 2
+      }
+    ],
+    "nb_femmes": 16,
+    "nb_hommes": 34,
+    "nb_para": 0,
+    "pct_femmes": 32.0,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 22,
+    "jeunes_competiteurs_18m": 1,
+    "pct_jeunes_competiteurs_18m": 4.5,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 2,
+    "president": "M ARNAUD Julien",
+    "arbitres": [],
+    "entraineurs": [
+      {
+        "nom": "ETOURNEAU KEVIN",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "GEFFROY Bruno",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 49,
+    "licences_loisir": 1,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 98.0,
+    "pct_licences_loisir": 2.0,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 13,
+    "pct_competiteurs_18m_licence_competition": 26.5
+  },
+  {
+    "code_structure": 1244012,
+    "nom": "LES ARCHERS DU VAL DE SEVRE",
+    "adresse": "RUE DES ABBÉS COURTAIS",
+    "cp": "44690",
+    "ville": "MAISDON SUR SEVRE",
+    "lat": 47.0965449,
+    "lon": -1.3823889,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "http://les-archers-du-val-de-sevre.sportsregions.fr/?logout=657745",
+    "logo_url": "logos/club_1244012.png",
+    "licences_total": 26,
+    "pourcentage_jeunes": 7.7,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 2",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 6,
+    "nb_hommes": 20,
+    "nb_para": 1,
+    "pct_femmes": 23.1,
+    "pct_para": 3.8,
+    "label_club": null,
+    "jeunes_licencies": 5,
+    "jeunes_competiteurs_18m": 2,
+    "pct_jeunes_competiteurs_18m": 40.0,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 1,
+    "president": "M CANTAT PATRICK",
+    "arbitres": [],
+    "entraineurs": [
+      {
+        "nom": "LEMOIGNE Pascal",
+        "diplome": "Entraîneur 2"
+      }
+    ],
+    "licences_competition": 25,
+    "licences_loisir": 0,
+    "licences_dirigeant": 1,
+    "pct_licences_competition": 96.2,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 3.8,
+    "competiteurs_18m_licence_competition": 11,
+    "pct_competiteurs_18m_licence_competition": 44.0
+  },
+  {
+    "code_structure": 1244013,
+    "nom": "ARC'HAYE",
+    "adresse": "ALLÉE DES SPORTS",
+    "cp": "44690",
+    "ville": "LA HAIE-FOUASSIÈRE",
+    "lat": 47.1623137,
+    "lon": -1.4072662,
+    "email": "archaye44@gmail.com",
+    "telephone": "0.0",
+    "site": "http://archaye.fr",
+    "logo_url": "logos/club_1244013.png",
+    "licences_total": 29,
+    "pourcentage_jeunes": 24.1,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 6,
+    "nb_hommes": 23,
+    "nb_para": 1,
+    "pct_femmes": 20.7,
+    "pct_para": 3.4,
+    "label_club": "Espoir",
+    "jeunes_licencies": 9,
+    "jeunes_competiteurs_18m": 1,
+    "pct_jeunes_competiteurs_18m": 11.1,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Para"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 1,
+    "president": "Mme BRENOT Delphine",
+    "arbitres": [
+      {
+        "nom": "MASSION Maxence",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "MASSION Maxence",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 26,
+    "licences_loisir": 3,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 89.7,
+    "pct_licences_loisir": 10.3,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 18,
+    "pct_competiteurs_18m_licence_competition": 69.2
+  },
+  {
+    "code_structure": 1244015,
+    "nom": "A.S.C.E. TIR A L'ARC",
+    "adresse": "AVENUE DU BOIS ROBIN",
+    "cp": "44500",
+    "ville": "LA BAULE ESCOUBLAC",
+    "lat": 47.2909317016602,
+    "lon": -2.35378766059875,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "http://ascearclabaule-escoublac.clubeo.com/",
+    "logo_url": "logos/club_1244015.png",
+    "licences_total": 66,
+    "pourcentage_jeunes": 18.2,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 19,
+    "nb_hommes": 47,
+    "nb_para": 1,
+    "pct_femmes": 28.8,
+    "pct_para": 1.5,
+    "label_club": null,
+    "jeunes_licencies": 15,
+    "jeunes_competiteurs_18m": 1,
+    "pct_jeunes_competiteurs_18m": 6.7,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 1,
+    "president": "M LEBOUC Andre",
+    "arbitres": [
+      {
+        "nom": "LEBOUC Andre",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "EL KOURI Salim",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 66,
+    "licences_loisir": 0,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 100.0,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 13,
+    "pct_competiteurs_18m_licence_competition": 19.7
+  },
+  {
+    "code_structure": 1244016,
+    "nom": "LES ARCHERS DES TOUCHES",
+    "adresse": "RUE MONT JUILLET",
+    "cp": "44390",
+    "ville": "LES TOUCHES",
+    "lat": 47.44320506466162,
+    "lon": -1.434558510780346,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "https://lesarchersdestouches.wordpress.com",
+    "logo_url": "logos/club_1244016.png",
+    "licences_total": 17,
+    "pourcentage_jeunes": 11.8,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Initiateur",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 6,
+    "nb_hommes": 11,
+    "nb_para": 0,
+    "pct_femmes": 35.3,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 8,
+    "jeunes_competiteurs_18m": 4,
+    "pct_jeunes_competiteurs_18m": 50.0,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 1,
+    "president": "M GAILLET NICOLAS",
+    "arbitres": [],
+    "entraineurs": [
+      {
+        "nom": "WOLKA YANNICK",
+        "diplome": "Initiateur"
+      }
+    ],
+    "licences_competition": 16,
+    "licences_loisir": 1,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 94.1,
+    "pct_licences_loisir": 5.9,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 8,
+    "pct_competiteurs_18m_licence_competition": 50.0
+  },
+  {
+    "code_structure": 1244017,
+    "nom": "A.S.CORDEMAIS TIR ARC",
+    "adresse": "RUE DE LA LOIRE",
+    "cp": "44360",
+    "ville": "CORDEMAIS",
+    "lat": 47.2931213378906,
+    "lon": -1.7746000289917,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "http://tir-arc-cordemais.jimdo.com/",
+    "logo_url": "logos/club_1244017.png",
+    "licences_total": 42,
+    "pourcentage_jeunes": 23.8,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 18,
+    "nb_hommes": 24,
+    "nb_para": 0,
+    "pct_femmes": 42.9,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 12,
+    "jeunes_competiteurs_18m": 2,
+    "pct_jeunes_competiteurs_18m": 16.7,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M ROBERT CYRIL",
+    "arbitres": [],
+    "entraineurs": [],
+    "licences_competition": 41,
+    "licences_loisir": 0,
+    "licences_dirigeant": 1,
+    "pct_licences_competition": 97.6,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 2.4,
+    "competiteurs_18m_licence_competition": 7,
+    "pct_competiteurs_18m_licence_competition": 17.1
+  },
+  {
+    "code_structure": 1244018,
+    "nom": "LA FLECHE RAGONNAISE",
+    "adresse": "RUE DES POYAUX",
+    "cp": "44400",
+    "ville": "REZE",
+    "lat": 47.1764984130859,
+    "lon": -1.54979300498962,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "http://laflecheragonnaise.jimdo.com",
+    "logo_url": "logos/club_1244018.png",
+    "licences_total": 50,
+    "pourcentage_jeunes": 16.0,
+    "nb_arbitres": 3,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 4
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 14,
+    "nb_hommes": 36,
+    "nb_para": 0,
+    "pct_femmes": 28.0,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 13,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0.0,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 5,
+    "president": "M DEPEYRE PASCAL",
+    "arbitres": [
+      {
+        "nom": "DEPEYRE Pascal",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "DEPEYRE Sylvain",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "LE GUEN Teilo",
+        "niveau": "Jeune Arbitre"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BOUTIN LAURENT",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "DEPEYRE PASCAL",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "DEPEYRE Sylvain",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "NOVERRAZ Samuel",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "RICHOU Bernard",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 49,
+    "licences_loisir": 1,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 98.0,
+    "pct_licences_loisir": 2.0,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 9,
+    "pct_competiteurs_18m_licence_competition": 18.4
+  },
+  {
+    "code_structure": 1244019,
+    "nom": "COMPAGNIE DES ARCHERS DU BRIVET",
+    "adresse": "BOULEVARD PELLE DE QUERAL",
+    "cp": "44160",
+    "ville": "PONTCHATEAU",
+    "lat": 47.440094,
+    "lon": -2.101946,
+    "email": "greg.guibert44@free.fr",
+    "telephone": "240458399.0",
+    "site": "https://lesarchersdubrivet.jimdofree.com/",
+    "logo_url": "logos/club_1244019.png",
+    "licences_total": 31,
+    "pourcentage_jeunes": 22.6,
+    "nb_arbitres": 2,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 11,
+    "nb_hommes": 20,
+    "nb_para": 1,
+    "pct_femmes": 35.5,
+    "pct_para": 3.2,
+    "label_club": null,
+    "jeunes_licencies": 7,
+    "jeunes_competiteurs_18m": 3,
+    "pct_jeunes_competiteurs_18m": 42.9,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M GUIBERT GREGORY",
+    "arbitres": [
+      {
+        "nom": "GUIBERT Anya",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "GUIBERT Gregory",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [],
+    "licences_competition": 31,
+    "licences_loisir": 0,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 100.0,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 7,
+    "pct_competiteurs_18m_licence_competition": 22.6
+  },
+  {
+    "code_structure": 1244021,
+    "nom": "CIE DES ARCHERS DU PE",
+    "adresse": "8 RUE MENDES FRANCE",
+    "cp": "44640",
+    "ville": "SAINT JEAN DE BOISEAU",
+    "lat": 47.19212083368839,
+    "lon": -1.725904953717032,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "http://lesarchersdupe.jimdo.com/",
+    "logo_url": "logos/club_1244021.png",
+    "licences_total": 31,
+    "pourcentage_jeunes": 25.8,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 3
+      }
+    ],
+    "nb_femmes": 13,
+    "nb_hommes": 18,
+    "nb_para": 0,
+    "pct_femmes": 41.9,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 11,
+    "jeunes_competiteurs_18m": 1,
+    "pct_jeunes_competiteurs_18m": 9.1,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 3,
+    "president": "M BROUSSARD Arnaud",
+    "arbitres": [],
+    "entraineurs": [
+      {
+        "nom": "BATY Gael",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "BROUSSARD Arnaud",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "PLESSIS VINCENT",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
+    "licences_competition": 21,
+    "licences_loisir": 10,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 67.7,
+    "pct_licences_loisir": 32.3,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 8,
+    "pct_competiteurs_18m_licence_competition": 38.1
+  },
+  {
+    "code_structure": 1244022,
+    "nom": "CIE ARCHERS BOUGUENAIS",
+    "adresse": "1 RUE PABLO NERUDA",
+    "cp": "44340",
+    "ville": "BOUGUENAIS",
+    "lat": 47.1707611083984,
+    "lon": -1.61663579940796,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "https://cabouguenais.jimdofree.com/",
+    "logo_url": "logos/club_1244022.png",
+    "licences_total": 37,
+    "pourcentage_jeunes": 8.1,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 2
+      }
+    ],
+    "nb_femmes": 11,
+    "nb_hommes": 26,
+    "nb_para": 1,
+    "pct_femmes": 29.7,
+    "pct_para": 2.7,
+    "label_club": null,
+    "jeunes_licencies": 6,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0.0,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Para"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 2,
+    "president": "M BURON Marc",
+    "arbitres": [
+      {
+        "nom": "HADDOU Redwene",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BEAUDOUIN PASCAL",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "LERAY Gilles",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
+    "licences_competition": 37,
+    "licences_loisir": 0,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 100.0,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 16,
+    "pct_competiteurs_18m_licence_competition": 43.2
+  },
+  {
+    "code_structure": 1244024,
+    "nom": "LES ARCHERS NAZAIRIENS",
+    "adresse": "152-154 BOULEVARD ÉMILE BROODCOORENS BROODCOORENS",
+    "cp": "44600",
+    "ville": "SAINT-NAZAIRE",
+    "lat": 47.267896,
+    "lon": -2.244754117346938,
+    "email": "archersnazairiens@gmail.com",
+    "telephone": "0.0",
+    "site": "https://archersnazairiens.fr/",
+    "logo_url": "logos/club_1244024.png",
+    "licences_total": 90,
+    "pourcentage_jeunes": 7.8,
+    "nb_arbitres": 2,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Assistant Entraîneur",
+        "nb": 2
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 2
+      }
+    ],
+    "nb_femmes": 27,
+    "nb_hommes": 63,
+    "nb_para": 1,
+    "pct_femmes": 30.0,
+    "pct_para": 1.1,
+    "label_club": null,
+    "jeunes_licencies": 13,
+    "jeunes_competiteurs_18m": 1,
+    "pct_jeunes_competiteurs_18m": 7.7,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir beursault"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Beursault"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 4,
+    "president": "M ROY THIERRY",
+    "arbitres": [
+      {
+        "nom": "CHAILLOU Patrice",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "GUEMENE Romain",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "DEMRY MAURICE",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "GERBAUD Francis",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "PERRAY YANNICK",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "ROBERT DOMINIQUE",
+        "diplome": "Assistant Entraîneur"
+      }
+    ],
+    "licences_competition": 70,
+    "licences_loisir": 17,
+    "licences_dirigeant": 3,
+    "pct_licences_competition": 77.8,
+    "pct_licences_loisir": 18.9,
+    "pct_licences_dirigeant": 3.3,
+    "competiteurs_18m_licence_competition": 23,
+    "pct_competiteurs_18m_licence_competition": 32.9
+  },
+  {
+    "code_structure": 1244025,
+    "nom": "ETOILE SPORTIVE COUERONNAISE",
+    "adresse": "RUE JEAN-CLAUDE MAISONNEUVE",
+    "cp": "44220",
+    "ville": "COUËRON",
+    "lat": 47.2128261,
+    "lon": -1.738148599816991,
+    "email": "archersdecoueron@gmail.com",
+    "telephone": "240432800.0",
+    "site": "https://archersdecoueron.wixsite.com/website/categories-d-ages",
+    "logo_url": "logos/club_1244025.png",
+    "licences_total": 69,
+    "pourcentage_jeunes": 46.4,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 4
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 30,
+    "nb_hommes": 39,
+    "nb_para": 1,
+    "pct_femmes": 43.5,
+    "pct_para": 1.4,
+    "label_club": "Ambition",
+    "jeunes_licencies": 37,
+    "jeunes_competiteurs_18m": 9,
+    "pct_jeunes_competiteurs_18m": 24.3,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir 3D"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "3D"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 6,
+    "president": "M MARCHAND Alexis",
+    "arbitres": [],
+    "entraineurs": [
+      {
+        "nom": "ARCHER Antoine",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "BONNAND Jean-Marie",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "LABAT PATRICK",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "LANCELEUR REMI",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "MARCHAND Alexis",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "RADIGOIS Martin",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
+    "licences_competition": 69,
+    "licences_loisir": 0,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 100.0,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 18,
+    "pct_competiteurs_18m_licence_competition": 26.1
+  },
+  {
+    "code_structure": 1244027,
+    "nom": "LES ARCHERS MONTOIRINS",
+    "adresse": "AVENUE DE LORRAINE",
+    "cp": "44550",
+    "ville": "MONTOIR-DE-BRETAGNE",
+    "lat": 47.33273302762825,
+    "lon": -2.149619621105105,
+    "email": "lesarchersmontoirins@gmail.com",
+    "telephone": "0.0",
+    "site": null,
+    "logo_url": "logos/club_1244027.png",
+    "licences_total": 23,
+    "pourcentage_jeunes": 4.3,
+    "nb_arbitres": 2,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 6,
+    "nb_hommes": 17,
+    "nb_para": 0,
+    "pct_femmes": 26.1,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 2,
+    "jeunes_competiteurs_18m": 2,
+    "pct_jeunes_competiteurs_18m": 100.0,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M RENAUD ROMAIN",
+    "arbitres": [
+      {
+        "nom": "OUAIRY Dylan",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "RENAUD Romain",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [],
+    "licences_competition": 23,
+    "licences_loisir": 0,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 100.0,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 17,
+    "pct_competiteurs_18m_licence_competition": 73.9
+  },
+  {
+    "code_structure": 1244028,
+    "nom": "LES ARCHERS PIRIACAIS",
+    "adresse": "22 RUE GRAIN ALLÉE DE LA GRANDE CROSSE KERDINIO",
+    "cp": "44420",
+    "ville": "PIRIAC SUR MER",
+    "lat": 47.3736877441406,
+    "lon": -2.48987078666687,
+    "email": "les.archers.piriacais@gmail.com",
+    "telephone": "950290325.0",
+    "site": "http://lesarcherspiriacais.jimdo.com/",
+    "logo_url": "logos/club_1244028.png",
+    "licences_total": 51,
+    "pourcentage_jeunes": 17.6,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur 2",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 17,
+    "nb_hommes": 34,
+    "nb_para": 0,
+    "pct_femmes": 33.3,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 12,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0.0,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Para"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 2,
+    "president": "M DUAULT PASCAL",
+    "arbitres": [
+      {
+        "nom": "DUAULT Pascal",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "PORTAL Muriel",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "VIAUD BERTRAND",
+        "diplome": "Entraîneur 2"
+      }
+    ],
+    "licences_competition": 49,
+    "licences_loisir": 0,
+    "licences_dirigeant": 2,
+    "pct_licences_competition": 96.1,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 3.9,
+    "competiteurs_18m_licence_competition": 16,
+    "pct_competiteurs_18m_licence_competition": 32.7
+  },
+  {
+    "code_structure": 1244029,
+    "nom": "ARCHERS SUD ESTUAIRE",
+    "adresse": "RUE DES ACACIAS",
+    "cp": "44320",
+    "ville": "SAINT VIAUD",
+    "lat": 47.256075,
+    "lon": -2.02102,
+    "email": "archerssudestuaire@gmail.com",
+    "telephone": "768461622.0",
+    "site": null,
+    "logo_url": "logos/club_1244029.png",
+    "licences_total": 22,
+    "pourcentage_jeunes": 22.7,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 2
+      }
+    ],
+    "nb_femmes": 5,
+    "nb_hommes": 17,
+    "nb_para": 0,
+    "pct_femmes": 22.7,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 5,
+    "jeunes_competiteurs_18m": 1,
+    "pct_jeunes_competiteurs_18m": 20.0,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature",
+      "Tir beursault",
+      "Run Archery",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D",
+      "Beursault",
+      "Para",
+      "Run Archery"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 2,
+    "president": "M BOMPOIL NICOLAS",
+    "arbitres": [],
+    "entraineurs": [
+      {
+        "nom": "BOMPOIL NICOLAS",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "MORICEAU SERGE",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 15,
+    "licences_loisir": 8,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 65.2,
+    "pct_licences_loisir": 34.8,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 9,
+    "pct_competiteurs_18m_licence_competition": 60.0
+  },
+  {
+    "code_structure": 1244031,
+    "nom": "ARC NATURE VALLETAIS",
+    "adresse": "11 BOULEVARD PUSTERLE",
+    "cp": "44330",
+    "ville": "VALLET",
+    "lat": 47.1715,
+    "lon": -1.26147,
+    "email": "arcnaturevalletais2.0@gmail.com",
+    "telephone": "635938268.0",
+    "site": "http://www.arcnaturevalletais.fr/",
+    "logo_url": "logos/club_1244031.png",
+    "licences_total": 52,
+    "pourcentage_jeunes": 25.0,
+    "nb_arbitres": 2,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 2
+      }
+    ],
+    "nb_femmes": 19,
+    "nb_hommes": 33,
+    "nb_para": 1,
+    "pct_femmes": 36.5,
+    "pct_para": 1.9,
+    "label_club": null,
+    "jeunes_licencies": 18,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0.0,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 2,
+    "president": "M TEILLET Sylvain",
+    "arbitres": [
+      {
+        "nom": "GUERRY Alex",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "LIVERNAIS Xavier",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "HAMELIN Alexandra",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "MANDIN Fabien",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 49,
+    "licences_loisir": 1,
+    "licences_dirigeant": 2,
+    "pct_licences_competition": 94.2,
+    "pct_licences_loisir": 1.9,
+    "pct_licences_dirigeant": 3.8,
+    "competiteurs_18m_licence_competition": 7,
+    "pct_competiteurs_18m_licence_competition": 14.3
+  },
+  {
+    "code_structure": 1244035,
+    "nom": "ARCHERS DE LA MEE",
+    "adresse": "RUE DE LA LIBÉRATION",
+    "cp": "44110",
+    "ville": "CHÂTEAUBRIANT",
+    "lat": 47.7142812,
+    "lon": -1.3791009,
+    "email": "floriancommunal@gmail.com",
+    "telephone": "33631305386.0",
+    "site": "http://archersdelamee.org/",
+    "logo_url": "logos/club_1244035.png",
+    "licences_total": 53,
+    "pourcentage_jeunes": 18.9,
+    "nb_arbitres": 4,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 4
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 2
+      },
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 13,
+    "nb_hommes": 40,
+    "nb_para": 3,
+    "pct_femmes": 24.5,
+    "pct_para": 5.7,
+    "label_club": "Ambition",
+    "jeunes_licencies": 15,
+    "jeunes_competiteurs_18m": 6,
+    "pct_jeunes_competiteurs_18m": 40.0,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 7,
+    "president": "M COMMUNAL Philippe",
+    "arbitres": [
+      {
+        "nom": "COMMUNAL Philippe",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "CRUSSON Luc",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "LEFEUVRE Jerome",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "MARRAZZU Emma",
+        "niveau": "Jeune Arbitre"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BENOIT Celine",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "COMMUNAL FLORIAN",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "CRUSSON LEO",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "CRUSSON SEBASTIEN",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "GROSEIL Thierry",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "LEVEILLE Cynthia",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "ROULIN DIDIER",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 42,
+    "licences_loisir": 8,
+    "licences_dirigeant": 3,
+    "pct_licences_competition": 79.2,
+    "pct_licences_loisir": 15.1,
+    "pct_licences_dirigeant": 5.7,
+    "competiteurs_18m_licence_competition": 20,
+    "pct_competiteurs_18m_licence_competition": 47.6
+  },
+  {
+    "code_structure": 1244036,
+    "nom": "LES FLECHES TURBALLAISES",
+    "adresse": "ALLÉE DES SPORTS",
+    "cp": "44420",
+    "ville": "LA TURBALLE",
+    "lat": 47.3736877441406,
+    "lon": -2.48987078666687,
+    "email": "0",
+    "telephone": "0.0",
+    "site": null,
+    "logo_url": "logos/club_1244036.png",
+    "licences_total": 16,
+    "pourcentage_jeunes": 31.2,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 2,
+    "nb_hommes": 14,
+    "nb_para": 1,
+    "pct_femmes": 12.5,
+    "pct_para": 6.2,
+    "label_club": null,
+    "jeunes_licencies": 6,
+    "jeunes_competiteurs_18m": 4,
+    "pct_jeunes_competiteurs_18m": 66.7,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature",
+      "Tir beursault"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D",
+      "Beursault"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M JUBE Benjamin",
+    "arbitres": [
+      {
+        "nom": "CAMPFORT Jordane",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [],
+    "licences_competition": 16,
+    "licences_loisir": 0,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 100.0,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 11,
+    "pct_competiteurs_18m_licence_competition": 68.8
+  },
+  {
+    "code_structure": 1244041,
+    "nom": "CIE ARCHERS DE VERTOU",
+    "adresse": "42 ROUTE DU MORTIER VANNERIE",
+    "cp": "44120",
+    "ville": "VERTOU",
+    "lat": 47.1603,
+    "lon": -1.4709,
+    "email": "president@vertouarc.fr",
+    "telephone": "0.0",
+    "site": "http://www.vertouarc.fr",
+    "logo_url": "logos/club_1244041.png",
+    "licences_total": 85,
+    "pourcentage_jeunes": 17.6,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 27,
+    "nb_hommes": 58,
+    "nb_para": 4,
+    "pct_femmes": 31.8,
+    "pct_para": 4.7,
+    "label_club": null,
+    "jeunes_licencies": 21,
+    "jeunes_competiteurs_18m": 3,
+    "pct_jeunes_competiteurs_18m": 14.3,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Para"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "Mme ROBIN Martine",
+    "arbitres": [
+      {
+        "nom": "PIVETEAU Thierry",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [],
+    "licences_competition": 75,
+    "licences_loisir": 9,
+    "licences_dirigeant": 1,
+    "pct_licences_competition": 88.2,
+    "pct_licences_loisir": 10.6,
+    "pct_licences_dirigeant": 1.2,
+    "competiteurs_18m_licence_competition": 23,
+    "pct_competiteurs_18m_licence_competition": 30.7
+  },
+  {
+    "code_structure": 1244042,
+    "nom": "ARCHERS D'ORVAULT",
+    "adresse": "108 B AVENUE CLAUDE ANTOINE PECCOT",
+    "cp": "44700",
+    "ville": "ORVAULT",
+    "lat": 47.250789,
+    "lon": -1.61026,
+    "email": "archers.orvault@gmail.com",
+    "telephone": "240947387.0",
+    "site": "http://www.archersdorvault.com",
+    "logo_url": "logos/club_1244042.png",
+    "licences_total": 58,
+    "pourcentage_jeunes": 8.6,
+    "nb_arbitres": 3,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 18,
+    "nb_hommes": 40,
+    "nb_para": 0,
+    "pct_femmes": 31.0,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 11,
+    "jeunes_competiteurs_18m": 5,
+    "pct_jeunes_competiteurs_18m": 45.5,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "3D"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 3,
+    "president": "Mme QUILY Floriane",
+    "arbitres": [
+      {
+        "nom": "BESCOND RABALLAND Camille",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "RELANDEAU Xavier",
+        "niveau": "Arbitre Formateur"
+      },
+      {
+        "nom": "VENTROUX Virginie",
+        "niveau": "Arbitre Formateur"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "ARAUD Dylan",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "FRAIN Eric",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "QUILY Floriane",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
+    "licences_competition": 53,
+    "licences_loisir": 5,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 91.4,
+    "pct_licences_loisir": 8.6,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 32,
+    "pct_competiteurs_18m_licence_competition": 60.4
+  },
+  {
+    "code_structure": 1244044,
+    "nom": "ARCHERS NANTAIS",
+    "adresse": "RUE DE LA MAINGUAIS",
+    "cp": "44470",
+    "ville": "CARQUEFOU",
+    "lat": 47.28175016610972,
+    "lon": -1.48826146125792,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "https://archers-nantais.org",
+    "logo_url": "logos/club_1244044.png",
+    "licences_total": 71,
+    "pourcentage_jeunes": 28.2,
+    "nb_arbitres": 2,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur 2",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 31,
+    "nb_hommes": 40,
+    "nb_para": 1,
+    "pct_femmes": 43.7,
+    "pct_para": 1.4,
+    "label_club": "Ambition",
+    "jeunes_licencies": 20,
+    "jeunes_competiteurs_18m": 9,
+    "pct_jeunes_competiteurs_18m": 45.0,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature",
+      "Tir beursault",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D",
+      "Beursault",
+      "Para"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 4,
+    "president": "M QUEMENER Damien",
+    "arbitres": [
+      {
+        "nom": "HERCELIN Bernard",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "SALIOU Dominique",
+        "niveau": "Arbitre Formateur"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "HERCELIN BERNARD",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "QUEMENER Damien",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "SALIOU DOMINIQUE",
+        "diplome": "Entraîneur 2"
+      },
+      {
+        "nom": "VERONNEAU Frederic",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
+    "licences_competition": 71,
+    "licences_loisir": 1,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 98.6,
+    "pct_licences_loisir": 1.4,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 27,
+    "pct_competiteurs_18m_licence_competition": 38.0
+  },
+  {
+    "code_structure": 1244046,
+    "nom": "LES ARCHERS PORNICAIS",
+    "adresse": "30 BIS RUE DES BUISSONNETS",
+    "cp": "44210",
+    "ville": "PORNIC",
+    "lat": 47.1222076416016,
+    "lon": -2.05186343193054,
+    "email": "archers.pornicais@yahoo.fr",
+    "telephone": "240824365.0",
+    "site": "http://www.archers-pornic.org/",
+    "logo_url": "logos/club_1244046.png",
+    "licences_total": 124,
+    "pourcentage_jeunes": 17.7,
+    "nb_arbitres": 2,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur 2",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 42,
+    "nb_hommes": 82,
+    "nb_para": 1,
+    "pct_femmes": 33.9,
+    "pct_para": 0.8,
+    "label_club": null,
+    "jeunes_licencies": 31,
+    "jeunes_competiteurs_18m": 9,
+    "pct_jeunes_competiteurs_18m": 29.0,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature",
+      "Tir beursault"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D",
+      "Beursault"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 3,
+    "president": "M LE ROCH ANDRE",
+    "arbitres": [
+      {
+        "nom": "PONSODA Stephane",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "PROVAIN Patrick",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "CONTENT Arnaud",
+        "diplome": "Entraîneur 2"
+      },
+      {
+        "nom": "LOIRAT THIERRY",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "RENAUDINEAU Henri",
+        "diplome": "Entraîneur Fédéral"
+      }
+    ],
+    "licences_competition": 91,
+    "licences_loisir": 34,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 72.8,
+    "pct_licences_loisir": 27.2,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 45,
+    "pct_competiteurs_18m_licence_competition": 49.5
+  },
+  {
+    "code_structure": 1244136,
+    "nom": "SAINTE-PAZANNE TIR A L'ARC",
+    "adresse": "ALLÉE DU PRESBYTÈRE",
+    "cp": "44680",
+    "ville": "SAINT-HILAIRE-DE-CHALÉONS",
+    "lat": 47.105081,
+    "lon": -1.867783721824168,
+    "email": "aurelienlallemand@hotmail.fr",
+    "telephone": "667754734.0",
+    "site": "http://spta44.fr/",
+    "logo_url": "logos/club_1244136.png",
+    "licences_total": 13,
+    "pourcentage_jeunes": 23.1,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 3,
+    "nb_hommes": 10,
+    "nb_para": 0,
+    "pct_femmes": 23.1,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 4,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0.0,
+    "departement": "44",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M CARRE JOHANN",
+    "arbitres": [],
+    "entraineurs": [],
+    "licences_competition": 12,
+    "licences_loisir": 1,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 92.3,
+    "pct_licences_loisir": 7.7,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 0,
+    "pct_competiteurs_18m_licence_competition": 0.0
+  },
+  {
+    "code_structure": 1249047,
+    "nom": "CIE DES ARCHERS DU S.O CANDEEN",
+    "adresse": "RUE DE LA GRENOUILLERE",
+    "cp": "49440",
+    "ville": "CANDE",
+    "lat": 47.55833794159828,
+    "lon": -1.029839188854973,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "https://archers-du-so-cande.jimdo.com/",
+    "logo_url": "logos/club_1249047.png",
+    "licences_total": 64,
+    "pourcentage_jeunes": 15.6,
+    "nb_arbitres": 2,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 3
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 2
+      }
+    ],
+    "nb_femmes": 18,
+    "nb_hommes": 46,
+    "nb_para": 2,
+    "pct_femmes": 28.1,
+    "pct_para": 3.1,
+    "label_club": null,
+    "jeunes_licencies": 18,
+    "jeunes_competiteurs_18m": 12,
+    "pct_jeunes_competiteurs_18m": 66.7,
+    "departement": "49",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Para"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 5,
+    "president": "M GLEMET ERIC",
+    "arbitres": [
+      {
+        "nom": "MOSSET Nicolas",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "TRIMAUD Annabelle",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "GLEMET ERIC",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "JOSSE Michael",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "PASQUIER Philippe",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "SORIN Benjamin",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "THOMAS Samuel",
+        "diplome": "Entraîneur Fédéral"
+      }
+    ],
+    "licences_competition": 60,
+    "licences_loisir": 2,
+    "licences_dirigeant": 2,
+    "pct_licences_competition": 93.8,
+    "pct_licences_loisir": 3.1,
+    "pct_licences_dirigeant": 3.1,
+    "competiteurs_18m_licence_competition": 33,
+    "pct_competiteurs_18m_licence_competition": 55.0
+  },
+  {
+    "code_structure": 1249049,
+    "nom": "ARCHERS DU VAL D'AUTHION",
+    "adresse": "4 RUE DES PALIS",
+    "cp": "49630",
+    "ville": "MAZÉ-MILON",
+    "lat": 47.45736557964613,
+    "lon": -0.271601947085321,
+    "email": "ava.maze49@gmail.com",
+    "telephone": "688865520.0",
+    "site": "http://www.ava-maze.com",
+    "logo_url": "logos/club_1249049.png",
+    "licences_total": 100,
+    "pourcentage_jeunes": 22.0,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 6
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 3
+      }
+    ],
+    "nb_femmes": 39,
+    "nb_hommes": 61,
+    "nb_para": 10,
+    "pct_femmes": 39.0,
+    "pct_para": 10.0,
+    "label_club": "Ambition",
+    "jeunes_licencies": 32,
+    "jeunes_competiteurs_18m": 8,
+    "pct_jeunes_competiteurs_18m": 25.0,
+    "departement": "49",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 9,
+    "president": "Mme PANTAIS Emilie",
+    "arbitres": [
+      {
+        "nom": "GOUIN Fabrice",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BLANCHE Jeremy",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "BOUTREUX MICHEL",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "BRAULT Clarisse",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "BRAULT Clemence",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "BRAULT Pascal",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "JOLIVET PASCAL",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "MOUNIER Christelle",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "PANTAIS Emilie",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "SUZANNE JEAN YVES",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
+    "licences_competition": 92,
+    "licences_loisir": 8,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 92.0,
+    "pct_licences_loisir": 8.0,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 27,
+    "pct_competiteurs_18m_licence_competition": 29.3
+  },
+  {
+    "code_structure": 1249050,
+    "nom": "TIR A L ARC CHOLETAIS",
+    "adresse": "13 RUE MARIE BAUDRY",
+    "cp": "49300",
+    "ville": "CHOLET",
+    "lat": 47.0459632873535,
+    "lon": -0.876963138580322,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "http://www.arc-cholet.com/",
+    "logo_url": "logos/club_1249050.png",
+    "licences_total": 78,
+    "pourcentage_jeunes": 26.9,
+    "nb_arbitres": 2,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "DEJEPS",
+        "nb": 1
+      },
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur 2",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 27,
+    "nb_hommes": 51,
+    "nb_para": 2,
+    "pct_femmes": 34.6,
+    "pct_para": 2.6,
+    "label_club": "Ambition",
+    "jeunes_licencies": 28,
+    "jeunes_competiteurs_18m": 5,
+    "pct_jeunes_competiteurs_18m": 17.9,
+    "departement": "49",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Run Archery",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "3D",
+      "Para",
+      "Run Archery"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 5,
+    "president": "M GARNIER Alexis",
+    "arbitres": [
+      {
+        "nom": "CORBEZ Fabrice",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "GUILLON Laetitia",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "AIRAUD STEPHANE",
+        "diplome": "DEJEPS"
+      },
+      {
+        "nom": "CORBEZ FABRICE",
+        "diplome": "Entraîneur 2"
+      },
+      {
+        "nom": "CORBEZ Pauline",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "LEFORT GABRIEL",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "POIRIER ROLAND",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 75,
+    "licences_loisir": 4,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 94.9,
+    "pct_licences_loisir": 5.1,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 35,
+    "pct_competiteurs_18m_licence_competition": 46.7
+  },
+  {
+    "code_structure": 1249052,
+    "nom": "LES ARCHERS DU MAY - ENERGIE",
+    "adresse": "26 RUE DES SPORTS",
+    "cp": "49122",
+    "ville": "BÉGROLLES-EN-MAUGES",
+    "lat": 47.13720249715816,
+    "lon": -0.894316140143708,
+    "email": "energietiralarc.lemay5@gmail.com",
+    "telephone": "253697724.0",
+    "site": null,
+    "logo_url": "logos/club_1249052.png",
+    "licences_total": 14,
+    "pourcentage_jeunes": 14.3,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 4,
+    "nb_hommes": 10,
+    "nb_para": 0,
+    "pct_femmes": 28.6,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 2,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0.0,
+    "departement": "49",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M ROBET CHRISTOPHE",
+    "arbitres": [
+      {
+        "nom": "DEFOIS Jean-Yves",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [],
+    "licences_competition": 13,
+    "licences_loisir": 0,
+    "licences_dirigeant": 1,
+    "pct_licences_competition": 92.9,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 7.1,
+    "competiteurs_18m_licence_competition": 1,
+    "pct_competiteurs_18m_licence_competition": 7.7
+  },
+  {
+    "code_structure": 1249054,
+    "nom": "LA FLECHE AU COEUR DES MAUGES",
+    "adresse": "1 RUE DE L'HIPPODROME BEAUPREAU",
+    "cp": "49600",
+    "ville": "BEAUPRÉAU-EN-MAUGES",
+    "lat": 47.1937705,
+    "lon": -0.993609796875,
+    "email": "ferand.alexandre@orange.fr",
+    "telephone": "241565770.0",
+    "site": "http://www.tiralarc-beaupreau.fr/",
+    "logo_url": "logos/club_1249054.png",
+    "licences_total": 41,
+    "pourcentage_jeunes": 31.7,
+    "nb_arbitres": 3,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 3
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 12,
+    "nb_hommes": 29,
+    "nb_para": 0,
+    "pct_femmes": 29.3,
+    "pct_para": 0.0,
+    "label_club": "Ambition",
+    "jeunes_licencies": 21,
+    "jeunes_competiteurs_18m": 8,
+    "pct_jeunes_competiteurs_18m": 38.1,
+    "departement": "49",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir nature",
+      "Tir beursault"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "Beursault"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 4,
+    "president": "M FERAND Alexandre",
+    "arbitres": [
+      {
+        "nom": "BOURREAU Olivier",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "COUTOLLEAU Caroline",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "FERAND Alexandre",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BOURREAU Olivier",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "JARRY Nicolas",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "TEMPLERAUD Herve",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "TEMPLERAUD Sandrine",
+        "diplome": "Entraîneur Fédéral"
+      }
+    ],
+    "licences_competition": 41,
+    "licences_loisir": 1,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 97.6,
+    "pct_licences_loisir": 2.4,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 19,
+    "pct_competiteurs_18m_licence_competition": 46.3
+  },
+  {
+    "code_structure": 1249056,
+    "nom": "S G T A - TIR A L'ARC",
+    "adresse": "37 ROUTE DE BOUCHEMAINE 37 ROUTE DE BOUCHEMAINE 37 ROUTE DE BOUCHEMAINE",
+    "cp": "49000",
+    "ville": "ANGERS",
+    "lat": 47.4914894104004,
+    "lon": -0.545029997825623,
+    "email": "sgta.communication@gmail.com",
+    "telephone": "620395505.0",
+    "site": "http://www.sgta-tir-a-larc.com",
+    "logo_url": "logos/club_1249056.png",
+    "licences_total": 138,
+    "pourcentage_jeunes": 12.3,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 4
+      },
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 2
+      },
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 35,
+    "nb_hommes": 103,
+    "nb_para": 1,
+    "pct_femmes": 25.4,
+    "pct_para": 0.7,
+    "label_club": "Ambition",
+    "jeunes_licencies": 23,
+    "jeunes_competiteurs_18m": 4,
+    "pct_jeunes_competiteurs_18m": 17.4,
+    "departement": "49",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D",
+      "Para"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 7,
+    "president": "M BEN AMAR Eric",
+    "arbitres": [
+      {
+        "nom": "BERTHET Helene",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "ACHER DUBOIS JEROME",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "BEN AMAR Eric",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "BERTHET Helene",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "CALBRY Philippe",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "FAUCHEUX YVES",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "LEFEBVRE FREDERIC",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "LOPEZ Jean Paul",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 136,
+    "licences_loisir": 0,
+    "licences_dirigeant": 2,
+    "pct_licences_competition": 98.6,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 1.4,
+    "competiteurs_18m_licence_competition": 38,
+    "pct_competiteurs_18m_licence_competition": 27.9
+  },
+  {
+    "code_structure": 1249058,
+    "nom": "LES ARCHERS DE L'AUBANCE",
+    "adresse": "RUE ÉMILE DESMAS",
+    "cp": "49610",
+    "ville": "MÛRS-ERIGNÉ",
+    "lat": 47.3949188,
+    "lon": -0.536564248621417,
+    "email": "contact@archers-aubance.fr",
+    "telephone": "0.0",
+    "site": "https://archersaubance.wixsite.com/website",
+    "logo_url": "logos/club_1249058.png",
+    "licences_total": 71,
+    "pourcentage_jeunes": 12.7,
+    "nb_arbitres": 4,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 5
+      }
+    ],
+    "nb_femmes": 26,
+    "nb_hommes": 45,
+    "nb_para": 1,
+    "pct_femmes": 36.6,
+    "pct_para": 1.4,
+    "label_club": null,
+    "jeunes_licencies": 17,
+    "jeunes_competiteurs_18m": 3,
+    "pct_jeunes_competiteurs_18m": 17.6,
+    "departement": "49",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 5,
+    "president": "M PELTIER Michael",
+    "arbitres": [
+      {
+        "nom": "CAMENEN Marie Helene",
+        "niveau": "Arbitre Formateur"
+      },
+      {
+        "nom": "DURAND Olivier",
+        "niveau": "Arbitre Formateur"
+      },
+      {
+        "nom": "FLOCH Francoise",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "JALLADEAU Alain",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "CHATELAIN JEAN-PAUL",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "FLOCH FRANCOISE",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "PELTIER Michael",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "PITON JEAN PIERRE",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "PITON MONIQUE",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 58,
+    "licences_loisir": 12,
+    "licences_dirigeant": 1,
+    "pct_licences_competition": 81.7,
+    "pct_licences_loisir": 16.9,
+    "pct_licences_dirigeant": 1.4,
+    "competiteurs_18m_licence_competition": 24,
+    "pct_competiteurs_18m_licence_competition": 41.4
+  },
+  {
+    "code_structure": 1249059,
+    "nom": "LA FLECHE MACAIROISE",
+    "adresse": "24 RUE DE BRETAGNE ST MACAIRE EN MAUGES",
+    "cp": "49450",
+    "ville": "SÈVREMOINE",
+    "lat": 47.1231765,
+    "lon": -0.9990955,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "https://sites.google.com/view/la-fleche-macairoise/accueil",
+    "logo_url": "logos/club_1249059.png",
+    "licences_total": 72,
+    "pourcentage_jeunes": 38.9,
+    "nb_arbitres": 4,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 3
+      }
+    ],
+    "nb_femmes": 19,
+    "nb_hommes": 53,
+    "nb_para": 0,
+    "pct_femmes": 26.4,
+    "pct_para": 0.0,
+    "label_club": "Espoir",
+    "jeunes_licencies": 36,
+    "jeunes_competiteurs_18m": 10,
+    "pct_jeunes_competiteurs_18m": 27.8,
+    "departement": "49",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 3,
+    "president": "M LE GOFF Laurent",
+    "arbitres": [
+      {
+        "nom": "BRIN Guillaume",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "BRIN Veronique",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "COUTANT Bastien",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "LANDREAU Lilian",
+        "niveau": "Jeune Arbitre"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BRIN Guillaume",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "DEVANNE JEROME",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "OLLIVIER Gilles",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 71,
+    "licences_loisir": 1,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 98.6,
+    "pct_licences_loisir": 1.4,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 25,
+    "pct_competiteurs_18m_licence_competition": 35.2
+  },
+  {
+    "code_structure": 1249060,
+    "nom": "A.S.D.N TIR A L'ARC - ARCHERS NOYANTAIS",
+    "adresse": "RUE DES SPORTS",
+    "cp": "49490",
+    "ville": "NOYANT",
+    "lat": 47.51411481928031,
+    "lon": 0.10947401725768,
+    "email": "archersnoyantais@gmail.com",
+    "telephone": "0.0",
+    "site": "https://archersnoyantais-noyant.sportsregions.fr/",
+    "logo_url": "logos/club_1249060.png",
+    "licences_total": 9,
+    "pourcentage_jeunes": 33.3,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 3,
+    "nb_hommes": 6,
+    "nb_para": 0,
+    "pct_femmes": 33.3,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 3,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0.0,
+    "departement": "49",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M MUSSAULT BENOIT",
+    "arbitres": [],
+    "entraineurs": [],
+    "licences_competition": 8,
+    "licences_loisir": 1,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 88.9,
+    "pct_licences_loisir": 11.1,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 0,
+    "pct_competiteurs_18m_licence_competition": 0.0
+  },
+  {
+    "code_structure": 1249061,
+    "nom": "LES ARCHERS CHEMILLOIS",
+    "adresse": "1 RUE DES COTEAUX DE CHIZÉ",
+    "cp": "49120",
+    "ville": "CHEMILLÉ-EN-ANJOU",
+    "lat": 47.2060674,
+    "lon": -0.7130686,
+    "email": "archerschemillois.secretaire@gmail.com",
+    "telephone": "777696211.0",
+    "site": null,
+    "logo_url": "logos/club_1249061.png",
+    "licences_total": 21,
+    "pourcentage_jeunes": 38.1,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 8,
+    "nb_hommes": 13,
+    "nb_para": 1,
+    "pct_femmes": 38.1,
+    "pct_para": 4.8,
+    "label_club": null,
+    "jeunes_licencies": 8,
+    "jeunes_competiteurs_18m": 2,
+    "pct_jeunes_competiteurs_18m": 25.0,
+    "departement": "49",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir nature"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M GOURDON Eric",
+    "arbitres": [],
+    "entraineurs": [],
+    "licences_competition": 21,
+    "licences_loisir": 0,
+    "licences_dirigeant": 1,
+    "pct_licences_competition": 95.5,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 4.5,
+    "competiteurs_18m_licence_competition": 9,
+    "pct_competiteurs_18m_licence_competition": 42.9
+  },
+  {
+    "code_structure": 1249062,
+    "nom": "LES ARCHERS DE MESSIRE B. DUGUESCLIN",
+    "adresse": "RUE DU MAINE",
+    "cp": "49420",
+    "ville": "POUANCE",
+    "lat": 47.743401,
+    "lon": -1.169476,
+    "email": "0",
+    "telephone": "0.0",
+    "site": null,
+    "logo_url": "logos/club_1249062.png",
+    "licences_total": 15,
+    "pourcentage_jeunes": 33.3,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 4,
+    "nb_hommes": 11,
+    "nb_para": 0,
+    "pct_femmes": 26.7,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 6,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0.0,
+    "departement": "49",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M ROLLET Christophe",
+    "arbitres": [],
+    "entraineurs": [],
+    "licences_competition": 11,
+    "licences_loisir": 4,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 73.3,
+    "pct_licences_loisir": 26.7,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 1,
+    "pct_competiteurs_18m_licence_competition": 9.1
+  },
+  {
+    "code_structure": 1249063,
+    "nom": "ARCHERS DU PARADIS",
+    "adresse": "RUE DE LA MAIRIE LE FUILET",
+    "cp": "49270",
+    "ville": "MONTREVAULT SUR EVRE",
+    "lat": 47.311702728271506,
+    "lon": -1.22801315784454,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "http://archersduparadislefuilet.sportsregions.fr/",
+    "logo_url": "logos/club_1249063.png",
+    "licences_total": 27,
+    "pourcentage_jeunes": 29.6,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 4,
+    "nb_hommes": 23,
+    "nb_para": 0,
+    "pct_femmes": 14.8,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 12,
+    "jeunes_competiteurs_18m": 8,
+    "pct_jeunes_competiteurs_18m": 66.7,
+    "departement": "49",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "Mme TRAVERT NATHALIE",
+    "arbitres": [],
+    "entraineurs": [],
+    "licences_competition": 27,
+    "licences_loisir": 0,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 100.0,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 15,
+    "pct_competiteurs_18m_licence_competition": 55.6
+  },
+  {
+    "code_structure": 1249065,
+    "nom": "LES ARCHERS DES 3 MOULINS",
+    "adresse": "1 RUE DE L'ALERTE",
+    "cp": "49330",
+    "ville": "LES HAUTS-D'ANJOU",
+    "lat": 47.649432,
+    "lon": -0.444188,
+    "email": "sandytiralarc@gmail.com",
+    "telephone": "243236904.0",
+    "site": null,
+    "logo_url": "logos/club_1249065.png",
+    "licences_total": 19,
+    "pourcentage_jeunes": 15.8,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 7,
+    "nb_hommes": 12,
+    "nb_para": 0,
+    "pct_femmes": 36.8,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 4,
+    "jeunes_competiteurs_18m": 2,
+    "pct_jeunes_competiteurs_18m": 50.0,
+    "departement": "49",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "Mme CARON Sandie",
+    "arbitres": [],
+    "entraineurs": [],
+    "licences_competition": 13,
+    "licences_loisir": 6,
+    "licences_dirigeant": 1,
+    "pct_licences_competition": 65.0,
+    "pct_licences_loisir": 30.0,
+    "pct_licences_dirigeant": 5.0,
+    "competiteurs_18m_licence_competition": 4,
+    "pct_competiteurs_18m_licence_competition": 30.8
+  },
+  {
+    "code_structure": 1249066,
+    "nom": "JEANNE D'ARC DE SAUMUR TIR A L'ARC",
+    "adresse": "RUE DES VENDANGES",
+    "cp": "49400",
+    "ville": "BELLEVIGNE-LES-CHÂTEAUX",
+    "lat": 47.247932883232515,
+    "lon": -0.067896329267306,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "http://ja-saumur-tiralarc.com",
+    "logo_url": "logos/club_1249066.png",
+    "licences_total": 84,
+    "pourcentage_jeunes": 22.6,
+    "nb_arbitres": 4,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 2
+      },
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 2
+      },
+      {
+        "niveau": "Entraîneur 2",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 17,
+    "nb_hommes": 67,
+    "nb_para": 0,
+    "pct_femmes": 20.2,
+    "pct_para": 0.0,
+    "label_club": "Espoir",
+    "jeunes_licencies": 28,
+    "jeunes_competiteurs_18m": 4,
+    "pct_jeunes_competiteurs_18m": 14.3,
+    "departement": "49",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 5,
+    "president": "M MARTIN PATRICK",
+    "arbitres": [
+      {
+        "nom": "BOURGAT Andre",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "LESUEUR Michel",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "LESUEUR Sylvie",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "MARTIN Patrick",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BATAILLE Laurent",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "BOURGAT Andre",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "BRESSON PATRICK",
+        "diplome": "Entraîneur 2"
+      },
+      {
+        "nom": "LOUARN Loic",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "ROBIN Frederic",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 83,
+    "licences_loisir": 1,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 98.8,
+    "pct_licences_loisir": 1.2,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 16,
+    "pct_competiteurs_18m_licence_competition": 19.3
+  },
+  {
+    "code_structure": 1249067,
+    "nom": "MONTREUIL JUIGNE TIR A L'ARC",
+    "adresse": "CENTRE SPORTIFE CONOTTE RUE DAVID D'ANGERS",
+    "cp": "49460",
+    "ville": "MONTREUIL JUIGNE",
+    "lat": 47.571769714355504,
+    "lon": -0.578911781311035,
+    "email": "mjta49@gmail.com",
+    "telephone": "0.0",
+    "site": "http://www.mjta49.com",
+    "logo_url": "logos/club_1249067.png",
+    "licences_total": 35,
+    "pourcentage_jeunes": 22.9,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 7,
+    "nb_hommes": 28,
+    "nb_para": 0,
+    "pct_femmes": 20.0,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 13,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0.0,
+    "departement": "49",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir beursault"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Beursault"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M LEFAUX Mickael",
+    "arbitres": [
+      {
+        "nom": "MAQUEDA Jean-Marc",
+        "niveau": "Arbitre Formateur"
+      }
+    ],
+    "entraineurs": [],
+    "licences_competition": 33,
+    "licences_loisir": 1,
+    "licences_dirigeant": 1,
+    "pct_licences_competition": 94.3,
+    "pct_licences_loisir": 2.9,
+    "pct_licences_dirigeant": 2.9,
+    "competiteurs_18m_licence_competition": 10,
+    "pct_competiteurs_18m_licence_competition": 30.3
+  },
+  {
+    "code_structure": 1249068,
+    "nom": "C.O.AJAX DE DAUMERAY",
+    "adresse": "RUE RUE DE LA LIBERTÉ",
+    "cp": "49640",
+    "ville": "DAUMERAY",
+    "lat": 47.7052268981934,
+    "lon": -0.382455915212631,
+    "email": "jpld.dupuis@orange.fr",
+    "telephone": "241325561.0",
+    "site": "http://www.daumeray-archerie.com",
+    "logo_url": "logos/club_1249068.png",
+    "licences_total": 31,
+    "pourcentage_jeunes": 16.1,
+    "nb_arbitres": 2,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 11,
+    "nb_hommes": 20,
+    "nb_para": 1,
+    "pct_femmes": 35.5,
+    "pct_para": 3.2,
+    "label_club": null,
+    "jeunes_licencies": 9,
+    "jeunes_competiteurs_18m": 3,
+    "pct_jeunes_competiteurs_18m": 33.3,
+    "departement": "49",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature",
+      "Tir beursault",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D",
+      "Beursault",
+      "Para"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M DUPUIS Jean-Paul",
+    "arbitres": [
+      {
+        "nom": "DUPUIS Jean-Paul",
+        "niveau": "Arbitre Formateur"
+      },
+      {
+        "nom": "FLAMENT Michel",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [],
+    "licences_competition": 28,
+    "licences_loisir": 0,
+    "licences_dirigeant": 3,
+    "pct_licences_competition": 90.3,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 9.7,
+    "competiteurs_18m_licence_competition": 13,
+    "pct_competiteurs_18m_licence_competition": 46.4
+  },
+  {
+    "code_structure": 1249071,
+    "nom": "ARC ECOUFLANT",
+    "adresse": "RUE SIMONE SIGNORET",
+    "cp": "49000",
+    "ville": "ECOUFLANT",
+    "lat": 47.4979784,
+    "lon": -0.515642,
+    "email": "grall.chris@gmail.com",
+    "telephone": "611948568.0",
+    "site": "https://arcecouflant.fr/",
+    "logo_url": "logos/club_1249071.png",
+    "licences_total": 41,
+    "pourcentage_jeunes": 17.1,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 2
+      }
+    ],
+    "nb_femmes": 12,
+    "nb_hommes": 29,
+    "nb_para": 1,
+    "pct_femmes": 29.3,
+    "pct_para": 2.4,
+    "label_club": null,
+    "jeunes_licencies": 8,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0.0,
+    "departement": "49",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 2,
+    "president": "M BONNAUD Mickael",
+    "arbitres": [],
+    "entraineurs": [
+      {
+        "nom": "BONNAUD Mickael",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "VLAMINCK Marie-Therese",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 35,
+    "licences_loisir": 11,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 76.1,
+    "pct_licences_loisir": 23.9,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 13,
+    "pct_competiteurs_18m_licence_competition": 37.1
+  },
+  {
+    "code_structure": 1249140,
+    "nom": "LES ARCHERS FLORENTAIS",
+    "adresse": "54 RUE DE LA BERGERIE SAINT FLORENT LE VIEIL",
+    "cp": "49410",
+    "ville": "MAUGES-SUR-LOIRE",
+    "lat": 47.3575868,
+    "lon": -1.0129237,
+    "email": "archersflorentais@outlook.fr",
+    "telephone": "0.0",
+    "site": "https://www.lesarchersflorentais.com/",
+    "logo_url": "logos/club_1249140.png",
+    "licences_total": 45,
+    "pourcentage_jeunes": 15.6,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 19,
+    "nb_hommes": 26,
+    "nb_para": 1,
+    "pct_femmes": 42.2,
+    "pct_para": 2.2,
+    "label_club": null,
+    "jeunes_licencies": 7,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0.0,
+    "departement": "49",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir 3D",
+      "Tir nature",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Nature",
+      "3D",
+      "Para"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M BELLICAUD Jean-Claude",
+    "arbitres": [
+      {
+        "nom": "BELLICAUD Jean-Claude",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [],
+    "licences_competition": 21,
+    "licences_loisir": 24,
+    "licences_dirigeant": 1,
+    "pct_licences_competition": 45.7,
+    "pct_licences_loisir": 52.2,
+    "pct_licences_dirigeant": 2.2,
+    "competiteurs_18m_licence_competition": 11,
+    "pct_competiteurs_18m_licence_competition": 52.4
+  },
+  {
+    "code_structure": 1253072,
+    "nom": "CIE ST GEORGES DE MESLAY DU MAINE",
+    "adresse": "15 RUE DE LA GARE",
+    "cp": "53170",
+    "ville": "MESLAY-DU-MAINE",
+    "lat": 47.94844205,
+    "lon": -0.556689176113697,
+    "email": "amp.colin@laposte.net",
+    "telephone": "243642658.0",
+    "site": null,
+    "logo_url": "logos/club_1253072.png",
+    "licences_total": 48,
+    "pourcentage_jeunes": 37.5,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 3
+      },
+      {
+        "niveau": "Assistant Entraîneur",
+        "nb": 2
+      },
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 14,
+    "nb_hommes": 34,
+    "nb_para": 0,
+    "pct_femmes": 29.2,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 20,
+    "jeunes_competiteurs_18m": 8,
+    "pct_jeunes_competiteurs_18m": 40.0,
+    "departement": "53",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 6,
+    "president": "M BESNARD Cyril",
+    "arbitres": [],
+    "entraineurs": [
+      {
+        "nom": "BELLUAU Emmanuel",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "BESNARD Cyril",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "COLIN Alain",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "COLIN MARIE-PIERRE",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "FROGER Didier",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "LEVEQUE Guilherme",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
+    "licences_competition": 46,
+    "licences_loisir": 0,
+    "licences_dirigeant": 2,
+    "pct_licences_competition": 95.8,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 4.2,
+    "competiteurs_18m_licence_competition": 21,
+    "pct_competiteurs_18m_licence_competition": 45.7
+  },
+  {
+    "code_structure": 1253075,
+    "nom": "CIE ST GEORGES DE LAVAL",
+    "adresse": "RUE ALBERT EINSTEIN",
+    "cp": "53000",
+    "ville": "LAVAL",
+    "lat": 48.061206817627,
+    "lon": -0.766068518161774,
+    "email": "tiralarc.usl@gmail.com",
+    "telephone": "0.0",
+    "site": "https://tiralarc.uslaval.fr/",
+    "logo_url": "logos/club_1253075.png",
+    "licences_total": 63,
+    "pourcentage_jeunes": 30.2,
+    "nb_arbitres": 2,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 3
+      }
+    ],
+    "nb_femmes": 19,
+    "nb_hommes": 44,
+    "nb_para": 2,
+    "pct_femmes": 30.2,
+    "pct_para": 3.2,
+    "label_club": "Espoir",
+    "jeunes_licencies": 29,
+    "jeunes_competiteurs_18m": 9,
+    "pct_jeunes_competiteurs_18m": 31.0,
+    "departement": "53",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "3D"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 3,
+    "president": "Mme NAUDIN Aloyse",
+    "arbitres": [
+      {
+        "nom": "BARREAU Guy",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "GENIN Patrick",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BARREAU GUY",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "GENIN PATRICK",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "TESSIER ALBAN",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 45,
+    "licences_loisir": 18,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 71.4,
+    "pct_licences_loisir": 28.6,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 26,
+    "pct_competiteurs_18m_licence_competition": 57.8
+  },
+  {
+    "code_structure": 1253076,
+    "nom": "CLUB ATHLETIQUE EVRONNAIS",
+    "adresse": "RUE DU MONTAIGU",
+    "cp": "53600",
+    "ville": "EVRON",
+    "lat": 48.1712760925293,
+    "lon": -0.371025502681732,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "https://caevronnais-tir-a-larc.jimdosite.com/",
+    "logo_url": "logos/club_1253076.png",
+    "licences_total": 22,
+    "pourcentage_jeunes": 36.4,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 4,
+    "nb_hommes": 18,
+    "nb_para": 1,
+    "pct_femmes": 18.2,
+    "pct_para": 4.5,
+    "label_club": null,
+    "jeunes_licencies": 9,
+    "jeunes_competiteurs_18m": 3,
+    "pct_jeunes_competiteurs_18m": 33.3,
+    "departement": "53",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Para"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 1,
+    "president": "M GESBERT Sebastien",
+    "arbitres": [
+      {
+        "nom": "RICHARD Michel",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "GESBERT Sebastien",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 21,
+    "licences_loisir": 1,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 95.5,
+    "pct_licences_loisir": 4.5,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 7,
+    "pct_competiteurs_18m_licence_competition": 33.3
+  },
+  {
+    "code_structure": 1253078,
+    "nom": "LES ARCHERS DE L'US CHANGE",
+    "adresse": "RUE DES BORDAGERS",
+    "cp": "53810",
+    "ville": "CHANGE",
+    "lat": 48.108,
+    "lon": -0.800105,
+    "email": "uschangetiralarc@gmail.com",
+    "telephone": "0.0",
+    "site": null,
+    "logo_url": "logos/club_1253078.png",
+    "licences_total": 40,
+    "pourcentage_jeunes": 20.0,
+    "nb_arbitres": 4,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 3
+      },
+      {
+        "niveau": "Assistant Entraîneur",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 12,
+    "nb_hommes": 28,
+    "nb_para": 1,
+    "pct_femmes": 30.0,
+    "pct_para": 2.5,
+    "label_club": null,
+    "jeunes_licencies": 11,
+    "jeunes_competiteurs_18m": 1,
+    "pct_jeunes_competiteurs_18m": 9.1,
+    "departement": "53",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 4,
+    "president": "Mme MORAN STEPHANIE",
+    "arbitres": [
+      {
+        "nom": "BRANGIER Bernard",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "COLLET Guillaume",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "HERVE Florian",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "SAUVAGE Anthony",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BELLUAU Emmanuel",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "BENOIST Eric",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "BRANGIER Bernard",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "GENIN Frederic",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 33,
+    "licences_loisir": 7,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 82.5,
+    "pct_licences_loisir": 17.5,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 15,
+    "pct_competiteurs_18m_licence_competition": 45.5
+  },
+  {
+    "code_structure": 1253081,
+    "nom": "UNION SPORTIVE GENESTOISE",
+    "adresse": "RUE DES SPORTS",
+    "cp": "53940",
+    "ville": "LE GENEST-SAINT-ISLE",
+    "lat": 48.09433367275143,
+    "lon": -0.890726745128632,
+    "email": "emiliemoreau53@yahoo.fr",
+    "telephone": "688418957.0",
+    "site": null,
+    "logo_url": "logos/club_1253081.png",
+    "licences_total": 38,
+    "pourcentage_jeunes": 15.8,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 3
+      },
+      {
+        "niveau": "Entraîneur 2 + CQP",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 13,
+    "nb_hommes": 25,
+    "nb_para": 1,
+    "pct_femmes": 34.2,
+    "pct_para": 2.6,
+    "label_club": null,
+    "jeunes_licencies": 8,
+    "jeunes_competiteurs_18m": 3,
+    "pct_jeunes_competiteurs_18m": 37.5,
+    "departement": "53",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature",
+      "Run Archery",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D",
+      "Para",
+      "Run Archery"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 4,
+    "president": "Mme FOUCHER MOREAU Emilie",
+    "arbitres": [
+      {
+        "nom": "ROUSSELON Regis",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BOHERS JEAN-PAUL",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "HARAN CHRISTELE",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "JACOB Jocelyn",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "SALMON ERIC",
+        "diplome": "Entraîneur 2 + CQP"
+      }
+    ],
+    "licences_competition": 36,
+    "licences_loisir": 1,
+    "licences_dirigeant": 1,
+    "pct_licences_competition": 94.7,
+    "pct_licences_loisir": 2.6,
+    "pct_licences_dirigeant": 2.6,
+    "competiteurs_18m_licence_competition": 16,
+    "pct_competiteurs_18m_licence_competition": 44.4
+  },
+  {
+    "code_structure": 1253083,
+    "nom": "LA FLECHE CHAPELLOISE",
+    "adresse": "6 RUE DU STADE",
+    "cp": "53440",
+    "ville": "LA CHAPELLE-AU-RIBOUL",
+    "lat": 48.318751,
+    "lon": -0.431798,
+    "email": "zaza75.touchet@orange.fr",
+    "telephone": "243039875.0",
+    "site": null,
+    "logo_url": "logos/club_1253083.png",
+    "licences_total": 12,
+    "pourcentage_jeunes": 41.7,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 5,
+    "nb_hommes": 7,
+    "nb_para": 0,
+    "pct_femmes": 41.7,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 5,
+    "jeunes_competiteurs_18m": 1,
+    "pct_jeunes_competiteurs_18m": 20.0,
+    "departement": "53",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "Mme GUILMARD Elisabeth",
+    "arbitres": [],
+    "entraineurs": [],
+    "licences_competition": 11,
+    "licences_loisir": 1,
+    "licences_dirigeant": 1,
+    "pct_licences_competition": 84.6,
+    "pct_licences_loisir": 7.7,
+    "pct_licences_dirigeant": 7.7,
+    "competiteurs_18m_licence_competition": 5,
+    "pct_competiteurs_18m_licence_competition": 45.5
+  },
+  {
+    "code_structure": 1253084,
+    "nom": "LES CUPIDONS MAYENNAIS",
+    "adresse": "RUE REAUMUR",
+    "cp": "53100",
+    "ville": "MAYENNE",
+    "lat": 48.3036155700684,
+    "lon": -0.694747090339661,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "http://tiralarc-mayenne-53100.sportregions.fr",
+    "logo_url": "logos/club_1253084.png",
+    "licences_total": 45,
+    "pourcentage_jeunes": 26.7,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 2
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 18,
+    "nb_hommes": 27,
+    "nb_para": 0,
+    "pct_femmes": 40.0,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 23,
+    "jeunes_competiteurs_18m": 12,
+    "pct_jeunes_competiteurs_18m": 52.2,
+    "departement": "53",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir beursault",
+      "Run Archery"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Beursault",
+      "Run Archery"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 3,
+    "president": "M GENDRY FABIEN",
+    "arbitres": [],
+    "entraineurs": [
+      {
+        "nom": "BOUTET Jacques",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "GENDRY FABIEN",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "GOUIN Stephane",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
+    "licences_competition": 45,
+    "licences_loisir": 2,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 95.7,
+    "pct_licences_loisir": 4.3,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 26,
+    "pct_competiteurs_18m_licence_competition": 57.8
+  },
+  {
+    "code_structure": 1253085,
+    "nom": "TIR A L'ARC CHATEAU GONTIER",
+    "adresse": "CITÉ BOIS PLAIDE",
+    "cp": "53200",
+    "ville": "CHATEAU GONTIER",
+    "lat": 47.82258915096868,
+    "lon": -0.698252830383306,
+    "email": "chateaugontier.tiralarc@gmail.com",
+    "telephone": "0.0",
+    "site": "https://tiralarcchg.sportregion.fr",
+    "logo_url": "logos/club_1253085.png",
+    "licences_total": 32,
+    "pourcentage_jeunes": 25.0,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 11,
+    "nb_hommes": 21,
+    "nb_para": 1,
+    "pct_femmes": 34.4,
+    "pct_para": 3.1,
+    "label_club": null,
+    "jeunes_licencies": 12,
+    "jeunes_competiteurs_18m": 5,
+    "pct_jeunes_competiteurs_18m": 41.7,
+    "departement": "53",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 1,
+    "president": "Mme SEVIN Magali",
+    "arbitres": [
+      {
+        "nom": "MARSOLLIER Sylvain",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "ZITTE Lionel",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
+    "licences_competition": 24,
+    "licences_loisir": 7,
+    "licences_dirigeant": 3,
+    "pct_licences_competition": 70.6,
+    "pct_licences_loisir": 20.6,
+    "pct_licences_dirigeant": 8.8,
+    "competiteurs_18m_licence_competition": 12,
+    "pct_competiteurs_18m_licence_competition": 50.0
+  },
+  {
+    "code_structure": 1253087,
+    "nom": "CIE GORONNAISE TIR A L'ARC",
+    "adresse": "AVENUE DU GÉNÉRAL DE GAULLE",
+    "cp": "53120",
+    "ville": "GORRON",
+    "lat": 48.410026550293,
+    "lon": -0.831919014453888,
+    "email": "0",
+    "telephone": "0.0",
+    "site": null,
+    "logo_url": "logos/club_1253087.png",
+    "licences_total": 22,
+    "pourcentage_jeunes": 31.8,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 5,
+    "nb_hommes": 17,
+    "nb_para": 0,
+    "pct_femmes": 22.7,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 10,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0.0,
+    "departement": "53",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir 3D",
+      "Tir nature"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Nature",
+      "3D"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M GUERRIER NORBERT",
+    "arbitres": [],
+    "entraineurs": [],
+    "licences_competition": 22,
+    "licences_loisir": 0,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 100.0,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 9,
+    "pct_competiteurs_18m_licence_competition": 40.9
+  },
+  {
+    "code_structure": 1272090,
+    "nom": "LES ARCHERS DE SABLE",
+    "adresse": "3 AVENUE JEAN MONNET",
+    "cp": "72300",
+    "ville": "SABLE SUR SARTHE",
+    "lat": 47.82917615204258,
+    "lon": -0.298610817977132,
+    "email": "Lesarchersdesable72@gmail.com",
+    "telephone": "679514708.0",
+    "site": null,
+    "logo_url": "logos/club_1272090.png",
+    "licences_total": 34,
+    "pourcentage_jeunes": 41.2,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 2",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 12,
+    "nb_hommes": 22,
+    "nb_para": 0,
+    "pct_femmes": 35.3,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 17,
+    "jeunes_competiteurs_18m": 2,
+    "pct_jeunes_competiteurs_18m": 11.8,
+    "departement": "72",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir beursault"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Beursault"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 1,
+    "president": "M CHAILLEUX LIONEL",
+    "arbitres": [
+      {
+        "nom": "JARRY Jean-Marc",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "MISRAKI Pierre-Alexandre",
+        "diplome": "Entraîneur 2"
+      }
+    ],
+    "licences_competition": 34,
+    "licences_loisir": 0,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 100.0,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 20,
+    "pct_competiteurs_18m_licence_competition": 58.8
+  },
+  {
+    "code_structure": 1272091,
+    "nom": "CIE ARCHERS DU BELINOIS",
+    "adresse": "28 B RUE DES FRERES BAILLEUL",
+    "cp": "72220",
+    "ville": "LAIGNE EN BELIN",
+    "lat": 47.878048,
+    "lon": 0.22427,
+    "email": "archersdubelinois@orange.fr",
+    "telephone": "664794091.0",
+    "site": "https://www.colsg.fr/tir-a-l-arc/",
+    "logo_url": "logos/club_1272091.png",
+    "licences_total": 58,
+    "pourcentage_jeunes": 29.3,
+    "nb_arbitres": 3,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 2
+      }
+    ],
+    "nb_femmes": 12,
+    "nb_hommes": 46,
+    "nb_para": 1,
+    "pct_femmes": 20.7,
+    "pct_para": 1.7,
+    "label_club": null,
+    "jeunes_licencies": 19,
+    "jeunes_competiteurs_18m": 9,
+    "pct_jeunes_competiteurs_18m": 47.4,
+    "departement": "72",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Para"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 2,
+    "president": "Mme BERTIN CECILE",
+    "arbitres": [
+      {
+        "nom": "COUPRIE Patrick",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "ONILLON Nathalie",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "THAREAU Gerald",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BERTIN CECILE",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "LABRE Jerome",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
+    "licences_competition": 49,
+    "licences_loisir": 8,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 86.0,
+    "pct_licences_loisir": 14.0,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 30,
+    "pct_competiteurs_18m_licence_competition": 61.2
+  },
+  {
+    "code_structure": 1272093,
+    "nom": "CIE ARCHERS BOIS DES VALLEES",
+    "adresse": "LES POUVARDIERES",
+    "cp": "72440",
+    "ville": "BOULOIRE",
+    "lat": 47.9535446166992,
+    "lon": 0.551637053489685,
+    "email": "archersduboisdesvallees@gmail.com",
+    "telephone": "0.0",
+    "site": null,
+    "logo_url": "logos/club_1272093.png",
+    "licences_total": 43,
+    "pourcentage_jeunes": 18.6,
+    "nb_arbitres": 2,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 2",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 11,
+    "nb_hommes": 32,
+    "nb_para": 0,
+    "pct_femmes": 25.6,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 15,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0.0,
+    "departement": "72",
+    "disciplines": [
+      "Tir 3D",
+      "Tir nature"
+    ],
+    "pratiques": [
+      "Nature",
+      "3D"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 1,
+    "president": "M VERRON PASCAL",
+    "arbitres": [
+      {
+        "nom": "BEAUTE Pascal",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "VERRON Pascal",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "GASSOT Jean Yves",
+        "diplome": "Entraîneur 2"
+      }
+    ],
+    "licences_competition": 41,
+    "licences_loisir": 2,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 95.3,
+    "pct_licences_loisir": 4.7,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 0,
+    "pct_competiteurs_18m_licence_competition": 0.0
+  },
+  {
+    "code_structure": 1272095,
+    "nom": "UNION SPORTIVE DU LUART",
+    "adresse": "SALLE DES SPORT COMUNAUTAIRE RUE DES BAINS",
+    "cp": "72390",
+    "ville": "LE LUART",
+    "lat": 48.0512809753418,
+    "lon": 0.629748225212097,
+    "email": "annemarieaa72@gmail.com",
+    "telephone": "243711925.0",
+    "site": "http://usl-le-luart.fr.gd",
+    "logo_url": "logos/club_1272095.png",
+    "licences_total": 28,
+    "pourcentage_jeunes": 21.4,
+    "nb_arbitres": 3,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 10,
+    "nb_hommes": 18,
+    "nb_para": 0,
+    "pct_femmes": 35.7,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 7,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0.0,
+    "departement": "72",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir beursault",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Beursault",
+      "Para"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "Mme ORIEUX ANNE-MARIE",
+    "arbitres": [
+      {
+        "nom": "GUERIN Laetitia",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "HUTIN Cindy",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "VIGNON Edith",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [],
+    "licences_competition": 21,
+    "licences_loisir": 7,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 75.0,
+    "pct_licences_loisir": 25.0,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 9,
+    "pct_competiteurs_18m_licence_competition": 42.9
+  },
+  {
+    "code_structure": 1272096,
+    "nom": "LES ARCHERS D ECOMMOY",
+    "adresse": "DE L'ABREU CHEMIN",
+    "cp": "72220",
+    "ville": "ÉCOMMOY",
+    "lat": 47.8487,
+    "lon": 0.292551,
+    "email": "archersdecommoy@gmail.com",
+    "telephone": "962523883.0",
+    "site": null,
+    "logo_url": "logos/club_1272096.png",
+    "licences_total": 35,
+    "pourcentage_jeunes": 34.3,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 15,
+    "nb_hommes": 20,
+    "nb_para": 0,
+    "pct_femmes": 42.9,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 15,
+    "jeunes_competiteurs_18m": 6,
+    "pct_jeunes_competiteurs_18m": 40.0,
+    "departement": "72",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "Mme GUERRIER Liliane",
+    "arbitres": [
+      {
+        "nom": "LECOMTE Dimitri",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [],
+    "licences_competition": 27,
+    "licences_loisir": 7,
+    "licences_dirigeant": 1,
+    "pct_licences_competition": 77.1,
+    "pct_licences_loisir": 20.0,
+    "pct_licences_dirigeant": 2.9,
+    "competiteurs_18m_licence_competition": 17,
+    "pct_competiteurs_18m_licence_competition": 63.0
+  },
+  {
+    "code_structure": 1272098,
+    "nom": "COMPAGNIE D'ARC DE LA FLECHE",
+    "adresse": "ALLÉE DES FROMENTEAUX",
+    "cp": "72200",
+    "ville": "LA FLÈCHE",
+    "lat": 47.7006392,
+    "lon": -0.051996097608795,
+    "email": "ciearclafeche@gmail.com",
+    "telephone": "682232046.0",
+    "site": "https://ciearclafleche.com/",
+    "logo_url": "logos/club_1272098.png",
+    "licences_total": 65,
+    "pourcentage_jeunes": 13.8,
+    "nb_arbitres": 3,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Assistant Entraîneur",
+        "nb": 2
+      },
+      {
+        "niveau": "CQP Animateur Tir à l'Arc",
+        "nb": 1
+      },
+      {
+        "niveau": "DEJEPS",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 26,
+    "nb_hommes": 39,
+    "nb_para": 1,
+    "pct_femmes": 40.0,
+    "pct_para": 1.5,
+    "label_club": "Espoir",
+    "jeunes_licencies": 15,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0.0,
+    "departement": "72",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir beursault"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Beursault"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 5,
+    "president": "Mme TESSIER Geraldine",
+    "arbitres": [
+      {
+        "nom": "JACCOU Mado",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "KOELSCH Gregory",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "MORIN Marie-France",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "GUY Oceane",
+        "diplome": "CQP Animateur Tir à l'Arc"
+      },
+      {
+        "nom": "HALNA Denis",
+        "diplome": "DEJEPS"
+      },
+      {
+        "nom": "MORIN Marie-France",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "MOUCHOLI INGRID",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "TESSIER Geraldine",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 63,
+    "licences_loisir": 3,
+    "licences_dirigeant": 3,
+    "pct_licences_competition": 91.3,
+    "pct_licences_loisir": 4.3,
+    "pct_licences_dirigeant": 4.3,
+    "competiteurs_18m_licence_competition": 26,
+    "pct_competiteurs_18m_licence_competition": 41.3
+  },
+  {
+    "code_structure": 1272103,
+    "nom": "ASSO NOUVELLE DES ARCHERS DE LA NATURE - LE MANS",
+    "adresse": "CHEMIN DU PRESSOIR",
+    "cp": "72560",
+    "ville": "CHANGÉ",
+    "lat": 47.991,
+    "lon": 0.268296,
+    "email": "didier.tollet0277@orange.fr",
+    "telephone": "0.0",
+    "site": "http://lesarchersdelanature.fr",
+    "logo_url": "logos/club_1272103.png",
+    "licences_total": 36,
+    "pourcentage_jeunes": 2.8,
+    "nb_arbitres": 3,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 4,
+    "nb_hommes": 32,
+    "nb_para": 1,
+    "pct_femmes": 11.1,
+    "pct_para": 2.8,
+    "label_club": null,
+    "jeunes_licencies": 2,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0.0,
+    "departement": "72",
+    "disciplines": [
+      "Tir 3D",
+      "Tir nature"
+    ],
+    "pratiques": [
+      "Nature",
+      "3D"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M TOLLET Didier",
+    "arbitres": [
+      {
+        "nom": "DUPAR-RATEL Christine",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "NAVEAU Philippe",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "VANNIER Michel",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [],
+    "licences_competition": 33,
+    "licences_loisir": 3,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 91.7,
+    "pct_licences_loisir": 8.3,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 2,
+    "pct_competiteurs_18m_licence_competition": 6.1
+  },
+  {
+    "code_structure": 1272105,
+    "nom": "SOM TIR A L'ARC",
+    "adresse": "201 RUE HENRI CHAMPION STADE DE LA CALIFORMIE",
+    "cp": "72100",
+    "ville": "LE MANS",
+    "lat": 47.9843061,
+    "lon": 0.232671931638235,
+    "email": "somtiralarc72@gmail.com",
+    "telephone": "0.0",
+    "site": "https://sites.google.com/view/lemanssomtiralarc",
+    "logo_url": "logos/club_1272105.png",
+    "licences_total": 77,
+    "pourcentage_jeunes": 19.5,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 3
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 21,
+    "nb_hommes": 56,
+    "nb_para": 1,
+    "pct_femmes": 27.3,
+    "pct_para": 1.3,
+    "label_club": "Espoir",
+    "jeunes_licencies": 24,
+    "jeunes_competiteurs_18m": 5,
+    "pct_jeunes_competiteurs_18m": 20.8,
+    "departement": "72",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir beursault"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Beursault"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 4,
+    "president": "Mme THOMAS EMILIE",
+    "arbitres": [
+      {
+        "nom": "BONHOMME Carel",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "LARDON JEROME",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "RATTIER GERARD",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "REIGNER TONY",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "SEMETEY Simon",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
+    "licences_competition": 72,
+    "licences_loisir": 7,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 91.1,
+    "pct_licences_loisir": 8.9,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 30,
+    "pct_competiteurs_18m_licence_competition": 41.7
+  },
+  {
+    "code_structure": 1272106,
+    "nom": "CLUB OMNISPORT CHATEAU DU LOIR",
+    "adresse": "RUE DES PAUMONS",
+    "cp": "72500",
+    "ville": "CHATEAU DU LOIR",
+    "lat": 47.6976280212402,
+    "lon": 0.401172697544098,
+    "email": "0",
+    "telephone": "0.0",
+    "site": null,
+    "logo_url": "logos/club_1272106.png",
+    "licences_total": 39,
+    "pourcentage_jeunes": 48.7,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 16,
+    "nb_hommes": 23,
+    "nb_para": 1,
+    "pct_femmes": 41.0,
+    "pct_para": 2.6,
+    "label_club": null,
+    "jeunes_licencies": 23,
+    "jeunes_competiteurs_18m": 1,
+    "pct_jeunes_competiteurs_18m": 4.3,
+    "departement": "72",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir beursault"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Beursault"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "Mme GONTHIER Eliane",
+    "arbitres": [],
+    "entraineurs": [],
+    "licences_competition": 31,
+    "licences_loisir": 3,
+    "licences_dirigeant": 5,
+    "pct_licences_competition": 79.5,
+    "pct_licences_loisir": 7.7,
+    "pct_licences_dirigeant": 12.8,
+    "competiteurs_18m_licence_competition": 5,
+    "pct_competiteurs_18m_licence_competition": 16.1
+  },
+  {
+    "code_structure": 1272108,
+    "nom": "ARC DU MAINE (LE MANS)",
+    "adresse": "7 ROUTE DE LA MILESSE",
+    "cp": "72650",
+    "ville": "AIGNÉ",
+    "lat": 48.05931655154297,
+    "lon": 0.144098997116089,
+    "email": "contacts@arcdumaine.fr",
+    "telephone": "0.0",
+    "site": "http://www.arcdumaine.fr",
+    "logo_url": "logos/club_1272108.png",
+    "licences_total": 111,
+    "pourcentage_jeunes": 9.0,
+    "nb_arbitres": 2,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 3
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 39,
+    "nb_hommes": 72,
+    "nb_para": 16,
+    "pct_femmes": 35.1,
+    "pct_para": 14.4,
+    "label_club": "Espoir",
+    "jeunes_licencies": 16,
+    "jeunes_competiteurs_18m": 2,
+    "pct_jeunes_competiteurs_18m": 12.5,
+    "departement": "72",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Para"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 5,
+    "president": "Mme LECAS Christine",
+    "arbitres": [
+      {
+        "nom": "LECAS Christine",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "LECAS Gilles",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BOUVET Gilles",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "CONAS Nicolas",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "LECAS Christine",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "LECAS GILLES",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "MORICE Philippe",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
+    "licences_competition": 70,
+    "licences_loisir": 39,
+    "licences_dirigeant": 2,
+    "pct_licences_competition": 63.1,
+    "pct_licences_loisir": 35.1,
+    "pct_licences_dirigeant": 1.8,
+    "competiteurs_18m_licence_competition": 27,
+    "pct_competiteurs_18m_licence_competition": 38.6
+  },
+  {
+    "code_structure": 1272109,
+    "nom": "COMPAGNIE DES ARCHERS DE SILLE",
+    "adresse": "RUE MARCEL TABUR",
+    "cp": "72140",
+    "ville": "SILLÉ-LE-GUILLAUME",
+    "lat": 48.17429,
+    "lon": -0.150771,
+    "email": "lesarchersdesille@gmail.com",
+    "telephone": "681806121.0",
+    "site": "https://les-archers-de-sille.jimdosite.com",
+    "logo_url": "logos/club_1272109.png",
+    "licences_total": 47,
+    "pourcentage_jeunes": 27.7,
+    "nb_arbitres": 2,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 2
+      },
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 2
+      }
+    ],
+    "nb_femmes": 17,
+    "nb_hommes": 30,
+    "nb_para": 2,
+    "pct_femmes": 36.2,
+    "pct_para": 4.3,
+    "label_club": "Ambition",
+    "jeunes_licencies": 16,
+    "jeunes_competiteurs_18m": 4,
+    "pct_jeunes_competiteurs_18m": 25.0,
+    "departement": "72",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 4,
+    "president": "Mme BECU Nathalie",
+    "arbitres": [
+      {
+        "nom": "CARLIN Laurent",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "GAC Muriel",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BECU Nathalie",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "CARLIN Laurent",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "COCHET Dominique",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "GAC Muriel",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
+    "licences_competition": 32,
+    "licences_loisir": 15,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 68.1,
+    "pct_licences_loisir": 31.9,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 14,
+    "pct_competiteurs_18m_licence_competition": 43.8
+  },
+  {
+    "code_structure": 1272112,
+    "nom": "VSF TIR A L'ARC",
+    "adresse": "10 ALLÉE DU VALMER",
+    "cp": "72400",
+    "ville": "LA FERTE BERNARD",
+    "lat": 48.176308,
+    "lon": 0.648761,
+    "email": "contact@vsftiralarc.fr",
+    "telephone": "0.0",
+    "site": "http://vsftiralarc.fr",
+    "logo_url": "logos/club_1272112.png",
+    "licences_total": 50,
+    "pourcentage_jeunes": 22.0,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "DEJEPS",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 17,
+    "nb_hommes": 33,
+    "nb_para": 10,
+    "pct_femmes": 34.0,
+    "pct_para": 20.0,
+    "label_club": null,
+    "jeunes_licencies": 14,
+    "jeunes_competiteurs_18m": 1,
+    "pct_jeunes_competiteurs_18m": 7.1,
+    "departement": "72",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 1,
+    "president": "M PILON Fabrice",
+    "arbitres": [],
+    "entraineurs": [
+      {
+        "nom": "HALNA Denis",
+        "diplome": "DEJEPS"
+      }
+    ],
+    "licences_competition": 33,
+    "licences_loisir": 16,
+    "licences_dirigeant": 1,
+    "pct_licences_competition": 66.0,
+    "pct_licences_loisir": 32.0,
+    "pct_licences_dirigeant": 2.0,
+    "competiteurs_18m_licence_competition": 11,
+    "pct_competiteurs_18m_licence_competition": 33.3
+  },
+  {
+    "code_structure": 1285113,
+    "nom": "LES GARNA'ARCHERS",
+    "adresse": "SALLE DE L'EPERON PLACE DE L'ÉGLISE",
+    "cp": "85710",
+    "ville": "LA GARNACHE",
+    "lat": 46.88995,
+    "lon": -1.83286,
+    "email": "gael.raballand@orange.fr",
+    "telephone": "251684227.0",
+    "site": "https://garna-archers.fr",
+    "logo_url": "logos/club_1285113.png",
+    "licences_total": 53,
+    "pourcentage_jeunes": 24.5,
+    "nb_arbitres": 2,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur 2",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 23,
+    "nb_hommes": 30,
+    "nb_para": 1,
+    "pct_femmes": 43.4,
+    "pct_para": 1.9,
+    "label_club": "Ambition",
+    "jeunes_licencies": 21,
+    "jeunes_competiteurs_18m": 7,
+    "pct_jeunes_competiteurs_18m": 33.3,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D",
+      "Para"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 4,
+    "president": "Mme CHIRON Marina",
+    "arbitres": [
+      {
+        "nom": "CHAGNEAU Yveline",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "COULON Dominique",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "CHAGNEAU YVELINE",
+        "diplome": "Entraîneur 2"
+      },
+      {
+        "nom": "CHIRON Marina",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "HERBRETEAU ALEXANDRE",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "VALLOGNES Mickael",
+        "diplome": "Entraîneur Fédéral"
+      }
+    ],
+    "licences_competition": 53,
+    "licences_loisir": 0,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 100.0,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 25,
+    "pct_competiteurs_18m_licence_competition": 47.2
+  },
+  {
+    "code_structure": 1285114,
+    "nom": "LES CARQUOIS DE GRASLA",
+    "adresse": "RUE DU STADE LA CRECHERE",
+    "cp": "85250",
+    "ville": "LA RABATELIERE",
+    "lat": 46.8595586,
+    "lon": -1.2683198,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "http://carquois-de-grasla.fr/",
+    "logo_url": "logos/club_1285114.png",
+    "licences_total": 28,
+    "pourcentage_jeunes": 25.0,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 2
+      }
+    ],
+    "nb_femmes": 13,
+    "nb_hommes": 15,
+    "nb_para": 0,
+    "pct_femmes": 46.4,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 10,
+    "jeunes_competiteurs_18m": 3,
+    "pct_jeunes_competiteurs_18m": 30.0,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 2,
+    "president": "M LACREUSE Daniel",
+    "arbitres": [
+      {
+        "nom": "LACREUSE Daniel",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "LACREUSE ISABELLE",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "RETAILLAUD Romain",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 26,
+    "licences_loisir": 1,
+    "licences_dirigeant": 1,
+    "pct_licences_competition": 92.9,
+    "pct_licences_loisir": 3.6,
+    "pct_licences_dirigeant": 3.6,
+    "competiteurs_18m_licence_competition": 11,
+    "pct_competiteurs_18m_licence_competition": 42.3
+  },
+  {
+    "code_structure": 1285115,
+    "nom": "TIR A L'ARC DE CHATAIGNERAIE",
+    "adresse": "32 AVENUE GEORGES CLÉMENCEAU",
+    "cp": "85120",
+    "ville": "LA CHÂTAIGNERAIE",
+    "lat": 46.6416,
+    "lon": -0.739562,
+    "email": "arc.chataigneraie@gmail.com",
+    "telephone": "0.0",
+    "site": "http://talc.clubeo.com",
+    "logo_url": "logos/club_1285115.png",
+    "licences_total": 23,
+    "pourcentage_jeunes": 21.7,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 2
+      }
+    ],
+    "nb_femmes": 6,
+    "nb_hommes": 17,
+    "nb_para": 2,
+    "pct_femmes": 26.1,
+    "pct_para": 8.7,
+    "label_club": null,
+    "jeunes_licencies": 6,
+    "jeunes_competiteurs_18m": 3,
+    "pct_jeunes_competiteurs_18m": 50.0,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Run Archery",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Para",
+      "Run Archery"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 2,
+    "president": "M TALON Pascal",
+    "arbitres": [],
+    "entraineurs": [
+      {
+        "nom": "MINVIELLE Laurent",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "TALON Pascal",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 23,
+    "licences_loisir": 2,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 92.0,
+    "pct_licences_loisir": 8.0,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 15,
+    "pct_competiteurs_18m_licence_competition": 65.2
+  },
+  {
+    "code_structure": 1285116,
+    "nom": "CLUB DES ARCHERS DE CHANTONNAY",
+    "adresse": "31 AVENUE GEORGES CLEMENCEAU",
+    "cp": "85110",
+    "ville": "CHANTONNAY",
+    "lat": 46.6829965,
+    "lon": -1.048582217717718,
+    "email": "0",
+    "telephone": "251469617.0",
+    "site": null,
+    "logo_url": "logos/club_1285116.png",
+    "licences_total": 54,
+    "pourcentage_jeunes": 25.9,
+    "nb_arbitres": 2,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 4
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 2
+      }
+    ],
+    "nb_femmes": 23,
+    "nb_hommes": 31,
+    "nb_para": 4,
+    "pct_femmes": 42.6,
+    "pct_para": 7.4,
+    "label_club": null,
+    "jeunes_licencies": 21,
+    "jeunes_competiteurs_18m": 2,
+    "pct_jeunes_competiteurs_18m": 9.5,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 6,
+    "president": "Mme FILLON Morgane",
+    "arbitres": [
+      {
+        "nom": "BARIOD Edith",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "DEVINEAU Gerard",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BARIOD Edith",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "DEVINEAU GERARD",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "DEVINEAU GERARD",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "HUMEAU OLIVIER",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "RIGAUD OLIVIER",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "RIGAUD OLIVIER",
+        "diplome": "Entraîneur Fédéral"
+      }
+    ],
+    "licences_competition": 41,
+    "licences_loisir": 13,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 75.9,
+    "pct_licences_loisir": 24.1,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 12,
+    "pct_competiteurs_18m_licence_competition": 29.3
+  },
+  {
+    "code_structure": 1285117,
+    "nom": "ARCHERS DE ST GILLES CROIX VIE",
+    "adresse": "86 RUE DU BOIS MAIRIE DE ST GILLES CROIX VIE",
+    "cp": "85800",
+    "ville": "SAINT-GILLES-CROIX-DE-VIE",
+    "lat": 46.694404,
+    "lon": -1.926619,
+    "email": "archers.saint.gilles@gmail.com",
+    "telephone": "681030269.0",
+    "site": "http://www.archersdesaintgilles.fr",
+    "logo_url": "logos/club_1285117.png",
+    "licences_total": 81,
+    "pourcentage_jeunes": 16.0,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 3
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 3
+      }
+    ],
+    "nb_femmes": 29,
+    "nb_hommes": 52,
+    "nb_para": 0,
+    "pct_femmes": 35.8,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 20,
+    "jeunes_competiteurs_18m": 8,
+    "pct_jeunes_competiteurs_18m": 40.0,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature",
+      "Tir beursault"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D",
+      "Beursault"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 6,
+    "president": "M PEREIRA Guillaume",
+    "arbitres": [
+      {
+        "nom": "ROYER Jean-Pierre",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "GALLET JOSEPH",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "MILLIER Jean-Pol",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "MORAND Olivier",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "PEREDO Stephanie",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "PEREIRA Guillaume",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "QUIBLIER JEAN-MARCEL",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 73,
+    "licences_loisir": 8,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 90.1,
+    "pct_licences_loisir": 9.9,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 25,
+    "pct_competiteurs_18m_licence_competition": 34.2
+  },
+  {
+    "code_structure": 1285119,
+    "nom": "LES ARCHERS MONTOIS",
+    "adresse": "ROUTE DE CHALLANS",
+    "cp": "85160",
+    "ville": "SAINT JEAN DE MONTS",
+    "lat": 46.797445,
+    "lon": -2.044751,
+    "email": "duriezhugues@aol.com",
+    "telephone": "251591147.0",
+    "site": null,
+    "logo_url": "logos/club_1285119.png",
+    "licences_total": 31,
+    "pourcentage_jeunes": 22.6,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "DEJEPS",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 13,
+    "nb_hommes": 18,
+    "nb_para": 0,
+    "pct_femmes": 41.9,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 7,
+    "jeunes_competiteurs_18m": 2,
+    "pct_jeunes_competiteurs_18m": 28.6,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 2,
+    "president": "Mme DURIEZ SABINE",
+    "arbitres": [],
+    "entraineurs": [
+      {
+        "nom": "BUITRAGO JOLLY Maria",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "MIGNE Catherine",
+        "diplome": "DEJEPS"
+      }
+    ],
+    "licences_competition": 14,
+    "licences_loisir": 15,
+    "licences_dirigeant": 2,
+    "pct_licences_competition": 45.2,
+    "pct_licences_loisir": 48.4,
+    "pct_licences_dirigeant": 6.5,
+    "competiteurs_18m_licence_competition": 8,
+    "pct_competiteurs_18m_licence_competition": 57.1
+  },
+  {
+    "code_structure": 1285121,
+    "nom": "LES ARCHERS DE LA DIGUE",
+    "adresse": "COMPLEXE LEONARD DE VINCI D 202",
+    "cp": "85600",
+    "ville": "MONTAIGU-VENDÉE",
+    "lat": 46.970433,
+    "lon": -1.2972398,
+    "email": "archersdeladigue.president@gmail.com",
+    "telephone": "677707015.0",
+    "site": "http://archersdeladigue.fr/",
+    "logo_url": "logos/club_1285121.png",
+    "licences_total": 91,
+    "pourcentage_jeunes": 24.2,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Assistant Entraîneur",
+        "nb": 3
+      },
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 2
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 2
+      },
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 32,
+    "nb_hommes": 59,
+    "nb_para": 1,
+    "pct_femmes": 35.2,
+    "pct_para": 1.1,
+    "label_club": null,
+    "jeunes_licencies": 29,
+    "jeunes_competiteurs_18m": 9,
+    "pct_jeunes_competiteurs_18m": 31.0,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "3D",
+      "Para"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 8,
+    "president": "Mme ALLAIN HELENE",
+    "arbitres": [
+      {
+        "nom": "MARTIN Cedric",
+        "niveau": "Arbitre Formateur"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "ALLAIN HELENE",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "COUPRIE BENOIT",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "GUIBERT DOMINIQUE",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "MARTIN Cedric",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "POUPET MICHEL",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "RABREAU DANY",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "RABREAU Franck",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "UCKMAN ALEXIS",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 89,
+    "licences_loisir": 0,
+    "licences_dirigeant": 2,
+    "pct_licences_competition": 97.8,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 2.2,
+    "competiteurs_18m_licence_competition": 43,
+    "pct_competiteurs_18m_licence_competition": 48.3
+  },
+  {
+    "code_structure": 1285122,
+    "nom": "TIR ARC FONTENAISIEN",
+    "adresse": "CHEMIN AVENUE DU GÉNÉRAL DE GAULLE",
+    "cp": "85200",
+    "ville": "FONTENAY-LE-COMTE",
+    "lat": 46.4589873,
+    "lon": -0.812439830300249,
+    "email": "archers.fontenay@gmail.com",
+    "telephone": "251528543.0",
+    "site": "https://tiralarcfontenaisien.wordpress.com/",
+    "logo_url": "logos/club_1285122.png",
+    "licences_total": 97,
+    "pourcentage_jeunes": 26.8,
+    "nb_arbitres": 3,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Assistant Entraîneur",
+        "nb": 3
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 34,
+    "nb_hommes": 63,
+    "nb_para": 10,
+    "pct_femmes": 35.1,
+    "pct_para": 10.3,
+    "label_club": null,
+    "jeunes_licencies": 39,
+    "jeunes_competiteurs_18m": 16,
+    "pct_jeunes_competiteurs_18m": 41.0,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 4,
+    "president": "M CONSTANTIN JEAN-MICHEL",
+    "arbitres": [
+      {
+        "nom": "CONSTANTIN Jean-Michel",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "HUAULME Lucas",
+        "niveau": "Jeune Arbitre"
+      },
+      {
+        "nom": "JOUSSEMET Emmanuel",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BOBIN DANIELLE",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "CONSTANTIN ALIZEE",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "CONSTANTIN Mylene",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "GUERINEAU CATHERINE",
+        "diplome": "Assistant Entraîneur"
+      }
+    ],
+    "licences_competition": 76,
+    "licences_loisir": 19,
+    "licences_dirigeant": 2,
+    "pct_licences_competition": 78.4,
+    "pct_licences_loisir": 19.6,
+    "pct_licences_dirigeant": 2.1,
+    "competiteurs_18m_licence_competition": 45,
+    "pct_competiteurs_18m_licence_competition": 59.2
+  },
+  {
+    "code_structure": 1285123,
+    "nom": "LES ARCHERS DU PAYS DU GOIS",
+    "adresse": "27 RUE DU PUITS PINEAU",
+    "cp": "85230",
+    "ville": "BEAUVOIR-SUR-MER",
+    "lat": 46.913462105583314,
+    "lon": -2.04089679309572,
+    "email": "archers-du-pays-du-gois@laposte.net",
+    "telephone": "767804530.0",
+    "site": "http://www.archersdupaysdugois.wordpress.com",
+    "logo_url": "logos/club_1285123.png",
+    "licences_total": 50,
+    "pourcentage_jeunes": 28.0,
+    "nb_arbitres": 2,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 14,
+    "nb_hommes": 36,
+    "nb_para": 0,
+    "pct_femmes": 28.0,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 20,
+    "jeunes_competiteurs_18m": 8,
+    "pct_jeunes_competiteurs_18m": 40.0,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 2,
+    "president": "M HILAIRE Joris",
+    "arbitres": [
+      {
+        "nom": "BARBEAU Theo",
+        "niveau": "Jeune Arbitre"
+      },
+      {
+        "nom": "BERENGUER Roger",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BERENGUER Roger",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "FIGUREAU JONATHAN",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
+    "licences_competition": 40,
+    "licences_loisir": 10,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 80.0,
+    "pct_licences_loisir": 20.0,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 20,
+    "pct_competiteurs_18m_licence_competition": 50.0
+  },
+  {
+    "code_structure": 1285124,
+    "nom": "ARCHERS DE GROSBREUIL",
+    "adresse": "1 IMPASSE DU STADE",
+    "cp": "85440",
+    "ville": "GROSBREUIL",
+    "lat": 46.54156055,
+    "lon": -1.61457335,
+    "email": "archersdegrosbreuil@orange.fr",
+    "telephone": "685881596.0",
+    "site": "http://www.archersdegrosbreuil.com",
+    "logo_url": "logos/club_1285124.png",
+    "licences_total": 60,
+    "pourcentage_jeunes": 25.0,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 19,
+    "nb_hommes": 41,
+    "nb_para": 3,
+    "pct_femmes": 31.7,
+    "pct_para": 5.0,
+    "label_club": null,
+    "jeunes_licencies": 23,
+    "jeunes_competiteurs_18m": 4,
+    "pct_jeunes_competiteurs_18m": 17.4,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 1,
+    "president": "M FONTENELLE Patrick",
+    "arbitres": [
+      {
+        "nom": "MORA-TACHE Chantal",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "FONTENELLE Patrick",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 43,
+    "licences_loisir": 18,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 70.5,
+    "pct_licences_loisir": 29.5,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 18,
+    "pct_competiteurs_18m_licence_competition": 41.9
+  },
+  {
+    "code_structure": 1285125,
+    "nom": "ARCHERS DE BARBATRE",
+    "adresse": "RUE DE LA GAUDINIÈRE",
+    "cp": "85630",
+    "ville": "BARBÂTRE",
+    "lat": 46.9417533,
+    "lon": -2.172377795266465,
+    "email": "archersdebarbatre@gmail.com",
+    "telephone": "0.0",
+    "site": "http://archers-de-barbatre.clubeo.com",
+    "logo_url": "logos/club_1285125.png",
+    "licences_total": 54,
+    "pourcentage_jeunes": 14.8,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 18,
+    "nb_hommes": 36,
+    "nb_para": 1,
+    "pct_femmes": 33.3,
+    "pct_para": 1.9,
+    "label_club": null,
+    "jeunes_licencies": 8,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0.0,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M LEROY Jean-Jacques",
+    "arbitres": [],
+    "entraineurs": [],
+    "licences_competition": 21,
+    "licences_loisir": 33,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 38.9,
+    "pct_licences_loisir": 61.1,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 9,
+    "pct_competiteurs_18m_licence_competition": 42.9
+  },
+  {
+    "code_structure": 1285126,
+    "nom": "CIE D'ARCHERS SAINT GEORGES",
+    "adresse": "RUE ROBERT DAUGER",
+    "cp": "85000",
+    "ville": "LA ROCHE-SUR-YON",
+    "lat": 46.6917292,
+    "lon": -1.445104675797525,
+    "email": "0",
+    "telephone": "0.0",
+    "site": "https://casg.fr",
+    "logo_url": "logos/club_1285126.png",
+    "licences_total": 80,
+    "pourcentage_jeunes": 23.8,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 3
+      }
+    ],
+    "nb_femmes": 30,
+    "nb_hommes": 50,
+    "nb_para": 7,
+    "pct_femmes": 37.5,
+    "pct_para": 8.8,
+    "label_club": null,
+    "jeunes_licencies": 29,
+    "jeunes_competiteurs_18m": 1,
+    "pct_jeunes_competiteurs_18m": 3.4,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 3,
+    "president": "Mme LE REUN Gwenola",
+    "arbitres": [],
+    "entraineurs": [
+      {
+        "nom": "BONNIN CLEMENCE",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "COCHAIS Adele",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "THIAUDIERE PASCAL",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
+    "licences_competition": 48,
+    "licences_loisir": 35,
+    "licences_dirigeant": 1,
+    "pct_licences_competition": 57.1,
+    "pct_licences_loisir": 41.7,
+    "pct_licences_dirigeant": 1.2,
+    "competiteurs_18m_licence_competition": 11,
+    "pct_competiteurs_18m_licence_competition": 22.9
+  },
+  {
+    "code_structure": 1285128,
+    "nom": "LES ARCHERS DU HAUT BOCAGE",
+    "adresse": "RUE CHARLES LARGETEAU",
+    "cp": "85700",
+    "ville": "POUZAUGES",
+    "lat": 46.77658135,
+    "lon": -0.842484522279263,
+    "email": "archers.pouzauges@orange.fr",
+    "telephone": "633845925.0",
+    "site": "http://club.sportsregions.fr/archersdepouzauges/",
+    "logo_url": "logos/club_1285128.png",
+    "licences_total": 36,
+    "pourcentage_jeunes": 44.4,
+    "nb_arbitres": 3,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 2
+      }
+    ],
+    "nb_femmes": 11,
+    "nb_hommes": 25,
+    "nb_para": 0,
+    "pct_femmes": 30.6,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 22,
+    "jeunes_competiteurs_18m": 2,
+    "pct_jeunes_competiteurs_18m": 9.1,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 2,
+    "president": "M PAILLAT FREDERIC",
+    "arbitres": [
+      {
+        "nom": "BOURASSEAU Jeremy",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "DEVAUTOUR Sarah",
+        "niveau": "Jeune Arbitre"
+      },
+      {
+        "nom": "PAILLAT Emmanuel",
+        "niveau": "Arbitre Formateur"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "PAILLAT Emmanuel",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "PAILLAT FREDERIC",
+        "diplome": "Entraîneur 1"
+      }
+    ],
+    "licences_competition": 36,
+    "licences_loisir": 0,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 100.0,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 11,
+    "pct_competiteurs_18m_licence_competition": 30.6
+  },
+  {
+    "code_structure": 1285129,
+    "nom": "LES ARCHERS ST AUBINOIS",
+    "adresse": "SALLE DU VERDIER RUE DU LAVOIR",
+    "cp": "85130",
+    "ville": "ST AUBIN DES ORMEAUX",
+    "lat": 46.961181640625,
+    "lon": -1.05958437919617,
+    "email": "archerssaintaubinois@yahoo.fr",
+    "telephone": "0.0",
+    "site": null,
+    "logo_url": "logos/club_1285129.png",
+    "licences_total": 28,
+    "pourcentage_jeunes": 21.4,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 2
+      }
+    ],
+    "nb_femmes": 9,
+    "nb_hommes": 19,
+    "nb_para": 0,
+    "pct_femmes": 32.1,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 10,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0.0,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 2,
+    "president": "M AUGUIN BENOIT",
+    "arbitres": [
+      {
+        "nom": "DEVANNE Jerome",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "AUGUIN BENOIT",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "HULLIN Bruno",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
+    "licences_competition": 17,
+    "licences_loisir": 11,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 60.7,
+    "pct_licences_loisir": 39.3,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 6,
+    "pct_competiteurs_18m_licence_competition": 35.3
+  },
+  {
+    "code_structure": 1285130,
+    "nom": "ARCHERS DE LA CHOUANNERIE",
+    "adresse": "SALLE OMNISPORTS 53 RUE DE L'ÉGLISE",
+    "cp": "85400",
+    "ville": "LES MAGNILS-REIGNIERS",
+    "lat": 46.4763983,
+    "lon": -1.221002,
+    "email": "archers.delachouannerie@orange.fr",
+    "telephone": "682447307.0",
+    "site": "http://les-archers-de-la-chouannerie.clubeo.com",
+    "logo_url": "logos/club_1285130.png",
+    "licences_total": 36,
+    "pourcentage_jeunes": 30.6,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 12,
+    "nb_hommes": 24,
+    "nb_para": 1,
+    "pct_femmes": 33.3,
+    "pct_para": 2.8,
+    "label_club": null,
+    "jeunes_licencies": 15,
+    "jeunes_competiteurs_18m": 5,
+    "pct_jeunes_competiteurs_18m": 33.3,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature"
+    ],
+    "pratiques": [
+      "Salle",
+      "Campagne",
+      "Nature",
+      "3D"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M BARRAUD Eric",
+    "arbitres": [],
+    "entraineurs": [],
+    "licences_competition": 32,
+    "licences_loisir": 3,
+    "licences_dirigeant": 1,
+    "pct_licences_competition": 88.9,
+    "pct_licences_loisir": 8.3,
+    "pct_licences_dirigeant": 2.8,
+    "competiteurs_18m_licence_competition": 10,
+    "pct_competiteurs_18m_licence_competition": 31.2
+  },
+  {
+    "code_structure": 1285131,
+    "nom": "AMICALE DU BEIGNON BASSET",
+    "adresse": "6 RUE DE LA VIOLETTE LE-BEIGNON-BASSET",
+    "cp": "85170",
+    "ville": "LE POIRE SUR VIE",
+    "lat": 46.8031692504883,
+    "lon": -1.45953416824341,
+    "email": "e.berthy@wanadoo.fr",
+    "telephone": "0.0",
+    "site": "https://www.amicale-beignonbasset.fr/",
+    "logo_url": "logos/club_1285131.png",
+    "licences_total": 32,
+    "pourcentage_jeunes": 3.1,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 9,
+    "nb_hommes": 23,
+    "nb_para": 1,
+    "pct_femmes": 28.1,
+    "pct_para": 3.1,
+    "label_club": null,
+    "jeunes_licencies": 5,
+    "jeunes_competiteurs_18m": 2,
+    "pct_jeunes_competiteurs_18m": 40.0,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m"
+    ],
+    "pratiques": [
+      "Salle"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M GAUTIER Hubert",
+    "arbitres": [
+      {
+        "nom": "REMAUD Marc",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [],
+    "licences_competition": 30,
+    "licences_loisir": 2,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 93.8,
+    "pct_licences_loisir": 6.2,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 13,
+    "pct_competiteurs_18m_licence_competition": 43.3
+  },
+  {
+    "code_structure": 1285132,
+    "nom": "LES ARCHERS SABLAIS",
+    "adresse": "10 RUE DES ARCHERS OLONNE SUR MER",
+    "cp": "85100",
+    "ville": "LES SABLES D OLONNE",
+    "lat": 46.5008,
+    "lon": -1.79255,
+    "email": "archers.sablais@gmail.com",
+    "telephone": "0.0",
+    "site": "http://arc-sablais.sportsregions.fr/",
+    "logo_url": "logos/club_1285132.png",
+    "licences_total": 148,
+    "pourcentage_jeunes": 19.6,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 8
+      },
+      {
+        "niveau": "DEJEPS",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur 1 + CQP",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 58,
+    "nb_hommes": 90,
+    "nb_para": 0,
+    "pct_femmes": 39.2,
+    "pct_para": 0.0,
+    "label_club": "Espoir",
+    "jeunes_licencies": 44,
+    "jeunes_competiteurs_18m": 21,
+    "pct_jeunes_competiteurs_18m": 47.7,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature",
+      "Run Archery",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D",
+      "Para",
+      "Run Archery"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 11,
+    "president": "Mme GAUTIER Christelle",
+    "arbitres": [
+      {
+        "nom": "COSSON Richard",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BARRETEAU Jean Claude",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "BATARD FRANCOIS",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "BICHARD Catherine",
+        "diplome": "DEJEPS"
+      },
+      {
+        "nom": "BOISSEAU Huguette",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "CHAIGNEAU Dominique",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "DEBRY Sylvain",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "DEHIERE Alain",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "DUFEU Elisabeth",
+        "diplome": "Entraîneur 1 + CQP"
+      },
+      {
+        "nom": "HUCHET Paul",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "POUPON Sebastien",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "VALERIUS DE BEFFORT FLORENCE",
+        "diplome": "Entraîneur Fédéral"
+      }
+    ],
+    "licences_competition": 148,
+    "licences_loisir": 1,
+    "licences_dirigeant": 1,
+    "pct_licences_competition": 98.7,
+    "pct_licences_loisir": 0.7,
+    "pct_licences_dirigeant": 0.7,
+    "competiteurs_18m_licence_competition": 60,
+    "pct_competiteurs_18m_licence_competition": 40.5
+  },
+  {
+    "code_structure": 1285133,
+    "nom": "L'ARCHER CLUB D'AIZENAY",
+    "adresse": "RUE DU PONT DE QUATRE MÈTRES CHEZ MADAME EMMANUELLE CLAUTOUR",
+    "cp": "85190",
+    "ville": "AIZENAY",
+    "lat": 46.73493065,
+    "lon": -1.608013584000952,
+    "email": "pascal.grude@orange.fr",
+    "telephone": "33617399535.0",
+    "site": "http://archer-club-aizenay.club.sportsregions.fr",
+    "logo_url": "logos/club_1285133.png",
+    "licences_total": 82,
+    "pourcentage_jeunes": 20.7,
+    "nb_arbitres": 3,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 2
+      },
+      {
+        "niveau": "Assistant Entraîneur + CQP",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur Fédéral + CQP",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 25,
+    "nb_hommes": 57,
+    "nb_para": 2,
+    "pct_femmes": 30.5,
+    "pct_para": 2.4,
+    "label_club": "Ambition",
+    "jeunes_licencies": 28,
+    "jeunes_competiteurs_18m": 11,
+    "pct_jeunes_competiteurs_18m": 39.3,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Para"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 5,
+    "president": "M GRUDE Pascal",
+    "arbitres": [
+      {
+        "nom": "BEGOC Anne-Gaelle",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "PRIOUX Jean Luc",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "TOUZEAU Kevin",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "BEGOC Anne-Gaelle",
+        "diplome": "Assistant Entraîneur + CQP"
+      },
+      {
+        "nom": "EISENBETH Michael",
+        "diplome": "Entraîneur Fédéral + CQP"
+      },
+      {
+        "nom": "GRUDE-DELAROUX Pierre",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "JEANNEAU Michel",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "JUNKER Guillaume",
+        "diplome": "Entraîneur Fédéral"
+      }
+    ],
+    "licences_competition": 67,
+    "licences_loisir": 15,
+    "licences_dirigeant": 3,
+    "pct_licences_competition": 78.8,
+    "pct_licences_loisir": 17.6,
+    "pct_licences_dirigeant": 3.5,
+    "competiteurs_18m_licence_competition": 47,
+    "pct_competiteurs_18m_licence_competition": 70.1
+  },
+  {
+    "code_structure": 1285134,
+    "nom": "ARCHERS CHALLANDAIS",
+    "adresse": "23 BOULEVARD VIAUD GRAND MARAIS",
+    "cp": "85300",
+    "ville": "CHALLANS",
+    "lat": 46.848826,
+    "lon": -1.873538,
+    "email": "maurice.brebant@icloud.com",
+    "telephone": "0.0",
+    "site": null,
+    "logo_url": "logos/club_1285134.png",
+    "licences_total": 50,
+    "pourcentage_jeunes": 24.0,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur 1",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur 2",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur Fédéral",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 21,
+    "nb_hommes": 29,
+    "nb_para": 1,
+    "pct_femmes": 42.0,
+    "pct_para": 2.0,
+    "label_club": null,
+    "jeunes_licencies": 14,
+    "jeunes_competiteurs_18m": 2,
+    "pct_jeunes_competiteurs_18m": 14.3,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 4,
+    "president": "M BREBANT Maurice",
+    "arbitres": [],
+    "entraineurs": [
+      {
+        "nom": "BREBANT Maurice",
+        "diplome": "Entraîneur 2"
+      },
+      {
+        "nom": "MASSICOT Jean Pierre",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "PLANCKEEL Paul",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "VALLE GILDAS",
+        "diplome": "Entraîneur Fédéral"
+      }
+    ],
+    "licences_competition": 45,
+    "licences_loisir": 5,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 90.0,
+    "pct_licences_loisir": 10.0,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 8,
+    "pct_competiteurs_18m_licence_competition": 17.8
+  },
+  {
+    "code_structure": 1285135,
+    "nom": "ARCHERS RICHELIEU",
+    "adresse": "CHEMIN DE L'OUCHE DES SARDINES",
+    "cp": "85400",
+    "ville": "LUÇON",
+    "lat": 46.4573617,
+    "lon": -1.187515170975696,
+    "email": "les.archers.richelieu.lucon@gmail.com",
+    "telephone": "0.0",
+    "site": null,
+    "logo_url": "logos/club_1285135.png",
+    "licences_total": 42,
+    "pourcentage_jeunes": 14.3,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 17,
+    "nb_hommes": 25,
+    "nb_para": 0,
+    "pct_femmes": 40.5,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 14,
+    "jeunes_competiteurs_18m": 8,
+    "pct_jeunes_competiteurs_18m": 57.1,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M AMIOT Serge",
+    "arbitres": [
+      {
+        "nom": "VANDENBUSSCHE Stephanie",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [],
+    "licences_competition": 29,
+    "licences_loisir": 11,
+    "licences_dirigeant": 2,
+    "pct_licences_competition": 69.0,
+    "pct_licences_loisir": 26.2,
+    "pct_licences_dirigeant": 4.8,
+    "competiteurs_18m_licence_competition": 19,
+    "pct_competiteurs_18m_licence_competition": 65.5
+  },
+  {
+    "code_structure": 1285138,
+    "nom": "LES ROBINS DES FOY",
+    "adresse": "ALLÉE DES PINS",
+    "cp": "85150",
+    "ville": "STE FOY",
+    "lat": 46.546422,
+    "lon": -1.677831,
+    "email": "0",
+    "telephone": "637997787.0",
+    "site": "https://lesrobinsdesfoy.sportsregions.fr/",
+    "logo_url": "logos/club_1285138.png",
+    "licences_total": 28,
+    "pourcentage_jeunes": 14.3,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 1
+      },
+      {
+        "niveau": "Entraîneur 2",
+        "nb": 1
+      }
+    ],
+    "nb_femmes": 12,
+    "nb_hommes": 16,
+    "nb_para": 0,
+    "pct_femmes": 42.9,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": 9,
+    "jeunes_competiteurs_18m": 6,
+    "pct_jeunes_competiteurs_18m": 66.7,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 2,
+    "president": "Mme HOARAU-ECLAPIER DIANE",
+    "arbitres": [
+      {
+        "nom": "DEPIETS Emilie",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "DEPIETS Michel",
+        "diplome": "Entraîneur 2"
+      },
+      {
+        "nom": "GIET Pascal",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
+    "licences_competition": 27,
+    "licences_loisir": 1,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 96.4,
+    "pct_licences_loisir": 3.6,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 15,
+    "pct_competiteurs_18m_licence_competition": 55.6
+  },
+  {
+    "code_structure": 1285141,
+    "nom": "LES FLECHES D ALIENOR",
+    "adresse": "AVENUE DES SPORTS",
+    "cp": "85440",
+    "ville": "TALMONT-SAINT-HILAIRE",
+    "lat": 46.46492405,
+    "lon": -1.632421636215615,
+    "email": "photoevenement59@free.fr",
+    "telephone": "0.0",
+    "site": null,
+    "logo_url": "logos/club_1285141.png",
+    "licences_total": 65,
+    "pourcentage_jeunes": 20.0,
+    "nb_arbitres": 0,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Fédéral",
+        "nb": 2
+      }
+    ],
+    "nb_femmes": 20,
+    "nb_hommes": 45,
+    "nb_para": 1,
+    "pct_femmes": 30.8,
+    "pct_para": 1.5,
+    "label_club": null,
+    "jeunes_licencies": 13,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0.0,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir nature",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "Para"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 2,
+    "president": "M POIRAUD Lionel",
+    "arbitres": [],
+    "entraineurs": [
+      {
+        "nom": "DEBRY Sylvain",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "POIRAUD Lionel",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
+    "licences_competition": 20,
+    "licences_loisir": 40,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 33.3,
+    "pct_licences_loisir": 66.7,
+    "pct_licences_dirigeant": 0.0,
+    "competiteurs_18m_licence_competition": 3,
+    "pct_competiteurs_18m_licence_competition": 15.0
+  },
+  {
+    "code_structure": 1285142,
+    "nom": "SOCIÉTÉ DE TIR À L'ARC LA CHÂTAIGNERAIE",
+    "adresse": "30 AVENUE GEORGE CLÉMENCEAU",
+    "cp": "85120",
+    "ville": "LA CHÂTAIGNERAIE",
+    "lat": 46.653206,
+    "lon": -0.748927,
+    "email": "performance-services@orange.fr",
+    "telephone": "251004670.0",
+    "site": null,
+    "logo_url": "logos/club_1285142.png",
+    "licences_total": 22,
+    "pourcentage_jeunes": 50.0,
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 9,
+    "nb_hommes": 13,
+    "nb_para": 1,
+    "pct_femmes": 40.9,
+    "pct_para": 4.5,
+    "label_club": null,
+    "jeunes_licencies": 12,
+    "jeunes_competiteurs_18m": 2,
+    "pct_jeunes_competiteurs_18m": 16.7,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature",
+      "Run Archery",
+      "Para-Tir à l'arc"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D",
+      "Para",
+      "Run Archery"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M WILLEKENS Frederic",
+    "arbitres": [
+      {
+        "nom": "WILLEKENS Frederic",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [],
+    "licences_competition": 18,
+    "licences_loisir": 0,
+    "licences_dirigeant": 5,
+    "pct_licences_competition": 78.3,
+    "pct_licences_loisir": 0.0,
+    "pct_licences_dirigeant": 21.7,
+    "competiteurs_18m_licence_competition": 4,
+    "pct_competiteurs_18m_licence_competition": 22.2
+  },
+  {
+    "code_structure": 1285143,
+    "nom": "ARCHERY LEGACY VENDÉE",
+    "adresse": "RUE KER AIME",
+    "cp": "85230",
+    "ville": "BEAUVOIR-SUR-MER",
+    "lat": 46.9181,
+    "lon": -1.9771,
+    "email": "pascal.lapkine@outlook.fr",
+    "telephone": "251944221.0",
+    "site": null,
+    "logo_url": "logos/club_1285143.png",
+    "licences_total": 10,
+    "pourcentage_jeunes": 0.0,
+    "nb_arbitres": 3,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 1,
+    "nb_hommes": 9,
+    "nb_para": 0,
+    "pct_femmes": 10.0,
+    "pct_para": 0.0,
+    "label_club": null,
+    "jeunes_licencies": null,
+    "jeunes_competiteurs_18m": null,
+    "pct_jeunes_competiteurs_18m": null,
+    "departement": "85",
+    "disciplines": [
+      "Tir à 18m",
+      "Tir à l'extérieur",
+      "Tir en campagne",
+      "Tir 3D",
+      "Tir nature"
+    ],
+    "pratiques": [
+      "Salle",
+      "TAE",
+      "Campagne",
+      "Nature",
+      "3D"
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 0,
+    "president": "M LAPKINE Pascal",
+    "arbitres": [
+      {
+        "nom": "LAPKINE Pascal",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "RABALLAND Gael",
+        "niveau": "Arbitre Fédéral"
+      },
+      {
+        "nom": "SCIANDRA Daniel",
+        "niveau": "Arbitre Fédéral"
+      }
+    ],
+    "entraineurs": [],
+    "licences_competition": 6,
+    "licences_loisir": 2,
+    "licences_dirigeant": 2,
+    "pct_licences_competition": 60.0,
+    "pct_licences_loisir": 20.0,
+    "pct_licences_dirigeant": 20.0,
+    "competiteurs_18m_licence_competition": 1,
+    "pct_competiteurs_18m_licence_competition": 16.7
+  }
+]

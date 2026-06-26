@@ -1,0 +1,69 @@
+<!--
+© 2026 Comité Régional de Tir à l'Arc Pays de la Loire
+-->
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Trouver un club — Tir à l'Arc Pays de la Loire</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Carte plein écran -->
+    <div id="map"></div>
+
+    <!-- Header -->
+    <header class="app-header">
+        <div class="header-brand">
+            <img src="assets/logo_cr_pdl.png" alt="CR Tir à l'Arc PDL" class="header-logo">
+            <div class="header-titles">
+                <span class="header-title">Tir à l'Arc</span>
+                <span class="header-subtitle">Pays de la Loire</span>
+            </div>
+        </div>
+        <div class="header-search">
+            <i class="fas fa-search"></i>
+            <input type="text" id="search" placeholder="Ville, nom de club…" autocomplete="off">
+            <button id="btnClearSearch" class="btn-clear-search" title="Effacer"><i class="fas fa-times"></i></button>
+        </div>
+        <div class="header-count">
+            <span id="clubCount">—</span> clubs
+        </div>
+    </header>
+
+    <!-- Filtres -->
+    <div class="filters-bar">
+        <div class="dept-chips" id="deptChips">
+            <button class="chip active" data-dept="">Tous</button>
+        </div>
+        <div class="filter-divider"></div>
+        <select id="practice" class="filter-select">
+            <option value="">Toutes disciplines</option>
+            <option value="TAE">Extérieur (TAE)</option>
+            <option value="Salle">Tir en Salle</option>
+            <option value="Campagne">Campagne</option>
+            <option value="3D">Tir 3D</option>
+            <option value="Nature">Nature</option>
+        </select>
+    </div>
+
+    <!-- Panel détail club -->
+    <aside id="clubPanel" class="club-panel">
+        <button class="panel-close" id="panelClose"><i class="fas fa-times"></i></button>
+        <div id="panelContent"></div>
+    </aside>
+    <div id="panelOverlay" class="panel-overlay"></div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

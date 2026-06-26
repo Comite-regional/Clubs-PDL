@@ -1,0 +1,8 @@
+.DS_Store
+*.numbers
+*.xlsx
+*.csv
+*.pdf
+Unknown.png
+logos_manifest.csv
+.claude/
