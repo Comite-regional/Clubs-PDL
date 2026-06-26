@@ -115,13 +115,56 @@ function renderPanel(c) {
 
     <div class="panel-body">
 
-        ${c.licences_total ? `
+        ${(c.nb_femmes != null && c.nb_hommes != null) ? (() => {
+            const total = (c.nb_femmes || 0) + (c.nb_hommes || 0);
+            const pctF = total ? Math.round((c.nb_femmes / total) * 100) : 50;
+            const pctH = 100 - pctF;
+            return `
         <div class="panel-section">
-            <div class="membres-badge">
-                <span class="nb">${c.licences_total}</span>
-                <span class="label">licencié${c.licences_total > 1 ? 's' : ''}</span>
+            <div class="panel-section-title">Répartition</div>
+            <div class="gender-bar-wrap">
+                <span class="gender-label gender-f"><i class="fas fa-venus"></i></span>
+                <div class="gender-bar">
+                    <div class="gender-bar-f" style="width:${pctF}%"></div>
+                    <div class="gender-bar-m" style="width:${pctH}%"></div>
+                </div>
+                <span class="gender-label gender-m"><i class="fas fa-mars"></i></span>
             </div>
-        </div>` : ''}
+        </div>`;
+        })() : ''}
+
+        ${c.entraineurs?.length ? (() => {
+            const DIPLOME_CONFIG = {
+                'DEJEPS':                        { short: 'DEJEPS',       color: '#7c3aed' },
+                'Entraîneur 2 + CQP':            { short: 'ENT. 2 + CQP', color: '#b91c1c' },
+                'Entraîneur 2':                  { short: 'ENT. 2',        color: '#dc2626' },
+                'Entraîneur 1 + CQP':            { short: 'ENT. 1 + CQP', color: '#c2410c' },
+                'Entraîneur 1':                  { short: 'ENT. 1',        color: '#ea580c' },
+                'Entraîneur Fédéral + CQP':      { short: 'ENT. FÉD. + CQP', color: '#1d4ed8' },
+                'Entraîneur Fédéral':            { short: 'ENT. FÉD.',    color: '#2563eb' },
+                'Encadrant Fédéral':             { short: 'ENC. FÉD.',    color: '#0891b2' },
+                'Assistant Entraîneur + CQP':    { short: 'ASSIST. + CQP', color: '#059669' },
+                'Assistant Entraîneur':          { short: 'ASSIST.',       color: '#10b981' },
+                "CQP Animateur Tir à l'Arc":     { short: 'CQP',           color: '#65a30d' },
+                'Initiateur':                    { short: 'INITIATEUR',    color: '#6b7280' },
+            };
+            const counts = {};
+            c.entraineurs.forEach(e => {
+                const d = e.diplome || 'Autre';
+                counts[d] = (counts[d] || 0) + 1;
+            });
+            const badges = Object.entries(counts).map(([dip, n]) => {
+                const cfg = DIPLOME_CONFIG[dip] || { short: dip, color: '#64748b' };
+                return `<span class="diplome-badge" style="background:${cfg.color}22;color:${cfg.color};border-color:${cfg.color}44">
+                    ${esc(cfg.short)}<span class="diplome-count">×${n}</span>
+                </span>`;
+            }).join('');
+            return `
+        <div class="panel-section">
+            <div class="panel-section-title">Entraîneurs (${c.entraineurs.length})</div>
+            <div class="diplomes-grid">${badges}</div>
+        </div>`;
+        })() : ''}
 
         <div class="panel-section">
             <div class="panel-section-title">Disciplines pratiquées</div>

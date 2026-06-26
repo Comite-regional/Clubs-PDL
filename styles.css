@@ -426,26 +426,53 @@ a.contact-item:hover .contact-icon {
     font-weight: 700;
 }
 
-/* Membres count */
-.membres-badge {
+/* Barre genre */
+.gender-bar-wrap {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.gender-bar {
+    flex: 1;
+    height: 10px;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+}
+
+.gender-bar-f { background: #db2922; }
+.gender-bar-m { background: #353089; }
+
+.gender-label {
+    font-size: 16px;
+    flex-shrink: 0;
+}
+.gender-f { color: #db2922; }
+.gender-m { color: #353089; }
+
+/* Badges diplômes */
+.diplomes-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.diplome-badge {
     display: inline-flex;
-    align-items: baseline;
-    gap: 6px;
-    background: var(--red-light);
-    color: var(--red);
-    border-radius: var(--radius);
-    padding: 12px 18px;
+    align-items: center;
+    gap: 5px;
+    padding: 5px 10px;
+    border-radius: 20px;
+    border: 1.5px solid;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.3px;
 }
 
-.membres-badge .nb {
-    font-size: 28px;
+.diplome-count {
     font-weight: 800;
-    line-height: 1;
-}
-
-.membres-badge .label {
-    font-size: 13px;
-    font-weight: 600;
+    opacity: 0.85;
 }
 
 /* Bouton satellite */
