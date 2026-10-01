@@ -7139,8 +7139,13 @@
     "licences_total": 6,
     "pourcentage_jeunes": 0,
     "nb_arbitres": 1,
-    "a_arbitre": false,
-    "niveaux_entraineurs": [],
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      {
+        "niveau": "Encadrant Club",
+        "nb": 1
+      }
+    ],
     "nb_femmes": 1,
     "nb_hommes": 5,
     "nb_para": 0,
@@ -7152,18 +7157,12 @@
     "pct_jeunes_competiteurs_18m": 0,
     "departement": "72",
     "disciplines": [
-      "TAE",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Tir à 18m",
+      "Tir à l'extérieur"
     ],
     "pratiques": [
-      "",
-      ""
+      "Salle",
+      "TAE"
     ],
     "discipline_principale": null,
     "nb_entraineurs": 1,
@@ -7171,17 +7170,13 @@
     "arbitres": [
       {
         "nom": "LECOMTE Dimitri",
-        "niveau": "Arbitre fédéral"
-      },
-      {
-        "nom": "",
-        "niveau": ""
+        "niveau": "Arbitre Fédéral"
       }
     ],
     "entraineurs": [
       {
-        "nom": "",
-        "diplome": ""
+        "nom": "LECOMTE Dimitri",
+        "diplome": "Encadrant Club"
       }
     ],
     "licences_competition": 6,
