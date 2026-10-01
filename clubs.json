@@ -7123,5 +7123,74 @@
     "pct_licences_dirigeant": 20,
     "competiteurs_18m_licence_competition": 1,
     "pct_competiteurs_18m_licence_competition": 16.7
+  },
+  {
+    "code_structure": 1272144,
+    "nom": "LES ARCHERS DU GRAND-LUCÉ",
+    "adresse": "8 RUE DE L'HÔTEL DE VILLE",
+    "cp": "72150",
+    "ville": "LE GRAND-LUCÉ",
+    "lat": 47.867656,
+    "lon": 0.469622,
+    "email": "lesarchersdugrandluce@gmail.com",
+    "telephone": "06 48 42 10 14",
+    "site": null,
+    "logo_url": "logos/club_1272144.png",
+    "licences_total": 6,
+    "pourcentage_jeunes": 0,
+    "nb_arbitres": 1,
+    "a_arbitre": false,
+    "niveaux_entraineurs": [],
+    "nb_femmes": 1,
+    "nb_hommes": 5,
+    "nb_para": 0,
+    "pct_femmes": 16.7,
+    "pct_para": 0,
+    "label_club": null,
+    "jeunes_licencies": 1,
+    "jeunes_competiteurs_18m": 0,
+    "pct_jeunes_competiteurs_18m": 0,
+    "departement": "72",
+    "disciplines": [
+      "TAE",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "pratiques": [
+      "",
+      ""
+    ],
+    "discipline_principale": null,
+    "nb_entraineurs": 1,
+    "president": "LECOMTE Dimitri",
+    "arbitres": [
+      {
+        "nom": "LECOMTE Dimitri",
+        "niveau": "Arbitre fédéral"
+      },
+      {
+        "nom": "",
+        "niveau": ""
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "",
+        "diplome": ""
+      }
+    ],
+    "licences_competition": 6,
+    "licences_loisir": 0,
+    "licences_dirigeant": 0,
+    "pct_licences_competition": 0,
+    "pct_licences_loisir": 0,
+    "pct_licences_dirigeant": 0,
+    "competiteurs_18m_licence_competition": 0,
+    "pct_competiteurs_18m_licence_competition": 0
   }
 ]
