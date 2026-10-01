@@ -147,10 +147,10 @@ function renderPanel(c) {
                 'Assistant Entraîneur':          { short: 'ASSIST.',       color: '#10b981' },
                 "CQP Animateur Tir à l'Arc":     { short: 'CQP',           color: '#65a30d' },
                 'Initiateur':                    { short: 'INITIATEUR',    color: '#6b7280' },
-                'Encadrant Club':                { short: 'ENC. CLUB',     color: '#94a3b8' },
-                'BFI':                           { short: 'BFI',           color: '#f59e0b' },
-                'BFE':                           { short: 'BFE',           color: '#d97706' },
-                'BFX':                           { short: 'BFX',           color: '#b45309' },
+                'Encadrant Club':                { short: 'ENC. CLUB',     color: '#1a1a1a' },
+                'BFI':                           { short: 'BFI',           color: '#38bdf8' },
+                'BFE':                           { short: 'BFE',           color: '#db2922' },
+                'BFX':                           { short: 'BFX',           color: '#eab308' },
             };
             const counts = {};
             c.entraineurs.forEach(e => {
