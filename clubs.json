@@ -1298,7 +1298,7 @@
     "ville": "BOUGUENAIS",
     "lat": 47.1707611083984,
     "lon": -1.61663579940796,
-    "email": "0",
+    "email": "nanie.lv@outlook.fr",
     "telephone": "0.0",
     "site": "https://cabouguenais.jimdofree.com/",
     "logo_url": "logos/club_1244022.png",
@@ -1334,7 +1334,7 @@
     ],
     "discipline_principale": null,
     "nb_entraineurs": 2,
-    "president": "M BURON Marc",
+    "president": "Mme LE VAILLANT Stéphanie",
     "arbitres": [
       {
         "nom": "HADDOU Redwene",
@@ -2312,7 +2312,7 @@
     ],
     "discipline_principale": null,
     "nb_entraineurs": 3,
-    "president": "M LE ROCH ANDRE",
+    "president": "Mme SOUCHET Véronique",
     "arbitres": [
       {
         "nom": "PONSODA Stephane",
@@ -2334,6 +2334,10 @@
       },
       {
         "nom": "RENAUDINEAU Henri",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "SOUCHET Véronique",
         "diplome": "Entraîneur Fédéral"
       }
     ],
@@ -2601,7 +2605,7 @@
     "ville": "CHOLET",
     "lat": 47.0459632873535,
     "lon": -0.876963138580322,
-    "email": "0",
+    "email": "arc.cholet@gmail.com",
     "telephone": "0.0",
     "site": "http://www.arc-cholet.com/",
     "logo_url": "logos/club_1249050.png",
@@ -3864,7 +3868,7 @@
     ],
     "discipline_principale": null,
     "nb_entraineurs": 3,
-    "president": "Mme NAUDIN Aloyse",
+    "president": "Mr CORRE Loïc",
     "arbitres": [
       {
         "nom": "BARREAU Guy",
@@ -5514,7 +5518,7 @@
     "ville": "CHANTONNAY",
     "lat": 46.6829965,
     "lon": -1.048582217717718,
-    "email": "0",
+    "email": "vecten.justine@gmail.com",
     "telephone": "251469617.0",
     "site": null,
     "logo_url": "logos/club_1285116.png",
