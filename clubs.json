@@ -16,7 +16,7 @@
     "nb_arbitres": 3,
     "a_arbitre": true,
     "niveaux_entraineurs": [
-      "DEJEPS",
+      "Initiateur",
       "Entraîneur Fédéral"
     ],
     "nb_femmes": 24,
@@ -58,8 +58,8 @@
     ],
     "entraineurs": [
       {
-        "nom": "CADORET Franck",
-        "diplome": "DEJEPS"
+        "nom": "TOUZET GENEVIEVE",
+        "diplome": "Initiateur"
       },
       {
         "nom": "RONDINEAU Thomas",
@@ -92,6 +92,7 @@
     "nb_arbitres": 2,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "Encadrant Fédéral",
       "Entraîneur 1"
     ],
     "nb_femmes": 40,
@@ -121,25 +122,33 @@
       "Para"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 2,
+    "nb_entraineurs": 4,
     "president": "M AGOSTINI Jules",
     "arbitres": [
       {
-        "nom": "VAILLANT GILLES",
+        "nom": "SABATTIER Pierre",
         "niveau": "Fédéral"
       },
       {
-        "nom": "SABATTIER Pierre",
+        "nom": "VAILLANT GILLES",
         "niveau": "Fédéral"
       }
     ],
     "entraineurs": [
       {
-        "nom": "THEPAULT Gwenaelle",
-        "diplome": "Entraîneur 1"
+        "nom": "ROY OLIVIER",
+        "diplome": "Encadrant Fédéral"
       },
       {
         "nom": "BOSMAN JEAN-PHILIPPE",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "BEAUVILLAIN YVES",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "THEPAULT Gwenaelle",
         "diplome": "Entraîneur 1"
       }
     ],
@@ -169,8 +178,7 @@
     "nb_arbitres": 2,
     "a_arbitre": true,
     "niveaux_entraineurs": [
-      "DEJEPS",
-      "Entraîneur Fédéral"
+      "Entraîneur 1"
     ],
     "nb_femmes": 26,
     "nb_hommes": 60,
@@ -197,22 +205,22 @@
     "president": "M GUIET PHILIPPE",
     "arbitres": [
       {
-        "nom": "MONNET Pierrick",
+        "nom": "ERCOLINO Laurent",
         "niveau": "Fédéral"
       },
       {
-        "nom": "ERCOLINO Laurent",
+        "nom": "MONNET Pierrick",
         "niveau": "Fédéral"
       }
     ],
     "entraineurs": [
       {
-        "nom": "AIRAUD STEPHANE",
-        "diplome": "DEJEPS"
+        "nom": "NAUD SANDRA",
+        "diplome": "Entraîneur 1"
       },
       {
-        "nom": "DELAPORTE Kevin",
-        "diplome": "Entraîneur Fédéral"
+        "nom": "NAUD PATRICK",
+        "diplome": "Entraîneur 1"
       }
     ],
     "licences_competition": 18,
@@ -240,7 +248,11 @@
     "pourcentage_jeunes": 28.6,
     "nb_arbitres": 1,
     "a_arbitre": true,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "BEES 1",
+      "Encadrant Fédéral",
+      "Entraîneur 1"
+    ],
     "nb_femmes": 15,
     "nb_hommes": 20,
     "nb_para": 0,
@@ -264,7 +276,7 @@
       "Beursault"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 3,
     "president": "M NAUD Bernard",
     "arbitres": [
       {
@@ -272,7 +284,20 @@
         "niveau": "Fédéral"
       }
     ],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "NAUD Bernard",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "BOUTOLLEAU Gerald",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "GAURIAUD Francois-Joseph",
+        "diplome": "BEES 1"
+      }
+    ],
     "licences_competition": 25,
     "licences_loisir": 0,
     "licences_dirigeant": 0,
@@ -299,6 +324,7 @@
     "nb_arbitres": 0,
     "a_arbitre": false,
     "niveaux_entraineurs": [
+      "Encadrant Fédéral",
       "Entraîneur Fédéral"
     ],
     "nb_femmes": 14,
@@ -324,13 +350,29 @@
       "Para"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 1,
+    "nb_entraineurs": 5,
     "president": "Mme MARTIN Murielle",
     "arbitres": [],
     "entraineurs": [
       {
+        "nom": "MARTIN Murielle",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
         "nom": "MARTIN Mathieu",
         "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "MARTIN Brivaël",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "ROUSSEAU Christine",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "LE ROUX Dorian",
+        "diplome": "Encadrant Fédéral"
       }
     ],
     "licences_competition": 25,
@@ -408,6 +450,7 @@
     "nb_arbitres": 2,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "Encadrant Fédéral",
       "Entraîneur 1"
     ],
     "nb_femmes": 16,
@@ -431,7 +474,7 @@
       "Campagne"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 1,
+    "nb_entraineurs": 5,
     "president": "M TENAILLEAU Gael",
     "arbitres": [
       {
@@ -447,6 +490,22 @@
       {
         "nom": "BERNARD-DROUET Patrick",
         "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "ANGEBAUD NICOLAS",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "TETREL JULIEN",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "TETREL ÉLODIE",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "BERTAUD Jessy",
+        "diplome": "Encadrant Fédéral"
       }
     ],
     "licences_competition": 34,
@@ -475,8 +534,10 @@
     "nb_arbitres": 4,
     "a_arbitre": true,
     "niveaux_entraineurs": [
-      "Entraîneur Fédéral",
+      "Initiateur",
       "BEES 1",
+      "Entraîneur Fédéral",
+      "Encadrant Fédéral",
       "Entraîneur 2"
     ],
     "nb_femmes": 59,
@@ -508,11 +569,15 @@
       "Run Archery"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 4,
+    "nb_entraineurs": 7,
     "president": "M LE GUE Ioan",
     "arbitres": [
       {
         "nom": "BOUCHART Jean Luc",
+        "niveau": "Fédéral"
+      },
+      {
+        "nom": "JOBERT Alexandra",
         "niveau": "Fédéral"
       },
       {
@@ -522,28 +587,36 @@
       {
         "nom": "BUSSONNIERE Fabian",
         "niveau": "Fédéral"
-      },
-      {
-        "nom": "JOBERT Alexandra",
-        "niveau": "Fédéral"
       }
     ],
     "entraineurs": [
       {
-        "nom": "LETULLE DAMIEN",
-        "diplome": "BEES 1"
+        "nom": "LE GUE Ioan",
+        "diplome": "Entraîneur Fédéral"
       },
       {
         "nom": "BOUCHART Jean Luc",
         "diplome": "Entraîneur 2"
       },
       {
-        "nom": "LE GUE Ioan",
+        "nom": "GIRAUDET Loic",
         "diplome": "Entraîneur Fédéral"
       },
       {
-        "nom": "GIRAUDET Loic",
-        "diplome": "Entraîneur Fédéral"
+        "nom": "LETULLE DAMIEN",
+        "diplome": "BEES 1"
+      },
+      {
+        "nom": "HENIN Sylvie",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "FONVIELLE Charles-Antoine",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "PERROT JOEL",
+        "diplome": "Initiateur"
       }
     ],
     "licences_competition": 133,
@@ -569,9 +642,12 @@
     "logo_url": "logos/club_1244010.png",
     "licences_total": 46,
     "pourcentage_jeunes": 19.6,
-    "nb_arbitres": 1,
+    "nb_arbitres": 2,
     "a_arbitre": true,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Initiateur",
+      "DEJEPS"
+    ],
     "nb_femmes": 9,
     "nb_hommes": 37,
     "nb_para": 0,
@@ -593,15 +669,28 @@
       "Beursault"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 2,
     "president": "M CADORET ROMUALD",
     "arbitres": [
       {
         "nom": "LORENT RENE",
         "niveau": "Fédéral"
+      },
+      {
+        "nom": "BAUDICHAUD Ghislain",
+        "niveau": "Fédéral"
       }
     ],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "CADORET ROMUALD",
+        "diplome": "Initiateur"
+      },
+      {
+        "nom": "CADORET Franck",
+        "diplome": "DEJEPS"
+      }
+    ],
     "licences_competition": 37,
     "licences_loisir": 0,
     "licences_dirigeant": 0,
@@ -627,7 +716,9 @@
     "pourcentage_jeunes": 35.9,
     "nb_arbitres": 0,
     "a_arbitre": false,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Encadrant Fédéral"
+    ],
     "nb_femmes": 17,
     "nb_hommes": 47,
     "nb_para": 0,
@@ -649,10 +740,15 @@
       "Campagne"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 1,
     "president": "M ARNAUD Julien",
     "arbitres": [],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "DOUILLARD Olivier",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
     "licences_competition": 40,
     "licences_loisir": 1,
     "licences_dirigeant": 0,
@@ -679,6 +775,8 @@
     "nb_arbitres": 0,
     "a_arbitre": false,
     "niveaux_entraineurs": [
+      "Initiateur",
+      "Encadrant Club",
       "Entraîneur 2"
     ],
     "nb_femmes": 6,
@@ -706,10 +804,18 @@
       "3D"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 1,
+    "nb_entraineurs": 3,
     "president": "M CANTAT PATRICK",
     "arbitres": [],
     "entraineurs": [
+      {
+        "nom": "SIMAILLEAU JOCELYN",
+        "diplome": "Initiateur"
+      },
+      {
+        "nom": "PILARD ALEXANDRA",
+        "diplome": "Encadrant Club"
+      },
       {
         "nom": "LEMOIGNE Pascal",
         "diplome": "Entraîneur 2"
@@ -865,7 +971,7 @@
     "nb_arbitres": 0,
     "a_arbitre": false,
     "niveaux_entraineurs": [
-      "Initiateur"
+      "Encadrant Fédéral"
     ],
     "nb_femmes": 6,
     "nb_hommes": 11,
@@ -886,13 +992,21 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 1,
+    "nb_entraineurs": 3,
     "president": "M GAILLET NICOLAS",
     "arbitres": [],
     "entraineurs": [
       {
+        "nom": "GAILLET NICOLAS",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
         "nom": "WOLKA YANNICK",
-        "diplome": "Initiateur"
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "MAJOLI ANNE",
+        "diplome": "Encadrant Fédéral"
       }
     ],
     "licences_competition": 9,
@@ -920,7 +1034,9 @@
     "pourcentage_jeunes": 46.9,
     "nb_arbitres": 0,
     "a_arbitre": false,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Initiateur"
+    ],
     "nb_femmes": 15,
     "nb_hommes": 17,
     "nb_para": 0,
@@ -940,10 +1056,15 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 1,
     "president": "M ROBERT CYRIL",
     "arbitres": [],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "PETITJEAN Didier",
+        "diplome": "Initiateur"
+      }
+    ],
     "licences_competition": 15,
     "licences_loisir": 0,
     "licences_dirigeant": 2,
@@ -969,7 +1090,10 @@
     "pourcentage_jeunes": 33.3,
     "nb_arbitres": 3,
     "a_arbitre": true,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Initiateur",
+      "Encadrant Fédéral"
+    ],
     "nb_femmes": 11,
     "nb_hommes": 31,
     "nb_para": 0,
@@ -989,7 +1113,7 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 5,
     "president": "M DEPEYRE PASCAL",
     "arbitres": [
       {
@@ -997,15 +1121,36 @@
         "niveau": "Fédéral"
       },
       {
-        "nom": "DEPEYRE Sylvain",
-        "niveau": "Fédéral"
-      },
-      {
         "nom": "LE GUEN Teilo",
         "niveau": "Jeune"
+      },
+      {
+        "nom": "DEPEYRE Sylvain",
+        "niveau": "Fédéral"
       }
     ],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "NOVERRAZ Samuel",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "DEPEYRE PASCAL",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "RICHOU Bernard",
+        "diplome": "Initiateur"
+      },
+      {
+        "nom": "BOUTIN LAURENT",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "DEPEYRE Sylvain",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
     "licences_competition": 27,
     "licences_loisir": 1,
     "licences_dirigeant": 0,
@@ -1031,7 +1176,9 @@
     "pourcentage_jeunes": 28.1,
     "nb_arbitres": 0,
     "a_arbitre": false,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Initiateur"
+    ],
     "nb_femmes": 10,
     "nb_hommes": 22,
     "nb_para": 1,
@@ -1051,10 +1198,15 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 1,
     "president": "M GUIBERT GREGORY",
     "arbitres": [],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "BONNET Sylvain",
+        "diplome": "Initiateur"
+      }
+    ],
     "licences_competition": 23,
     "licences_loisir": 0,
     "licences_dirigeant": 0,
@@ -1080,7 +1232,9 @@
     "pourcentage_jeunes": 23.3,
     "nb_arbitres": 0,
     "a_arbitre": false,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Encadrant Fédéral"
+    ],
     "nb_femmes": 9,
     "nb_hommes": 21,
     "nb_para": 0,
@@ -1106,10 +1260,23 @@
       "3D"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 3,
     "president": "M BROUSSARD Arnaud",
     "arbitres": [],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "BROUSSARD Arnaud",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "BATY Gael",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "PLESSIS VINCENT",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
     "licences_competition": 8,
     "licences_loisir": 15,
     "licences_dirigeant": 0,
@@ -1135,7 +1302,9 @@
     "pourcentage_jeunes": 28.1,
     "nb_arbitres": 2,
     "a_arbitre": true,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Encadrant Fédéral"
+    ],
     "nb_femmes": 19,
     "nb_hommes": 38,
     "nb_para": 1,
@@ -1157,7 +1326,7 @@
       "Para"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 4,
     "president": "Mme LE VAILLANT Stéphanie",
     "arbitres": [
       {
@@ -1169,7 +1338,24 @@
         "niveau": "Fédéral"
       }
     ],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "BEAUDOUIN PASCAL",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "LE VAILLANT Stephanie",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "MENANDAIS Frederique",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "LERAY Gilles",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
     "licences_competition": 41,
     "licences_loisir": 0,
     "licences_dirigeant": 0,
@@ -1196,7 +1382,9 @@
     "nb_arbitres": 4,
     "a_arbitre": true,
     "niveaux_entraineurs": [
-      "Entraîneur 1"
+      "Encadrant Fédéral",
+      "Entraîneur 1",
+      "Assistant Entraîneur"
     ],
     "nb_femmes": 28,
     "nb_hommes": 58,
@@ -1221,7 +1409,7 @@
       "Beursault"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 1,
+    "nb_entraineurs": 5,
     "president": "M ROY THIERRY",
     "arbitres": [
       {
@@ -1245,6 +1433,22 @@
       {
         "nom": "GERBAUD Francis",
         "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "PERRAY YANNICK",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "PERRAY KATIA",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "JABLONSKI Michel",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "ROBERT DOMINIQUE",
+        "diplome": "Assistant Entraîneur"
       }
     ],
     "licences_competition": 53,
@@ -1273,6 +1477,8 @@
     "nb_arbitres": 0,
     "a_arbitre": false,
     "niveaux_entraineurs": [
+      "Encadrant Fédéral",
+      "Entraîneur 1",
       "Entraîneur Fédéral"
     ],
     "nb_femmes": 31,
@@ -1296,10 +1502,18 @@
       "3D"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 2,
+    "nb_entraineurs": 6,
     "president": "M MARCHAND Alexis",
     "arbitres": [],
     "entraineurs": [
+      {
+        "nom": "MARCHAND Alexis",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "BONNAND Jean-Marie",
+        "diplome": "Entraîneur 1"
+      },
       {
         "nom": "ARCHER Antoine",
         "diplome": "Entraîneur Fédéral"
@@ -1307,6 +1521,14 @@
       {
         "nom": "LABAT PATRICK",
         "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "LANCELEUR REMI",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "RADIGOIS Martin",
+        "diplome": "Encadrant Fédéral"
       }
     ],
     "licences_competition": 38,
@@ -1401,7 +1623,12 @@
     "pourcentage_jeunes": 22.2,
     "nb_arbitres": 2,
     "a_arbitre": true,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Initiateur",
+      "Encadrant Club",
+      "CQP Animateur",
+      "Encadrant Fédéral"
+    ],
     "nb_femmes": 19,
     "nb_hommes": 35,
     "nb_para": 0,
@@ -1425,7 +1652,7 @@
       "Para"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 4,
     "president": "M DUAULT PASCAL",
     "arbitres": [
       {
@@ -1437,7 +1664,24 @@
         "niveau": "Fédéral"
       }
     ],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "VIAUD BERTRAND",
+        "diplome": "Encadrant Club"
+      },
+      {
+        "nom": "LE BAIL Jeanyves",
+        "diplome": "Initiateur"
+      },
+      {
+        "nom": "ROUSSEL Yann",
+        "diplome": "CQP Animateur"
+      },
+      {
+        "nom": "PORTAL Muriel",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
     "licences_competition": 41,
     "licences_loisir": 0,
     "licences_dirigeant": 1,
@@ -1561,11 +1805,11 @@
     "president": "M TEILLET Sylvain",
     "arbitres": [
       {
-        "nom": "LIVERNAIS Xavier",
+        "nom": "GUERRY Alex",
         "niveau": "Fédéral"
       },
       {
-        "nom": "GUERRY Alex",
+        "nom": "LIVERNAIS Xavier",
         "niveau": "Fédéral"
       }
     ],
@@ -1596,6 +1840,9 @@
     "nb_arbitres": 3,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "Initiateur",
+      "Encadrant Fédéral",
+      "CQP Animateur",
       "Entraîneur Fédéral"
     ],
     "nb_femmes": 15,
@@ -1623,7 +1870,7 @@
       "3D"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 1,
+    "nb_entraineurs": 8,
     "president": "M COMMUNAL Philippe",
     "arbitres": [
       {
@@ -1643,6 +1890,34 @@
       {
         "nom": "GROSEIL Thierry",
         "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "COMMUNAL FLORIAN",
+        "diplome": "Initiateur"
+      },
+      {
+        "nom": "CRUSSON SEBASTIEN",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "LEVEILLE Cynthia",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "CRUSSON LEO",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "BENOIT Celine",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "LEFEUVRE Jerome",
+        "diplome": "CQP Animateur"
+      },
+      {
+        "nom": "ROULIN DIDIER",
+        "diplome": "Initiateur"
       }
     ],
     "licences_competition": 30,
@@ -1732,7 +2007,12 @@
     "pourcentage_jeunes": 22.7,
     "nb_arbitres": 1,
     "a_arbitre": true,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Initiateur",
+      "Encadrant Fédéral",
+      "Encadrant Club",
+      "Assistant Entraîneur"
+    ],
     "nb_femmes": 29,
     "nb_hommes": 59,
     "nb_para": 4,
@@ -1756,7 +2036,7 @@
       "Para"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 11,
     "president": "Mme ROBIN Martine",
     "arbitres": [
       {
@@ -1764,7 +2044,52 @@
         "niveau": "Fédéral"
       }
     ],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "FIMBEL Philippe",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "GRANVILLIERS Laurent",
+        "diplome": "Encadrant Club"
+      },
+      {
+        "nom": "BEAUGE Gerard",
+        "diplome": "Encadrant Club"
+      },
+      {
+        "nom": "CACHET VLADIMIR",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "LEBERRE JEAN",
+        "diplome": "Initiateur"
+      },
+      {
+        "nom": "SOULARD Noah",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "TIGNER Pierre",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "PIVETEAU Thierry",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "BULTEAU ALAIN",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "BABIN Arthur",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "GANDOUIN Celia",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
     "licences_competition": 52,
     "licences_loisir": 15,
     "licences_dirigeant": 1,
@@ -1790,7 +2115,11 @@
     "pourcentage_jeunes": 29.9,
     "nb_arbitres": 3,
     "a_arbitre": true,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Initiateur",
+      "Encadrant Fédéral",
+      "Entraîneur Fédéral"
+    ],
     "nb_femmes": 24,
     "nb_hommes": 43,
     "nb_para": 0,
@@ -1814,23 +2143,36 @@
       "3D"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 3,
     "president": "Mme QUILY Floriane",
     "arbitres": [
       {
-        "nom": "RELANDEAU Xavier",
-        "niveau": "Fédéral"
+        "nom": "VENTROUX Virginie",
+        "niveau": "Formateur"
       },
       {
         "nom": "BESCOND RABALLAND Camille",
         "niveau": "Fédéral"
       },
       {
-        "nom": "VENTROUX Virginie",
-        "niveau": "Formateur"
+        "nom": "RELANDEAU Xavier",
+        "niveau": "Fédéral"
       }
     ],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "QUILY Floriane",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "DELAPORTE Kevin",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "RELANDEAU Xavier",
+        "diplome": "Initiateur"
+      }
+    ],
     "licences_competition": 43,
     "licences_loisir": 4,
     "licences_dirigeant": 0,
@@ -1857,8 +2199,10 @@
     "nb_arbitres": 4,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "Initiateur",
       "Entraîneur 1",
       "Entraîneur Fédéral",
+      "Encadrant Fédéral",
       "Entraîneur 2"
     ],
     "nb_femmes": 27,
@@ -1890,31 +2234,27 @@
       "Para"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 3,
+    "nb_entraineurs": 5,
     "president": "M QUEMENER Damien",
     "arbitres": [
-      {
-        "nom": "SALIOU Dominique",
-        "niveau": "Formateur"
-      },
       {
         "nom": "HERCELIN BERNARD",
         "niveau": "Fédéral"
       },
       {
-        "nom": "HUGEDE Nicolas",
+        "nom": "SALIOU Dominique",
         "niveau": "Formateur"
       },
       {
         "nom": "MARRAZZU Emma",
         "niveau": "Jeune"
+      },
+      {
+        "nom": "HUGEDE Nicolas",
+        "niveau": "Formateur"
       }
     ],
     "entraineurs": [
-      {
-        "nom": "SALIOU Dominique",
-        "diplome": "Entraîneur 2"
-      },
       {
         "nom": "HERCELIN BERNARD",
         "diplome": "Entraîneur 1"
@@ -1922,6 +2262,18 @@
       {
         "nom": "QUEMENER Damien",
         "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "SALIOU Dominique",
+        "diplome": "Entraîneur 2"
+      },
+      {
+        "nom": "VERONNEAU Frederic",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "HUGEDE Nicolas",
+        "diplome": "Initiateur"
       }
     ],
     "licences_competition": 46,
@@ -1950,8 +2302,10 @@
     "nb_arbitres": 2,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "BEES 1",
       "Entraîneur 1",
       "Entraîneur Fédéral",
+      "Encadrant Fédéral",
       "Entraîneur 2"
     ],
     "nb_femmes": 34,
@@ -1981,7 +2335,7 @@
       "Beursault"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 4,
+    "nb_entraineurs": 6,
     "president": "Mme SOUCHET Véronique",
     "arbitres": [
       {
@@ -1995,20 +2349,28 @@
     ],
     "entraineurs": [
       {
-        "nom": "CONTENT Arnaud",
-        "diplome": "Entraîneur 2"
+        "nom": "SOUCHET Veronique",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "SOUCHET Yann",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "RENAUDINEAU Henri",
+        "diplome": "Entraîneur Fédéral"
       },
       {
         "nom": "LOIRAT THIERRY",
         "diplome": "Entraîneur 1"
       },
       {
-        "nom": "SOUCHET Veronique",
-        "diplome": "Entraîneur Fédéral"
+        "nom": "CONTENT Arnaud",
+        "diplome": "Entraîneur 2"
       },
       {
-        "nom": "RENAUDINEAU Henri",
-        "diplome": "Entraîneur Fédéral"
+        "nom": "NAYROLE Michael",
+        "diplome": "BEES 1"
       }
     ],
     "licences_competition": 50,
@@ -2036,7 +2398,9 @@
     "pourcentage_jeunes": 25.0,
     "nb_arbitres": 0,
     "a_arbitre": false,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Encadrant Fédéral"
+    ],
     "nb_femmes": 3,
     "nb_hommes": 9,
     "nb_para": 0,
@@ -2056,10 +2420,15 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 1,
     "president": "M CARRE JOHANN",
     "arbitres": [],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "CARRE JOHANN",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
     "licences_competition": 5,
     "licences_loisir": 3,
     "licences_dirigeant": 1,
@@ -2126,16 +2495,16 @@
     ],
     "entraineurs": [
       {
+        "nom": "GLEMET ERIC",
+        "diplome": "Entraîneur 1"
+      },
+      {
         "nom": "PASQUIER Philippe",
         "diplome": "Entraîneur 1"
       },
       {
         "nom": "JOSSE Michael",
         "diplome": "Entraîneur Fédéral"
-      },
-      {
-        "nom": "GLEMET ERIC",
-        "diplome": "Entraîneur 1"
       },
       {
         "nom": "SORIN Benjamin",
@@ -2172,6 +2541,8 @@
     "nb_arbitres": 2,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "Initiateur",
+      "Encadrant Fédéral",
       "Entraîneur 1"
     ],
     "nb_femmes": 43,
@@ -2199,7 +2570,7 @@
       "3D"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 2,
+    "nb_entraineurs": 10,
     "president": "Mme PANTAIS Emilie",
     "arbitres": [
       {
@@ -2213,12 +2584,44 @@
     ],
     "entraineurs": [
       {
-        "nom": "BLANCHE Jeremy",
+        "nom": "BRAULT Clarisse",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "BRAULT Pascal",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "BRAULT Clemence",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "PANTAIS Emilie",
         "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "MOUNIER Christelle",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "JOLIVET PASCAL",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "SUZANNE JEAN YVES",
+        "diplome": "Encadrant Fédéral"
       },
       {
         "nom": "BOUTREUX MICHEL",
         "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "BLANCHE Jeremy",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "OLIVIER Pierre",
+        "diplome": "Initiateur"
       }
     ],
     "licences_competition": 69,
@@ -2247,8 +2650,11 @@
     "nb_arbitres": 2,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "DEJEPS",
       "Entraîneur 1",
+      "Assistant Entraîneur",
       "Entraîneur Fédéral",
+      "Encadrant Fédéral",
       "Entraîneur 2"
     ],
     "nb_femmes": 27,
@@ -2278,7 +2684,7 @@
       "Run Archery"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 3,
+    "nb_entraineurs": 10,
     "president": "M GARNIER Alexis",
     "arbitres": [
       {
@@ -2296,12 +2702,40 @@
         "diplome": "Entraîneur 2"
       },
       {
+        "nom": "GUILLON Laetitia",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "AIRAUD STEPHANE",
+        "diplome": "DEJEPS"
+      },
+      {
+        "nom": "PINEAU Samantha",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
         "nom": "CORBEZ Pauline",
         "diplome": "Entraîneur Fédéral"
       },
       {
+        "nom": "CHARRE Isabelle",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "LEFORT GABRIEL",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "MONCANIS Lisa",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
         "nom": "POIRIER ROLAND",
         "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "PRANEUF Cindy",
+        "diplome": "Encadrant Fédéral"
       }
     ],
     "licences_competition": 43,
@@ -2459,6 +2893,8 @@
     "nb_arbitres": 4,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "Initiateur",
+      "Encadrant Fédéral",
       "Entraîneur 1",
       "Entraîneur Fédéral"
     ],
@@ -2489,15 +2925,11 @@
       "Para"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 6,
+    "nb_entraineurs": 11,
     "president": "M BEN AMAR Eric",
     "arbitres": [
       {
-        "nom": "DURAND OLIVIER",
-        "niveau": "Fédéral"
-      },
-      {
-        "nom": "TREMBLIN OLIVIER",
+        "nom": "BONHOMME Carel",
         "niveau": "Fédéral"
       },
       {
@@ -2505,18 +2937,18 @@
         "niveau": "Fédéral"
       },
       {
-        "nom": "BONHOMME Carel",
+        "nom": "TREMBLIN OLIVIER",
+        "niveau": "Fédéral"
+      },
+      {
+        "nom": "DURAND OLIVIER",
         "niveau": "Fédéral"
       }
     ],
     "entraineurs": [
       {
-        "nom": "LEFEBVRE FREDERIC",
-        "diplome": "Entraîneur 1"
-      },
-      {
-        "nom": "FAUCHEUX Yves",
-        "diplome": "Entraîneur 1"
+        "nom": "BEN AMAR Eric",
+        "diplome": "Entraîneur Fédéral"
       },
       {
         "nom": "LOPEZ Jean Paul",
@@ -2527,12 +2959,36 @@
         "diplome": "Entraîneur 1"
       },
       {
+        "nom": "BARRAULT Marie-Line",
+        "diplome": "Initiateur"
+      },
+      {
+        "nom": "FAUCHEUX Yves",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "KERISOUET Audrey",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "LEGUERE Stephane",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "LEFEBVRE FREDERIC",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "PEREZ PIERRE-FRANCOIS",
+        "diplome": "Initiateur"
+      },
+      {
         "nom": "ACHER DUBOIS JEROME",
         "diplome": "Entraîneur Fédéral"
       },
       {
-        "nom": "BEN AMAR Eric",
-        "diplome": "Entraîneur Fédéral"
+        "nom": "DROCHON BENOIT",
+        "diplome": "Encadrant Fédéral"
       }
     ],
     "licences_competition": 109,
@@ -2561,6 +3017,7 @@
     "nb_arbitres": 3,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "Initiateur",
       "Entraîneur 1"
     ],
     "nb_femmes": 25,
@@ -2582,15 +3039,15 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 4,
+    "nb_entraineurs": 7,
     "president": "M PELTIER Michael",
     "arbitres": [
       {
-        "nom": "CAMENEN Marie Helene",
+        "nom": "FLOCH FRANCOISE",
         "niveau": "Fédéral"
       },
       {
-        "nom": "FLOCH FRANCOISE",
+        "nom": "CAMENEN Marie Helene",
         "niveau": "Fédéral"
       },
       {
@@ -2599,6 +3056,10 @@
       }
     ],
     "entraineurs": [
+      {
+        "nom": "PELTIER Michael",
+        "diplome": "Entraîneur 1"
+      },
       {
         "nom": "PITON JEAN PIERRE",
         "diplome": "Entraîneur 1"
@@ -2612,8 +3073,16 @@
         "diplome": "Entraîneur 1"
       },
       {
-        "nom": "PELTIER Michael",
-        "diplome": "Entraîneur 1"
+        "nom": "CAMENEN Marie Helene",
+        "diplome": "Initiateur"
+      },
+      {
+        "nom": "CHATELAIN JEAN-PAUL",
+        "diplome": "Initiateur"
+      },
+      {
+        "nom": "MONTAUDON ERIC",
+        "diplome": "Initiateur"
       }
     ],
     "licences_competition": 32,
@@ -2639,12 +3108,15 @@
     "logo_url": "logos/club_1249059.png",
     "licences_total": 71,
     "pourcentage_jeunes": 39.4,
-    "nb_arbitres": 8,
+    "nb_arbitres": 7,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "Initiateur",
+      "Encadrant Club",
+      "BEES 1",
       "Entraîneur 1",
       "Entraîneur Fédéral",
-      "BEES 1"
+      "Encadrant Fédéral"
     ],
     "nb_femmes": 28,
     "nb_hommes": 43,
@@ -2665,15 +3137,27 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 5,
+    "nb_entraineurs": 9,
     "president": "M LE GOFF Laurent",
     "arbitres": [
+      {
+        "nom": "LANDREAU Lilian",
+        "niveau": "Jeune"
+      },
       {
         "nom": "BOURREAU Olivier",
         "niveau": "Fédéral"
       },
       {
+        "nom": "BRIN Veronique",
+        "niveau": "Fédéral"
+      },
+      {
         "nom": "COUTOLLEAU CAROLINE",
+        "niveau": "Fédéral"
+      },
+      {
+        "nom": "MENARD Matheo",
         "niveau": "Fédéral"
       },
       {
@@ -2683,44 +3167,44 @@
       {
         "nom": "BRIN Guillaume",
         "niveau": "Fédéral"
-      },
-      {
-        "nom": "BRIN Veronique",
-        "niveau": "Fédéral"
-      },
-      {
-        "nom": "DEVANNE JEROME",
-        "niveau": "Fédéral"
-      },
-      {
-        "nom": "MENARD Matheo",
-        "niveau": "Fédéral"
-      },
-      {
-        "nom": "LANDREAU Lilian",
-        "niveau": "Jeune"
       }
     ],
     "entraineurs": [
       {
-        "nom": "BOURREAU Olivier",
-        "diplome": "Entraîneur Fédéral"
+        "nom": "CAMBOT Florian",
+        "diplome": "Initiateur"
       },
       {
-        "nom": "COUTOLLEAU CAROLINE",
-        "diplome": "BEES 1"
-      },
-      {
-        "nom": "BRIN Guillaume",
-        "diplome": "Entraîneur 1"
+        "nom": "HURTAULT Jimmy",
+        "diplome": "Encadrant Fédéral"
       },
       {
         "nom": "OLLIVIER Gilles",
         "diplome": "Entraîneur 1"
       },
       {
-        "nom": "DEVANNE JEROME",
+        "nom": "BOURREAU Olivier",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "DAHERON Jimmy",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "COUTOLLEAU CAROLINE",
+        "diplome": "Encadrant Club"
+      },
+      {
+        "nom": "BRIN Guillaume",
         "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "FONTENEAU FREDERIQUE",
+        "diplome": "BEES 1"
+      },
+      {
+        "nom": "ARNAULT JOHNNY",
+        "diplome": "Encadrant Fédéral"
       }
     ],
     "licences_competition": 41,
@@ -2850,7 +3334,9 @@
     "pourcentage_jeunes": 30.0,
     "nb_arbitres": 0,
     "a_arbitre": false,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Initiateur"
+    ],
     "nb_femmes": 2,
     "nb_hommes": 8,
     "nb_para": 0,
@@ -2870,10 +3356,15 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 1,
     "president": "M ROLLET Christophe",
     "arbitres": [],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "COTTIER Christian",
+        "diplome": "Initiateur"
+      }
+    ],
     "licences_competition": 7,
     "licences_loisir": 0,
     "licences_dirigeant": 0,
@@ -2948,7 +3439,9 @@
     "pourcentage_jeunes": 43.8,
     "nb_arbitres": 0,
     "a_arbitre": false,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Entraîneur 1"
+    ],
     "nb_femmes": 9,
     "nb_hommes": 7,
     "nb_para": 0,
@@ -2968,10 +3461,15 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 1,
     "president": "Mme CARON Sandie",
     "arbitres": [],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "CARON Sandy",
+        "diplome": "Entraîneur 1"
+      }
+    ],
     "licences_competition": 4,
     "licences_loisir": 4,
     "licences_dirigeant": 1,
@@ -2998,9 +3496,9 @@
     "nb_arbitres": 4,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "Initiateur",
       "Entraîneur Fédéral",
-      "Entraîneur 2",
-      "Initiateur"
+      "Entraîneur 2"
     ],
     "nb_femmes": 14,
     "nb_hommes": 47,
@@ -3031,7 +3529,7 @@
     "president": "M MARTIN PATRICK",
     "arbitres": [
       {
-        "nom": "BOURGAT Andre",
+        "nom": "MARTIN PATRICK",
         "niveau": "Fédéral"
       },
       {
@@ -3043,11 +3541,19 @@
         "niveau": "Fédéral"
       },
       {
-        "nom": "MARTIN PATRICK",
+        "nom": "BOURGAT Andre",
         "niveau": "Fédéral"
       }
     ],
     "entraineurs": [
+      {
+        "nom": "BATAILLE Laurent",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "BRESSON PATRICK",
+        "diplome": "Entraîneur 2"
+      },
       {
         "nom": "BOURGAT Andre",
         "diplome": "Initiateur"
@@ -3057,16 +3563,8 @@
         "diplome": "Initiateur"
       },
       {
-        "nom": "BATAILLE Laurent",
-        "diplome": "Entraîneur Fédéral"
-      },
-      {
         "nom": "GERU Frederic",
         "diplome": "Initiateur"
-      },
-      {
-        "nom": "BRESSON PATRICK",
-        "diplome": "Entraîneur 2"
       },
       {
         "nom": "LOUARN Loic",
@@ -3154,7 +3652,9 @@
     "pourcentage_jeunes": 18.5,
     "nb_arbitres": 2,
     "a_arbitre": true,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Encadrant Fédéral"
+    ],
     "nb_femmes": 5,
     "nb_hommes": 22,
     "nb_para": 1,
@@ -3184,7 +3684,7 @@
       "Para"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 1,
     "president": "M DUPUIS Jean-Paul",
     "arbitres": [
       {
@@ -3196,7 +3696,12 @@
         "niveau": "Fédéral"
       }
     ],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "DUPUIS VIRGINIE",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
     "licences_competition": 22,
     "licences_loisir": 0,
     "licences_dirigeant": 0,
@@ -3343,7 +3848,9 @@
     "nb_arbitres": 1,
     "a_arbitre": true,
     "niveaux_entraineurs": [
-      "Entraîneur 1"
+      "Encadrant Fédéral",
+      "Entraîneur 1",
+      "Assistant Entraîneur"
     ],
     "nb_femmes": 11,
     "nb_hommes": 22,
@@ -3364,7 +3871,7 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 3,
+    "nb_entraineurs": 6,
     "president": "M BESNARD Cyril",
     "arbitres": [
       {
@@ -3374,6 +3881,18 @@
     ],
     "entraineurs": [
       {
+        "nom": "BESNARD Cyril",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "BELLUAU Emmanuel",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "FROGER Didier",
+        "diplome": "Entraîneur 1"
+      },
+      {
         "nom": "COLIN Alain",
         "diplome": "Entraîneur 1"
       },
@@ -3382,8 +3901,8 @@
         "diplome": "Entraîneur 1"
       },
       {
-        "nom": "FROGER Didier",
-        "diplome": "Entraîneur 1"
+        "nom": "HERVY Jean-Baptiste",
+        "diplome": "Encadrant Fédéral"
       }
     ],
     "licences_competition": 18,
@@ -3412,6 +3931,7 @@
     "nb_arbitres": 2,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "Initiateur",
       "Entraîneur 1"
     ],
     "nb_femmes": 14,
@@ -3437,7 +3957,7 @@
       "3D"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 2,
+    "nb_entraineurs": 3,
     "president": "Mr CORRE Loïc",
     "arbitres": [
       {
@@ -3451,12 +3971,16 @@
     ],
     "entraineurs": [
       {
+        "nom": "TESSIER ALBAN",
+        "diplome": "Entraîneur 1"
+      },
+      {
         "nom": "BARREAU GUY",
         "diplome": "Entraîneur 1"
       },
       {
-        "nom": "TESSIER ALBAN",
-        "diplome": "Entraîneur 1"
+        "nom": "GENIN PATRICK",
+        "diplome": "Initiateur"
       }
     ],
     "licences_competition": 9,
@@ -3485,6 +4009,7 @@
     "nb_arbitres": 1,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "CQP Animateur",
       "Entraîneur 1"
     ],
     "nb_femmes": 9,
@@ -3508,7 +4033,7 @@
       "Para"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 1,
+    "nb_entraineurs": 2,
     "president": "M GESBERT Sebastien",
     "arbitres": [
       {
@@ -3520,6 +4045,10 @@
       {
         "nom": "GESBERT Sebastien",
         "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "ROULIN Cynthia",
+        "diplome": "CQP Animateur"
       }
     ],
     "licences_competition": 9,
@@ -3547,7 +4076,10 @@
     "pourcentage_jeunes": 20.0,
     "nb_arbitres": 4,
     "a_arbitre": true,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Encadrant Fédéral",
+      "Entraîneur 1"
+    ],
     "nb_femmes": 4,
     "nb_hommes": 31,
     "nb_para": 1,
@@ -3573,11 +4105,11 @@
       "3D"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 2,
     "president": "Mme MORAN STEPHANIE",
     "arbitres": [
       {
-        "nom": "BRANGIER Bernard",
+        "nom": "HERVE Florian",
         "niveau": "Fédéral"
       },
       {
@@ -3585,7 +4117,7 @@
         "niveau": "Fédéral"
       },
       {
-        "nom": "HERVE Florian",
+        "nom": "BRANGIER Bernard",
         "niveau": "Fédéral"
       },
       {
@@ -3593,7 +4125,16 @@
         "niveau": "Fédéral"
       }
     ],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "GENIN Frederic",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "HERVE Florian",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
     "licences_competition": 23,
     "licences_loisir": 4,
     "licences_dirigeant": 1,
@@ -3619,7 +4160,10 @@
     "pourcentage_jeunes": 29.4,
     "nb_arbitres": 1,
     "a_arbitre": true,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Encadrant Club",
+      "Encadrant Fédéral"
+    ],
     "nb_femmes": 11,
     "nb_hommes": 23,
     "nb_para": 1,
@@ -3649,7 +4193,7 @@
       "Run Archery"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 3,
     "president": "Mme FOUCHER MOREAU Emilie",
     "arbitres": [
       {
@@ -3657,7 +4201,20 @@
         "niveau": "Fédéral"
       }
     ],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "SALMON ERIC",
+        "diplome": "Encadrant Club"
+      },
+      {
+        "nom": "BOHERS JEAN-PAUL",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "HARAN CHRISTELE",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
     "licences_competition": 23,
     "licences_loisir": 0,
     "licences_dirigeant": 1,
@@ -3733,6 +4290,7 @@
     "nb_arbitres": 0,
     "a_arbitre": false,
     "niveaux_entraineurs": [
+      "Encadrant Fédéral",
       "Entraîneur 1"
     ],
     "nb_femmes": 25,
@@ -3760,13 +4318,21 @@
       "Run Archery"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 1,
+    "nb_entraineurs": 3,
     "president": "M GENDRY FABIEN",
     "arbitres": [],
     "entraineurs": [
       {
+        "nom": "GOUIN Stephane",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
         "nom": "GENDRY FABIEN",
         "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "BOUTET Jacques",
+        "diplome": "Encadrant Fédéral"
       }
     ],
     "licences_competition": 25,
@@ -3795,7 +4361,8 @@
     "nb_arbitres": 1,
     "a_arbitre": true,
     "niveaux_entraineurs": [
-      "Initiateur"
+      "Initiateur",
+      "Encadrant Fédéral"
     ],
     "nb_femmes": 15,
     "nb_hommes": 28,
@@ -3816,7 +4383,7 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 1,
+    "nb_entraineurs": 5,
     "president": "Mme SEVIN Magali",
     "arbitres": [
       {
@@ -3826,8 +4393,24 @@
     ],
     "entraineurs": [
       {
+        "nom": "PARIZET NICOLAS",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "LE DREO Yann",
+        "diplome": "Initiateur"
+      },
+      {
         "nom": "SEVIN Magali",
         "diplome": "Initiateur"
+      },
+      {
+        "nom": "ZITTE Lionel",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "HASCOET Lucas",
+        "diplome": "Encadrant Fédéral"
       }
     ],
     "licences_competition": 11,
@@ -3973,7 +4556,9 @@
     "pourcentage_jeunes": 31.5,
     "nb_arbitres": 3,
     "a_arbitre": true,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Encadrant Fédéral"
+    ],
     "nb_femmes": 13,
     "nb_hommes": 41,
     "nb_para": 1,
@@ -3995,11 +4580,11 @@
       "Para"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 2,
     "president": "Mme BERTIN CECILE",
     "arbitres": [
       {
-        "nom": "THAREAU Gerald",
+        "nom": "ONILLON Nathalie",
         "niveau": "Fédéral"
       },
       {
@@ -4007,11 +4592,20 @@
         "niveau": "Fédéral"
       },
       {
-        "nom": "ONILLON Nathalie",
+        "nom": "THAREAU Gerald",
         "niveau": "Fédéral"
       }
     ],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "BERTIN CECILE",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "LABRE Jerome",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
     "licences_competition": 32,
     "licences_loisir": 4,
     "licences_dirigeant": 1,
@@ -4102,7 +4696,9 @@
     "pourcentage_jeunes": 21.7,
     "nb_arbitres": 2,
     "a_arbitre": true,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Encadrant Fédéral"
+    ],
     "nb_femmes": 7,
     "nb_hommes": 16,
     "nb_para": 0,
@@ -4126,7 +4722,7 @@
       "Para"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 3,
     "president": "Mme ORIEUX ANNE-MARIE",
     "arbitres": [
       {
@@ -4138,7 +4734,20 @@
         "niveau": "Fédéral"
       }
     ],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "GUERIN LAETITIA",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "ETIENNE MURIEL",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "AMELINE Lise",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
     "licences_competition": 16,
     "licences_loisir": 2,
     "licences_dirigeant": 0,
@@ -4164,7 +4773,9 @@
     "pourcentage_jeunes": 37.9,
     "nb_arbitres": 0,
     "a_arbitre": false,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Encadrant Fédéral"
+    ],
     "nb_femmes": 12,
     "nb_hommes": 17,
     "nb_para": 0,
@@ -4184,10 +4795,19 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 2,
     "president": "Mme GUERRIER Liliane",
     "arbitres": [],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "GIRARD Philippe",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "PERRION VALERIE",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
     "licences_competition": 11,
     "licences_loisir": 7,
     "licences_dirigeant": 0,
@@ -4214,9 +4834,10 @@
     "nb_arbitres": 3,
     "a_arbitre": true,
     "niveaux_entraineurs": [
-      "DEJEPS",
       "CQP Animateur",
-      "Entraîneur 1"
+      "Entraîneur 1",
+      "Assistant Entraîneur",
+      "Initiateur"
     ],
     "nb_femmes": 26,
     "nb_hommes": 35,
@@ -4239,11 +4860,11 @@
       "Beursault"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 3,
+    "nb_entraineurs": 6,
     "president": "Mme TESSIER Geraldine",
     "arbitres": [
       {
-        "nom": "JACCOU Mado",
+        "nom": "KOELSCH Gregory",
         "niveau": "Fédéral"
       },
       {
@@ -4251,22 +4872,34 @@
         "niveau": "Fédéral"
       },
       {
-        "nom": "KOELSCH Gregory",
+        "nom": "JACCOU Mado",
         "niveau": "Fédéral"
       }
     ],
     "entraineurs": [
       {
-        "nom": "HALNA Denis",
-        "diplome": "DEJEPS"
+        "nom": "TESSIER Geraldine",
+        "diplome": "Entraîneur 1"
       },
       {
         "nom": "GUY Oceane",
         "diplome": "CQP Animateur"
       },
       {
-        "nom": "TESSIER Geraldine",
-        "diplome": "Entraîneur 1"
+        "nom": "MORIN Marie-France",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "MOUCHOLI INGRID",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "DUON Monique",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "JACCOU Mado",
+        "diplome": "Initiateur"
       }
     ],
     "licences_competition": 40,
@@ -4294,7 +4927,9 @@
     "pourcentage_jeunes": 3.3,
     "nb_arbitres": 3,
     "a_arbitre": true,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Encadrant Fédéral"
+    ],
     "nb_femmes": 5,
     "nb_hommes": 25,
     "nb_para": 1,
@@ -4314,13 +4949,9 @@
       "3D"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 1,
     "president": "M TOLLET Didier",
     "arbitres": [
-      {
-        "nom": "DUPAR-RATEL Christine",
-        "niveau": "Fédéral"
-      },
       {
         "nom": "VANNIER MICHEL",
         "niveau": "Fédéral"
@@ -4328,9 +4959,18 @@
       {
         "nom": "NAVEAU PHILIPPE",
         "niveau": "Fédéral"
+      },
+      {
+        "nom": "DUPAR-RATEL Christine",
+        "niveau": "Fédéral"
       }
     ],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "BESSONNET ARNAUD",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
     "licences_competition": 26,
     "licences_loisir": 3,
     "licences_dirigeant": 0,
@@ -4357,6 +4997,7 @@
     "nb_arbitres": 0,
     "a_arbitre": false,
     "niveaux_entraineurs": [
+      "Encadrant Fédéral",
       "Entraîneur 1"
     ],
     "nb_femmes": 25,
@@ -4380,13 +5021,25 @@
       "Beursault"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 1,
+    "nb_entraineurs": 4,
     "president": "Mme THOMAS EMILIE",
     "arbitres": [],
     "entraineurs": [
       {
+        "nom": "LARDON JEROME",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
         "nom": "RATTIER GERARD",
         "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "REIGNER TONY",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "SEMETEY Simon",
+        "diplome": "Encadrant Fédéral"
       }
     ],
     "licences_competition": 39,
@@ -4414,7 +5067,9 @@
     "pourcentage_jeunes": 41.9,
     "nb_arbitres": 2,
     "a_arbitre": true,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Encadrant Fédéral"
+    ],
     "nb_femmes": 17,
     "nb_hommes": 26,
     "nb_para": 1,
@@ -4436,7 +5091,7 @@
       "Beursault"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 2,
     "president": "Mme GONTHIER Eliane",
     "arbitres": [
       {
@@ -4448,7 +5103,16 @@
         "niveau": "Fédéral"
       }
     ],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "GAC Muriel",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "VIGNON Edith",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
     "licences_competition": 14,
     "licences_loisir": 8,
     "licences_dirigeant": 3,
@@ -4475,8 +5139,10 @@
     "nb_arbitres": 2,
     "a_arbitre": true,
     "niveaux_entraineurs": [
-      "Entraîneur Fédéral",
-      "BEES 1"
+      "BEES 1",
+      "Encadrant Fédéral",
+      "Entraîneur 1",
+      "Entraîneur Fédéral"
     ],
     "nb_femmes": 31,
     "nb_hommes": 50,
@@ -4501,7 +5167,7 @@
       "Para"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 2,
+    "nb_entraineurs": 7,
     "president": "Mme LECAS Christine",
     "arbitres": [
       {
@@ -4515,12 +5181,32 @@
     ],
     "entraineurs": [
       {
-        "nom": "THOMAS Michel",
-        "diplome": "BEES 1"
+        "nom": "LECAS GILLES",
+        "diplome": "Encadrant Fédéral"
       },
       {
         "nom": "LECAS Christine",
         "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "THOMAS Michel",
+        "diplome": "BEES 1"
+      },
+      {
+        "nom": "CHANTEUX Marie-Hélène",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "BOUVET Gilles",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "CONAS Nicolas",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "MORICE Philippe",
+        "diplome": "Encadrant Fédéral"
       }
     ],
     "licences_competition": 41,
@@ -4549,6 +5235,7 @@
     "nb_arbitres": 1,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "Encadrant Fédéral",
       "Entraîneur Fédéral"
     ],
     "nb_femmes": 6,
@@ -4570,7 +5257,7 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 1,
+    "nb_entraineurs": 2,
     "president": "Mme BECU Nathalie",
     "arbitres": [
       {
@@ -4582,6 +5269,10 @@
       {
         "nom": "BECU Nathalie",
         "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "CARLIN Laurent",
+        "diplome": "Encadrant Fédéral"
       }
     ],
     "licences_competition": 12,
@@ -4609,7 +5300,9 @@
     "pourcentage_jeunes": 31.0,
     "nb_arbitres": 0,
     "a_arbitre": false,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "DEJEPS"
+    ],
     "nb_femmes": 9,
     "nb_hommes": 20,
     "nb_para": 10,
@@ -4629,10 +5322,15 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 1,
     "president": "M PILON Fabrice",
     "arbitres": [],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "HALNA Denis",
+        "diplome": "DEJEPS"
+      }
+    ],
     "licences_competition": 18,
     "licences_loisir": 1,
     "licences_dirigeant": 1,
@@ -4659,6 +5357,8 @@
     "nb_arbitres": 2,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "Encadrant Club",
+      "Encadrant Fédéral",
       "Entraîneur 1",
       "Entraîneur 2"
     ],
@@ -4689,7 +5389,7 @@
       "Para"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 2,
+    "nb_entraineurs": 5,
     "president": "Mme CHIRON Marina",
     "arbitres": [
       {
@@ -4703,12 +5403,24 @@
     ],
     "entraineurs": [
       {
+        "nom": "CHIRON Marina",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
         "nom": "CHAGNEAU YVELINE",
         "diplome": "Entraîneur 2"
       },
       {
+        "nom": "BLANCHARD Elodie",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
         "nom": "COULON Dominique",
         "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "LEBAS Christophe",
+        "diplome": "Encadrant Club"
       }
     ],
     "licences_competition": 32,
@@ -4823,11 +5535,11 @@
     "arbitres": [],
     "entraineurs": [
       {
-        "nom": "MINVIELLE Laurent",
+        "nom": "TALON Pascal",
         "diplome": "Entraîneur 1"
       },
       {
-        "nom": "TALON Pascal",
+        "nom": "MINVIELLE Laurent",
         "diplome": "Entraîneur 1"
       }
     ],
@@ -4857,6 +5569,7 @@
     "nb_arbitres": 2,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "Initiateur",
       "Entraîneur 1",
       "Entraîneur Fédéral"
     ],
@@ -4879,7 +5592,7 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 4,
+    "nb_entraineurs": 5,
     "president": "Mme FILLON Morgane",
     "arbitres": [
       {
@@ -4895,6 +5608,10 @@
       {
         "nom": "BARIOD Edith",
         "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "PARENT Samuel",
+        "diplome": "Initiateur"
       },
       {
         "nom": "HUMEAU OLIVIER",
@@ -4935,6 +5652,7 @@
     "nb_arbitres": 1,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "Encadrant Fédéral",
       "Entraîneur 1"
     ],
     "nb_femmes": 16,
@@ -4964,7 +5682,7 @@
       "Beursault"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 2,
+    "nb_entraineurs": 5,
     "president": "M PEREIRA Guillaume",
     "arbitres": [
       {
@@ -4974,12 +5692,24 @@
     ],
     "entraineurs": [
       {
-        "nom": "MILLIER Jean-Pol",
-        "diplome": "Entraîneur 1"
+        "nom": "PEREIRA Guillaume",
+        "diplome": "Encadrant Fédéral"
       },
       {
         "nom": "QUIBLIER JEAN-MARCEL",
         "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "PEREDO Stephanie",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "MILLIER Jean-Pol",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "MORAND Olivier",
+        "diplome": "Encadrant Fédéral"
       }
     ],
     "licences_competition": 51,
@@ -5008,9 +5738,9 @@
     "nb_arbitres": 1,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "Entraîneur 1",
       "DEJEPS",
-      "Entraîneur Fédéral",
-      "Entraîneur 1"
+      "Entraîneur Fédéral"
     ],
     "nb_femmes": 15,
     "nb_hommes": 16,
@@ -5045,12 +5775,12 @@
         "diplome": "DEJEPS"
       },
       {
-        "nom": "TEMPLERAUD Herve",
-        "diplome": "Entraîneur 1"
-      },
-      {
         "nom": "BUITRAGO JOLLY Maria",
         "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "TEMPLERAUD Herve",
+        "diplome": "Entraîneur 1"
       }
     ],
     "licences_competition": 10,
@@ -5079,7 +5809,9 @@
     "nb_arbitres": 1,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "Encadrant Fédéral",
       "Entraîneur 1",
+      "Assistant Entraîneur",
       "Entraîneur Fédéral"
     ],
     "nb_femmes": 34,
@@ -5107,7 +5839,7 @@
       "Para"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 2,
+    "nb_entraineurs": 11,
     "president": "Mme ALLAIN HELENE",
     "arbitres": [
       {
@@ -5117,12 +5849,48 @@
     ],
     "entraineurs": [
       {
+        "nom": "ALLAIN HELENE",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
         "nom": "POUPET MICHEL",
         "diplome": "Entraîneur 1"
       },
       {
+        "nom": "MARTIN Cedric",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "COUPRIE BENOIT",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "BOUCHER Amaury",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "ROUILLE Amandine",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "AREVIAN EDOUARD",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "UCKMAN ALEXIS",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "RABREAU Franck",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
         "nom": "RABREAU DANY",
         "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "GUIBERT DOMINIQUE",
+        "diplome": "Encadrant Fédéral"
       }
     ],
     "licences_competition": 60,
@@ -5150,7 +5918,11 @@
     "pourcentage_jeunes": 49.3,
     "nb_arbitres": 3,
     "a_arbitre": true,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Encadrant Fédéral",
+      "Entraîneur 1",
+      "Assistant Entraîneur"
+    ],
     "nb_femmes": 24,
     "nb_hommes": 43,
     "nb_para": 10,
@@ -5172,9 +5944,13 @@
       "Campagne"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 5,
     "president": "M CONSTANTIN JEAN-MICHEL",
     "arbitres": [
+      {
+        "nom": "HUAULME Lucas",
+        "niveau": "Jeune"
+      },
       {
         "nom": "CONSTANTIN JEAN-MICHEL",
         "niveau": "Fédéral"
@@ -5182,13 +5958,30 @@
       {
         "nom": "JOUSSEMET EMMANUEL",
         "niveau": "Fédéral"
-      },
-      {
-        "nom": "HUAULME Lucas",
-        "niveau": "Jeune"
       }
     ],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "GUERINEAU CATHERINE",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "HUAULME Samuel",
+        "diplome": "Assistant Entraîneur"
+      },
+      {
+        "nom": "CONSTANTIN ALIZEE",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "CONSTANTIN Mylene",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "BOBIN DANIELLE",
+        "diplome": "Assistant Entraîneur"
+      }
+    ],
     "licences_competition": 28,
     "licences_loisir": 5,
     "licences_dirigeant": 1,
@@ -5214,7 +6007,10 @@
     "pourcentage_jeunes": 40.4,
     "nb_arbitres": 2,
     "a_arbitre": true,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Initiateur",
+      "Encadrant Fédéral"
+    ],
     "nb_femmes": 17,
     "nb_hommes": 35,
     "nb_para": 0,
@@ -5234,7 +6030,7 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 4,
     "president": "M HILAIRE Joris",
     "arbitres": [
       {
@@ -5246,7 +6042,24 @@
         "niveau": "Jeune"
       }
     ],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "BERENGUER Roger",
+        "diplome": "Initiateur"
+      },
+      {
+        "nom": "LUCAS David",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "GILOUPPE Etania",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "FIGUREAU Jonathan",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
     "licences_competition": 19,
     "licences_loisir": 11,
     "licences_dirigeant": 1,
@@ -5311,12 +6124,12 @@
     ],
     "entraineurs": [
       {
-        "nom": "LEGUY Robin",
-        "diplome": "Entraîneur Fédéral"
-      },
-      {
         "nom": "FONTENELLE Patrick",
         "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "LEGUY Robin",
+        "diplome": "Entraîneur Fédéral"
       }
     ],
     "licences_competition": 19,
@@ -5344,7 +6157,9 @@
     "pourcentage_jeunes": 20.4,
     "nb_arbitres": 0,
     "a_arbitre": false,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Initiateur"
+    ],
     "nb_femmes": 13,
     "nb_hommes": 36,
     "nb_para": 1,
@@ -5364,10 +6179,15 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 1,
     "president": "M LEROY Jean-Jacques",
     "arbitres": [],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "CHALIGNE Olivier",
+        "diplome": "Initiateur"
+      }
+    ],
     "licences_competition": 12,
     "licences_loisir": 27,
     "licences_dirigeant": 0,
@@ -5393,7 +6213,9 @@
     "pourcentage_jeunes": 34.8,
     "nb_arbitres": 0,
     "a_arbitre": false,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Encadrant Fédéral"
+    ],
     "nb_femmes": 25,
     "nb_hommes": 44,
     "nb_para": 7,
@@ -5419,10 +6241,15 @@
       "3D"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 1,
     "president": "Mme LE REUN Gwenola",
     "arbitres": [],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "BONNIN CLEMENCE",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
     "licences_competition": 20,
     "licences_loisir": 25,
     "licences_dirigeant": 0,
@@ -5449,6 +6276,7 @@
     "nb_arbitres": 3,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "Encadrant Fédéral",
       "Entraîneur 1"
     ],
     "nb_femmes": 13,
@@ -5476,16 +6304,16 @@
       "3D"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 2,
+    "nb_entraineurs": 3,
     "president": "M PAILLAT FREDERIC",
     "arbitres": [
       {
-        "nom": "PAILLAT Emmanuel",
-        "niveau": "Formateur"
-      },
-      {
         "nom": "BOURASSEAU Jeremy",
         "niveau": "Fédéral"
+      },
+      {
+        "nom": "PAILLAT Emmanuel",
+        "niveau": "Formateur"
       },
       {
         "nom": "DEVAUTOUR Sarah",
@@ -5500,6 +6328,10 @@
       {
         "nom": "PAILLAT Emmanuel",
         "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "MORIN DOMINIQUE",
+        "diplome": "Encadrant Fédéral"
       }
     ],
     "licences_competition": 16,
@@ -5525,9 +6357,12 @@
     "logo_url": "logos/club_1285129.png",
     "licences_total": 23,
     "pourcentage_jeunes": 30.4,
-    "nb_arbitres": 0,
-    "a_arbitre": false,
-    "niveaux_entraineurs": [],
+    "nb_arbitres": 1,
+    "a_arbitre": true,
+    "niveaux_entraineurs": [
+      "Encadrant Fédéral",
+      "Entraîneur 1"
+    ],
     "nb_femmes": 7,
     "nb_hommes": 16,
     "nb_para": 0,
@@ -5547,10 +6382,36 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 5,
     "president": "M AUGUIN BENOIT",
-    "arbitres": [],
-    "entraineurs": [],
+    "arbitres": [
+      {
+        "nom": "DEVANNE JEROME",
+        "niveau": "Fédéral"
+      }
+    ],
+    "entraineurs": [
+      {
+        "nom": "AUGUIN BENOIT",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "HULLIN Bruno",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "DEVANNE JEROME",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "LANGLOIS Amelie",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "GREINER JOCELYN",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
     "licences_competition": 9,
     "licences_loisir": 7,
     "licences_dirigeant": 0,
@@ -5629,7 +6490,10 @@
     "pourcentage_jeunes": 13.9,
     "nb_arbitres": 1,
     "a_arbitre": true,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Initiateur",
+      "Encadrant Fédéral"
+    ],
     "nb_femmes": 11,
     "nb_hommes": 25,
     "nb_para": 1,
@@ -5647,7 +6511,7 @@
       "Salle"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 3,
     "president": "M GAUTIER Hubert",
     "arbitres": [
       {
@@ -5655,7 +6519,20 @@
         "niveau": "Fédéral"
       }
     ],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "DUFOUR Mary Lise",
+        "diplome": "Initiateur"
+      },
+      {
+        "nom": "YVON Frédéric",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "CADOT Cyril",
+        "diplome": "Initiateur"
+      }
+    ],
     "licences_competition": 28,
     "licences_loisir": 3,
     "licences_dirigeant": 0,
@@ -5682,9 +6559,11 @@
     "nb_arbitres": 1,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "Initiateur",
       "DEJEPS",
+      "Entraîneur 1",
       "Entraîneur Fédéral",
-      "CQP Animateur"
+      "Encadrant Fédéral"
     ],
     "nb_femmes": 55,
     "nb_hommes": 92,
@@ -5715,7 +6594,7 @@
       "Run Archery"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 4,
+    "nb_entraineurs": 13,
     "president": "Mme GAUTIER Christelle",
     "arbitres": [
       {
@@ -5725,20 +6604,56 @@
     ],
     "entraineurs": [
       {
+        "nom": "GAUTIER Christelle",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
         "nom": "BICHARD Catherine",
         "diplome": "DEJEPS"
       },
       {
+        "nom": "BATARD FRANCOIS",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
         "nom": "DUFEU Elisabeth",
-        "diplome": "CQP Animateur"
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "BOISSEAU Huguette",
+        "diplome": "Encadrant Fédéral"
       },
       {
         "nom": "VALERIUS DE BEFFORT FLORENCE",
         "diplome": "Entraîneur Fédéral"
       },
       {
-        "nom": "GAUTIER Christelle",
-        "diplome": "Entraîneur Fédéral"
+        "nom": "DEHIERE Alain",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "BARRETEAU Jean Claude",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "DEBRY Sylvain",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "ROSSI Janine",
+        "diplome": "Initiateur"
+      },
+      {
+        "nom": "POUPON Sebastien",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "CHAIGNEAU Dominique",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "HUCHET Paul",
+        "diplome": "Encadrant Fédéral"
       }
     ],
     "licences_competition": 99,
@@ -5767,9 +6682,10 @@
     "nb_arbitres": 3,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "CQP Animateur",
+      "Encadrant Fédéral",
       "Entraîneur 1",
-      "Entraîneur Fédéral",
-      "CQP Animateur"
+      "Entraîneur Fédéral"
     ],
     "nb_femmes": 29,
     "nb_hommes": 61,
@@ -5792,7 +6708,7 @@
       "Para"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 5,
+    "nb_entraineurs": 6,
     "president": "M GRUDE Pascal",
     "arbitres": [
       {
@@ -5810,20 +6726,24 @@
     ],
     "entraineurs": [
       {
+        "nom": "GRUDE-DELAROUX Pierre",
+        "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "EISENBETH Michael",
+        "diplome": "Entraîneur Fédéral"
+      },
+      {
+        "nom": "PRIOUX Jean Luc",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
         "nom": "JUNKER Guillaume",
         "diplome": "Entraîneur Fédéral"
       },
       {
         "nom": "JEANNEAU Michel",
         "diplome": "Entraîneur 1"
-      },
-      {
-        "nom": "GRUDE-DELAROUX Pierre",
-        "diplome": "Entraîneur 1"
-      },
-      {
-        "nom": "EISENBETH Michael",
-        "diplome": "CQP Animateur"
       },
       {
         "nom": "BEGOC Anne-Gaelle",
@@ -5856,6 +6776,7 @@
     "nb_arbitres": 1,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "Encadrant Fédéral",
       "Entraîneur 1",
       "Entraîneur Fédéral",
       "Entraîneur 2"
@@ -5879,7 +6800,7 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 3,
+    "nb_entraineurs": 4,
     "president": "M BREBANT Maurice",
     "arbitres": [
       {
@@ -5891,6 +6812,10 @@
       {
         "nom": "PLANCKEEL Paul",
         "diplome": "Entraîneur 1"
+      },
+      {
+        "nom": "MASSICOT Jean Pierre",
+        "diplome": "Encadrant Fédéral"
       },
       {
         "nom": "BREBANT Maurice",
@@ -5926,7 +6851,10 @@
     "pourcentage_jeunes": 36.0,
     "nb_arbitres": 1,
     "a_arbitre": true,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Initiateur",
+      "Encadrant Club"
+    ],
     "nb_femmes": 16,
     "nb_hommes": 34,
     "nb_para": 0,
@@ -5946,7 +6874,7 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 3,
     "president": "M AMIOT Serge",
     "arbitres": [
       {
@@ -5954,7 +6882,20 @@
         "niveau": "Fédéral"
       }
     ],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "GOBIN FABRICE",
+        "diplome": "Initiateur"
+      },
+      {
+        "nom": "VANDENBUSSCHE LUDOVIC",
+        "diplome": "Initiateur"
+      },
+      {
+        "nom": "ROUSSEL Marin",
+        "diplome": "Encadrant Club"
+      }
+    ],
     "licences_competition": 18,
     "licences_loisir": 13,
     "licences_dirigeant": 1,
@@ -5981,6 +6922,7 @@
     "nb_arbitres": 1,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "Encadrant Fédéral",
       "Entraîneur 2"
     ],
     "nb_femmes": 11,
@@ -6004,7 +6946,7 @@
       "Campagne"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 1,
+    "nb_entraineurs": 2,
     "president": "Mme HOARAU-ECLAPIER DIANE",
     "arbitres": [
       {
@@ -6016,6 +6958,10 @@
       {
         "nom": "DEPIETS Michel",
         "diplome": "Entraîneur 2"
+      },
+      {
+        "nom": "GIET Pascal",
+        "diplome": "Encadrant Fédéral"
       }
     ],
     "licences_competition": 22,
@@ -6043,7 +6989,9 @@
     "pourcentage_jeunes": 23.6,
     "nb_arbitres": 0,
     "a_arbitre": false,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Encadrant Fédéral"
+    ],
     "nb_femmes": 19,
     "nb_hommes": 36,
     "nb_para": 1,
@@ -6069,10 +7017,15 @@
       "Para"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 1,
     "president": "M POIRAUD Lionel",
     "arbitres": [],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "POIRAUD Lionel",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
     "licences_competition": 11,
     "licences_loisir": 31,
     "licences_dirigeant": 0,
@@ -6170,7 +7123,8 @@
     "nb_arbitres": 3,
     "a_arbitre": true,
     "niveaux_entraineurs": [
-      "BEES 1"
+      "BEES 1",
+      "Initiateur"
     ],
     "nb_femmes": 1,
     "nb_hommes": 11,
@@ -6197,15 +7151,15 @@
       "3D"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 1,
+    "nb_entraineurs": 2,
     "president": "M LAPKINE Pascal",
     "arbitres": [
       {
-        "nom": "RABALLAND Gael",
+        "nom": "LAPKINE Pascal",
         "niveau": "Fédéral"
       },
       {
-        "nom": "LAPKINE Pascal",
+        "nom": "RABALLAND Gael",
         "niveau": "Fédéral"
       },
       {
@@ -6217,6 +7171,10 @@
       {
         "nom": "SALESSE Yves",
         "diplome": "BEES 1"
+      },
+      {
+        "nom": "BELLOIR Alain",
+        "diplome": "Initiateur"
       }
     ],
     "licences_competition": 8,
@@ -6244,7 +7202,9 @@
     "pourcentage_jeunes": 23.1,
     "nb_arbitres": 1,
     "a_arbitre": true,
-    "niveaux_entraineurs": [],
+    "niveaux_entraineurs": [
+      "Encadrant Fédéral"
+    ],
     "nb_femmes": 5,
     "nb_hommes": 8,
     "nb_para": 0,
@@ -6264,7 +7224,7 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 0,
+    "nb_entraineurs": 2,
     "president": "LECOMTE Dimitri",
     "arbitres": [
       {
@@ -6272,7 +7232,16 @@
         "niveau": "Fédéral"
       }
     ],
-    "entraineurs": [],
+    "entraineurs": [
+      {
+        "nom": "LECOMTE Dimitri",
+        "diplome": "Encadrant Fédéral"
+      },
+      {
+        "nom": "LECOMTE DOMINIQUE",
+        "diplome": "Encadrant Fédéral"
+      }
+    ],
     "licences_competition": 5,
     "licences_loisir": 5,
     "licences_dirigeant": 0,
