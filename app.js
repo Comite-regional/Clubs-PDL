@@ -172,9 +172,9 @@ function renderPanel(c) {
 
         ${c.arbitres?.length ? (() => {
             const ARBITRE_CONFIG = {
-                'Arbitre Formateur': { short: 'FORMATEUR', color: '#7c3aed' },
-                'Arbitre Fédéral':   { short: 'FÉDÉRAL',   color: '#2563eb' },
-                'Jeune Arbitre':     { short: 'JEUNE ARB.', color: '#059669' },
+                'Formateur': { short: 'FORMATEUR', color: '#7c3aed' },
+                'Fédéral':   { short: 'FÉDÉRAL',   color: '#2563eb' },
+                'Jeune':     { short: 'JEUNE ARB.', color: '#059669' },
             };
             const counts = {};
             c.arbitres.forEach(a => {

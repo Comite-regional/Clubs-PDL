@@ -170,8 +170,6 @@
     "a_arbitre": true,
     "niveaux_entraineurs": [
       "DEJEPS",
-      "Poussins",
-      "Formation complémentaire de E1 à EF",
       "Entraîneur Fédéral"
     ],
     "nb_femmes": 26,
@@ -195,7 +193,7 @@
       "Beursault"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 5,
+    "nb_entraineurs": 2,
     "president": "M GUIET PHILIPPE",
     "arbitres": [
       {
@@ -209,20 +207,8 @@
     ],
     "entraineurs": [
       {
-        "nom": "NAUD SANDRA",
-        "diplome": "Formation complémentaire de E1 à EF"
-      },
-      {
         "nom": "AIRAUD STEPHANE",
         "diplome": "DEJEPS"
-      },
-      {
-        "nom": "CHERHAL Fanch",
-        "diplome": "Poussins"
-      },
-      {
-        "nom": "NAUD PATRICK",
-        "diplome": "Formation complémentaire de E1 à EF"
       },
       {
         "nom": "DELAPORTE Kevin",
@@ -489,9 +475,9 @@
     "nb_arbitres": 4,
     "a_arbitre": true,
     "niveaux_entraineurs": [
-      "Entraîneur 2",
       "Entraîneur Fédéral",
-      "BEES 1"
+      "BEES 1",
+      "Entraîneur 2"
     ],
     "nb_femmes": 59,
     "nb_hommes": 112,
@@ -641,9 +627,7 @@
     "pourcentage_jeunes": 35.9,
     "nb_arbitres": 0,
     "a_arbitre": false,
-    "niveaux_entraineurs": [
-      "Test pré-requis"
-    ],
+    "niveaux_entraineurs": [],
     "nb_femmes": 17,
     "nb_hommes": 47,
     "nb_para": 0,
@@ -665,15 +649,10 @@
       "Campagne"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 1,
+    "nb_entraineurs": 0,
     "president": "M ARNAUD Julien",
     "arbitres": [],
-    "entraineurs": [
-      {
-        "nom": "ETOURNEAU KEVIN",
-        "diplome": "Test pré-requis"
-      }
-    ],
+    "entraineurs": [],
     "licences_competition": 40,
     "licences_loisir": 1,
     "licences_dirigeant": 0,
@@ -1294,7 +1273,6 @@
     "nb_arbitres": 0,
     "a_arbitre": false,
     "niveaux_entraineurs": [
-      "Formation complémentaire de E1 à EF",
       "Entraîneur Fédéral"
     ],
     "nb_femmes": 31,
@@ -1318,14 +1296,10 @@
       "3D"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 3,
+    "nb_entraineurs": 2,
     "president": "M MARCHAND Alexis",
     "arbitres": [],
     "entraineurs": [
-      {
-        "nom": "BONNAND Jean-Marie",
-        "diplome": "Formation complémentaire de E1 à EF"
-      },
       {
         "nom": "ARCHER Antoine",
         "diplome": "Entraîneur Fédéral"
@@ -1490,8 +1464,7 @@
     "nb_arbitres": 0,
     "a_arbitre": false,
     "niveaux_entraineurs": [
-      "Entraîneur 1",
-      "Formation continue Arc nu"
+      "Entraîneur 1"
     ],
     "nb_femmes": 5,
     "nb_hommes": 8,
@@ -1524,17 +1497,13 @@
       "Run Archery"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 2,
+    "nb_entraineurs": 1,
     "president": "M BOMPOIL NICOLAS",
     "arbitres": [],
     "entraineurs": [
       {
         "nom": "BOMPOIL Nicolas",
         "diplome": "Entraîneur 1"
-      },
-      {
-        "nom": "MORICEAU Serge",
-        "diplome": "Formation continue Arc nu"
       }
     ],
     "licences_competition": 8,
@@ -1888,9 +1857,9 @@
     "nb_arbitres": 4,
     "a_arbitre": true,
     "niveaux_entraineurs": [
-      "Entraîneur 2",
       "Entraîneur 1",
-      "Entraîneur Fédéral"
+      "Entraîneur Fédéral",
+      "Entraîneur 2"
     ],
     "nb_femmes": 27,
     "nb_hommes": 34,
@@ -1981,9 +1950,9 @@
     "nb_arbitres": 2,
     "a_arbitre": true,
     "niveaux_entraineurs": [
-      "Entraîneur 2",
       "Entraîneur 1",
-      "Entraîneur Fédéral"
+      "Entraîneur Fédéral",
+      "Entraîneur 2"
     ],
     "nb_femmes": 34,
     "nb_hommes": 86,
@@ -2203,8 +2172,7 @@
     "nb_arbitres": 2,
     "a_arbitre": true,
     "niveaux_entraineurs": [
-      "Entraîneur 1",
-      "Formation complémentaire de E1 à EF"
+      "Entraîneur 1"
     ],
     "nb_femmes": 43,
     "nb_hommes": 65,
@@ -2231,7 +2199,7 @@
       "3D"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 3,
+    "nb_entraineurs": 2,
     "president": "Mme PANTAIS Emilie",
     "arbitres": [
       {
@@ -2251,10 +2219,6 @@
       {
         "nom": "BOUTREUX MICHEL",
         "diplome": "Entraîneur 1"
-      },
-      {
-        "nom": "PANTAIS Emilie",
-        "diplome": "Formation complémentaire de E1 à EF"
       }
     ],
     "licences_competition": 69,
@@ -2283,9 +2247,9 @@
     "nb_arbitres": 2,
     "a_arbitre": true,
     "niveaux_entraineurs": [
-      "Entraîneur 2",
       "Entraîneur 1",
-      "Entraîneur Fédéral"
+      "Entraîneur Fédéral",
+      "Entraîneur 2"
     ],
     "nb_femmes": 27,
     "nb_hommes": 48,
@@ -2679,8 +2643,8 @@
     "a_arbitre": true,
     "niveaux_entraineurs": [
       "Entraîneur 1",
-      "BEES 1",
-      "Entraîneur Fédéral"
+      "Entraîneur Fédéral",
+      "BEES 1"
     ],
     "nb_femmes": 28,
     "nb_hommes": 43,
@@ -2984,9 +2948,7 @@
     "pourcentage_jeunes": 43.8,
     "nb_arbitres": 0,
     "a_arbitre": false,
-    "niveaux_entraineurs": [
-      "Formation complémentaire de E1 à EF"
-    ],
+    "niveaux_entraineurs": [],
     "nb_femmes": 9,
     "nb_hommes": 7,
     "nb_para": 0,
@@ -3006,15 +2968,10 @@
       "TAE"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 1,
+    "nb_entraineurs": 0,
     "president": "Mme CARON Sandie",
     "arbitres": [],
-    "entraineurs": [
-      {
-        "nom": "CARON Sandy",
-        "diplome": "Formation complémentaire de E1 à EF"
-      }
-    ],
+    "entraineurs": [],
     "licences_competition": 4,
     "licences_loisir": 4,
     "licences_dirigeant": 1,
@@ -3041,9 +2998,9 @@
     "nb_arbitres": 4,
     "a_arbitre": true,
     "niveaux_entraineurs": [
+      "Entraîneur Fédéral",
       "Entraîneur 2",
-      "Initiateur",
-      "Entraîneur Fédéral"
+      "Initiateur"
     ],
     "nb_femmes": 14,
     "nb_hommes": 47,
@@ -4257,9 +4214,9 @@
     "nb_arbitres": 3,
     "a_arbitre": true,
     "niveaux_entraineurs": [
-      "Entraîneur 1",
+      "DEJEPS",
       "CQP Animateur",
-      "DEJEPS"
+      "Entraîneur 1"
     ],
     "nb_femmes": 26,
     "nb_hommes": 35,
@@ -4702,9 +4659,8 @@
     "nb_arbitres": 2,
     "a_arbitre": true,
     "niveaux_entraineurs": [
-      "Entraîneur 2",
       "Entraîneur 1",
-      "Test pré-requis"
+      "Entraîneur 2"
     ],
     "nb_femmes": 23,
     "nb_hommes": 32,
@@ -4733,7 +4689,7 @@
       "Para"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 3,
+    "nb_entraineurs": 2,
     "president": "Mme CHIRON Marina",
     "arbitres": [
       {
@@ -4749,10 +4705,6 @@
       {
         "nom": "CHAGNEAU YVELINE",
         "diplome": "Entraîneur 2"
-      },
-      {
-        "nom": "HERBRETEAU ALEXANDRE",
-        "diplome": "Test pré-requis"
       },
       {
         "nom": "COULON Dominique",
@@ -4983,8 +4935,7 @@
     "nb_arbitres": 1,
     "a_arbitre": true,
     "niveaux_entraineurs": [
-      "Entraîneur 1",
-      "Arc à Poulies"
+      "Entraîneur 1"
     ],
     "nb_femmes": 16,
     "nb_hommes": 44,
@@ -5013,7 +4964,7 @@
       "Beursault"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 3,
+    "nb_entraineurs": 2,
     "president": "M PEREIRA Guillaume",
     "arbitres": [
       {
@@ -5022,10 +4973,6 @@
       }
     ],
     "entraineurs": [
-      {
-        "nom": "GALLET JOSEPH",
-        "diplome": "Arc à Poulies"
-      },
       {
         "nom": "MILLIER Jean-Pol",
         "diplome": "Entraîneur 1"
@@ -5061,9 +5008,9 @@
     "nb_arbitres": 1,
     "a_arbitre": true,
     "niveaux_entraineurs": [
-      "Entraîneur 1",
       "DEJEPS",
-      "Entraîneur Fédéral"
+      "Entraîneur Fédéral",
+      "Entraîneur 1"
     ],
     "nb_femmes": 15,
     "nb_hommes": 16,
@@ -5133,7 +5080,6 @@
     "a_arbitre": true,
     "niveaux_entraineurs": [
       "Entraîneur 1",
-      "Formation complémentaire de E1 à EF",
       "Entraîneur Fédéral"
     ],
     "nb_femmes": 34,
@@ -5161,7 +5107,7 @@
       "Para"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 3,
+    "nb_entraineurs": 2,
     "president": "Mme ALLAIN HELENE",
     "arbitres": [
       {
@@ -5170,10 +5116,6 @@
       }
     ],
     "entraineurs": [
-      {
-        "nom": "UCKMAN ALEXIS",
-        "diplome": "Formation complémentaire de E1 à EF"
-      },
       {
         "nom": "POUPET MICHEL",
         "diplome": "Entraîneur 1"
@@ -5208,9 +5150,7 @@
     "pourcentage_jeunes": 49.3,
     "nb_arbitres": 3,
     "a_arbitre": true,
-    "niveaux_entraineurs": [
-      "Formation complémentaire de E1 à EF"
-    ],
+    "niveaux_entraineurs": [],
     "nb_femmes": 24,
     "nb_hommes": 43,
     "nb_para": 10,
@@ -5232,7 +5172,7 @@
       "Campagne"
     ],
     "discipline_principale": null,
-    "nb_entraineurs": 1,
+    "nb_entraineurs": 0,
     "president": "M CONSTANTIN JEAN-MICHEL",
     "arbitres": [
       {
@@ -5248,12 +5188,7 @@
         "niveau": "Jeune"
       }
     ],
-    "entraineurs": [
-      {
-        "nom": "CONSTANTIN Mylene",
-        "diplome": "Formation complémentaire de E1 à EF"
-      }
-    ],
+    "entraineurs": [],
     "licences_competition": 28,
     "licences_loisir": 5,
     "licences_dirigeant": 1,
@@ -5747,9 +5682,9 @@
     "nb_arbitres": 1,
     "a_arbitre": true,
     "niveaux_entraineurs": [
-      "CQP Animateur",
       "DEJEPS",
-      "Entraîneur Fédéral"
+      "Entraîneur Fédéral",
+      "CQP Animateur"
     ],
     "nb_femmes": 55,
     "nb_hommes": 92,
@@ -5833,8 +5768,8 @@
     "a_arbitre": true,
     "niveaux_entraineurs": [
       "Entraîneur 1",
-      "CQP Animateur",
-      "Entraîneur Fédéral"
+      "Entraîneur Fédéral",
+      "CQP Animateur"
     ],
     "nb_femmes": 29,
     "nb_hommes": 61,
@@ -5921,9 +5856,9 @@
     "nb_arbitres": 1,
     "a_arbitre": true,
     "niveaux_entraineurs": [
-      "Entraîneur 2",
       "Entraîneur 1",
-      "Entraîneur Fédéral"
+      "Entraîneur Fédéral",
+      "Entraîneur 2"
     ],
     "nb_femmes": 11,
     "nb_hommes": 24,
